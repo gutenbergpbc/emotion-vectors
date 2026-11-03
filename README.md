@@ -6,16 +6,16 @@ It gives independent commands; there is no full-reproduction coordinator.
 
 ```bash
 uv sync --locked --group dev
-uv run python tools/artifacts.py fetch --category datasets --from dist
-uv run python tools/artifacts.py fetch --category probes --from dist
+uv run python tools/artifacts.py fetch --category datasets
+uv run python tools/artifacts.py fetch --category probes
 uv run python src/experiments/emotion-probes/run.py --config configs/gemma4b/probes.json --dry-run
 ```
 
-`--from dist` uses the locally prepared release archives. For a published release,
-replace it with `--base-url https://github.com/gutenbergpbc/emotion-vectors/releases/download/TAG`.
-The archive checksums and paths are in `manifests/releases.json`. Prepared archives
-are separate from Git history and must be attached to a release before public
-downloads work. Already materialized files are verified and reused.
+Download links are recorded in `manifests/releases.json` and point to
+[release v0.1.0](https://github.com/gutenbergpbc/emotion-vectors/releases/tag/v0.1.0). The release contains datasets, selected probes,
+text traces, results, and `SHA256SUMS`. Already materialized files are verified
+and reused. To restore from locally downloaded archives instead, add
+`--from dist` to a fetch command.
 
 ## Experiments
 

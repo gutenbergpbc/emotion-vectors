@@ -8,14 +8,14 @@ results; fresh generations and judge calls define a new realization.
 
 ```bash
 uv sync --locked --group dev
-uv run python tools/artifacts.py fetch --category datasets --from dist
-uv run python tools/artifacts.py fetch --category probes --from dist
-uv run python tools/artifacts.py fetch --category traces --from dist
-uv run python tools/artifacts.py fetch --category results --from dist
+uv run python tools/artifacts.py fetch --category datasets
+uv run python tools/artifacts.py fetch --category probes
+uv run python tools/artifacts.py fetch --category traces
+uv run python tools/artifacts.py fetch --category results
 ```
 
-For remote downloads use the release base URL in place of `--from dist` (see the
-root README). The current checkout already has materialized inputs. Set `HF_TOKEN`
+Default downloads use the URLs in `manifests/releases.json` for release v0.1.0.
+For locally downloaded archives, add `--from dist`. Set `HF_TOKEN`
 in your environment after accepting the Gemma checkpoint terms. Modal commands
 use your own authenticated account and create empty durable caches when needed.
 API collection/judging uses `OPENROUTER_API_KEY`. Keep credentials outside Git.
@@ -158,7 +158,7 @@ are included, but they are not additional Gemma 4B reproduction commands.
 ## Obtain all published results
 
 ```bash
-uv run python tools/artifacts.py fetch --category results --from dist
+uv run python tools/artifacts.py fetch --category results
 uv run python tools/artifacts.py verify --category results
 uv run python tools/results.py
 ```

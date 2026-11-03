@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "published": false,
+  "published": true,
   "assets": [
     {
       "name": "probes-v1-001.tar.gz",
@@ -33,7 +33,7 @@
         "data/probes/qwen35-9b/selected-12.json",
         "data/probes/qwen35-9b/vectors.npz"
       ],
-      "url": null
+      "url": "https://github.com/gutenbergpbc/emotion-vectors/releases/download/v0.1.0/probes-v1-001.tar.gz"
     },
     {
       "name": "traces-v1-001.tar.gz",
@@ -3736,7 +3736,7 @@
         "runs/emotion-self-report/gemma3-4b-coding-visible-code-endpoints-20261022-v3/config.resolved.json",
         "runs/emotion-self-report/gemma3-4b-coding-visible-code-endpoints-20261022-v3/ratings.json"
       ],
-      "url": null
+      "url": "https://github.com/gutenbergpbc/emotion-vectors/releases/download/v0.1.0/traces-v1-001.tar.gz"
     },
     {
       "name": "traces-v1-002.tar.gz",
@@ -17176,7 +17176,7 @@
         "runs/gptoss120b-emotion-denial-lowreason-20261027/traces/named/sales/neutral/0031.json",
         "runs/gptoss120b-emotion-denial-lowreason-20261027/traces/named/sales/neutral/0032.json"
       ],
-      "url": null
+      "url": "https://github.com/gutenbergpbc/emotion-vectors/releases/download/v0.1.0/traces-v1-002.tar.gz"
     },
     {
       "name": "results-v1-001.tar.gz",
@@ -17791,7 +17791,7 @@
         "results/paper/task-average-emotion-traces-20261027/guilty-task-averages.png",
         "results/paper/task-average-emotion-traces-20261027/guilty-task-averages.svg"
       ],
-      "url": null
+      "url": "https://github.com/gutenbergpbc/emotion-vectors/releases/download/v0.1.0/results-v1-001.tar.gz"
     },
     {
       "name": "datasets-v1-001.tar.gz",
@@ -18116,7 +18116,7 @@
         "data/tasks/coding-source.json",
         "data/tasks/sales-source.json"
       ],
-      "url": null
+      "url": "https://github.com/gutenbergpbc/emotion-vectors/releases/download/v0.1.0/datasets-v1-001.tar.gz"
     }
   ]
 }

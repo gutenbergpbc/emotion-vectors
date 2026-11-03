@@ -34,5 +34,7 @@ are recorded in `manifests/catalog-coverage.json`. The primary frozen training,
 evaluation and split files are present and verified. Two stale corpus references
 were resolved to their actual preserved sources with resolution notes.
 
-Release archives are prepared locally in `dist/` and are not yet attached to a
-public release. `manifests/releases.json` deliberately has no public URLs.
+Release v0.1.0 provides all five artifact archives and `SHA256SUMS`. The release
+manifest contains direct download URLs. Before upload, all five archive sizes,
+SHA-256 digests and member lists were checked against the manifest. Local copies
+remain under ignored `dist/`.

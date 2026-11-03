@@ -72,9 +72,10 @@ and records catalog gaps. The packager uses the explicit manifest, splits archiv
 into bounded shards, sets deterministic archive metadata, and rejects arrays
 outside the probe category. It never archives an entire local run directory.
 
-Archives are prepared in ignored `dist/`. `manifests/releases.json` has null URLs
-until publication; there are no invented public links. After choosing a tag, run
-the packager with `--base-url` for that release and upload the exact archives.
+Archives are prepared in ignored `dist/`. The initial artifact release is
+[v0.1.0](https://github.com/gutenbergpbc/emotion-vectors/releases/tag/v0.1.0); `manifests/releases.json` contains direct download URLs.
+For a new release, run the packager with `--base-url` for its tag and upload the
+exact archives. Without `--base-url`, newly prepared manifests have null URLs.
 The fetcher verifies archive and member hashes, rejects links/path traversal and
 refuses to overwrite changed local artifacts. A release tag should bind code,
 manifests, and archive versions together.
