@@ -1,0 +1,23 @@
+{
+  "experiment": "emotion-steering",
+  "run_id": "glm-5.3-nvfp4-sales-steering-pilot-v1",
+  "model": "glm-5.3-nvfp4",
+  "dataset": "../src/experiments/emotion-steering/data/sales-smoke.json",
+  "probe_bundle": "../data/probes/glm53",
+  "emotions": [
+    "guilty"
+  ],
+  "strengths": [
+    -0.1,
+    0.1
+  ],
+  "samples": 1,
+  "executor": "modal",
+  "max_new_tokens": 8192,
+  "max_turns": 8,
+  "temperature": 0.8,
+  "top_p": 0.95,
+  "seed": 20261021,
+  "judge_workers": 8,
+  "compare_legacy_judge": false
+}

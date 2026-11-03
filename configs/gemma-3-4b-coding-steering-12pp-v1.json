@@ -1,0 +1,33 @@
+{
+  "experiment": "emotion-steering",
+  "run_id": "gemma-3-4b-coding-steering-12pp-v1",
+  "model": "gemma-3-4b",
+  "dataset": "../src/experiments/emotion-steering/data/coding.json",
+  "probe_bundle": "../data/probes/gemma4b",
+  "emotions": [
+    "hostile",
+    "frustrated",
+    "excited",
+    "appreciative",
+    "sad",
+    "afraid",
+    "surprised",
+    "anxious",
+    "guilty",
+    "ashamed",
+    "desperate",
+    "calm"
+  ],
+  "strengths": [
+    -0.1,
+    -0.05,
+    0.05,
+    0.1
+  ],
+  "samples": 4,
+  "executor": "modal",
+  "max_new_tokens": 4096,
+  "max_turns": 8,
+  "judge_workers": 8,
+  "batch_size": 12
+}

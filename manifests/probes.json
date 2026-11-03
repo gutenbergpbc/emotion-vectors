@@ -1,0 +1,524 @@
+[
+  {
+    "id": "gemma4b",
+    "path": "data/probes/gemma4b",
+    "model": {
+      "revision": "093f9f388b31de276ce2de164bdc2081324b9767",
+      "tokenizer_model": "google/gemma-3-4b-it",
+      "tokenizer_revision": "093f9f388b31de276ce2de164bdc2081324b9767",
+      "name": "google/gemma-3-4b-it"
+    },
+    "emotions": 12,
+    "selection": "highest calibration mixed BA; ties in manifest contrast order",
+    "mixes": {
+      "hostile": {
+        "training_family": "diversity",
+        "contrast": "neutral",
+        "centering": "within_contrast",
+        "layer": 16
+      },
+      "frustrated": {
+        "training_family": "diversity",
+        "contrast": "neutral",
+        "centering": "within_contrast",
+        "layer": 0
+      },
+      "excited": {
+        "training_family": "diversity",
+        "contrast": "other11",
+        "centering": "within_contrast",
+        "layer": 15
+      },
+      "appreciative": {
+        "training_family": "diversity",
+        "contrast": "neutral",
+        "centering": "within_contrast",
+        "layer": 1
+      },
+      "sad": {
+        "training_family": "diversity",
+        "contrast": "other11_neutral",
+        "centering": "within_contrast",
+        "layer": 18
+      },
+      "afraid": {
+        "training_family": "diversity",
+        "contrast": "other11",
+        "centering": "within_contrast",
+        "layer": 31
+      },
+      "surprised": {
+        "training_family": "diversity",
+        "contrast": "neutral",
+        "centering": "within_contrast",
+        "layer": 32
+      },
+      "anxious": {
+        "training_family": "diversity",
+        "contrast": "other11_neutral",
+        "centering": "within_contrast",
+        "layer": 17
+      },
+      "guilty": {
+        "training_family": "diversity",
+        "contrast": "other11_neutral",
+        "centering": "within_contrast",
+        "layer": 19
+      },
+      "ashamed": {
+        "training_family": "diversity",
+        "contrast": "other11_neutral",
+        "centering": "within_contrast",
+        "layer": 21
+      },
+      "desperate": {
+        "training_family": "diversity",
+        "contrast": "neutral",
+        "centering": "within_contrast",
+        "layer": 31
+      },
+      "calm": {
+        "training_family": "diversity",
+        "contrast": "other11_neutral",
+        "centering": "within_contrast",
+        "layer": 32
+      }
+    }
+  },
+  {
+    "id": "glm52",
+    "path": "data/probes/glm52",
+    "model": {
+      "revision": "53e0691e21895a3863a606dfd12910c69eba94ab",
+      "tokenizer_model": "zai-org/GLM-5.2",
+      "tokenizer_revision": "cf457fa734ab149ffef225f80893eb38c6ff5cdc",
+      "name": "nvidia/GLM-5.2-NVFP4"
+    },
+    "emotions": 12,
+    "selection": "highest calibration mixed BA; ties in manifest contrast order",
+    "mixes": {
+      "hostile": {
+        "training_family": "diversity",
+        "contrast": "neutral",
+        "centering": "within_contrast",
+        "layer": 18
+      },
+      "frustrated": {
+        "training_family": "diversity",
+        "contrast": "other11",
+        "centering": "within_contrast",
+        "layer": 38
+      },
+      "excited": {
+        "training_family": "diversity",
+        "contrast": "other11",
+        "centering": "within_contrast",
+        "layer": 17
+      },
+      "appreciative": {
+        "training_family": "diversity",
+        "contrast": "other11",
+        "centering": "within_contrast",
+        "layer": 46
+      },
+      "sad": {
+        "training_family": "diversity",
+        "contrast": "other11_neutral",
+        "centering": "within_contrast",
+        "layer": 48
+      },
+      "afraid": {
+        "training_family": "diversity",
+        "contrast": "other11_neutral",
+        "centering": "within_contrast",
+        "layer": 18
+      },
+      "surprised": {
+        "training_family": "diversity",
+        "contrast": "neutral",
+        "centering": "within_contrast",
+        "layer": 32
+      },
+      "anxious": {
+        "training_family": "diversity",
+        "contrast": "other11",
+        "centering": "within_contrast",
+        "layer": 32
+      },
+      "guilty": {
+        "training_family": "diversity",
+        "contrast": "other11",
+        "centering": "within_contrast",
+        "layer": 41
+      },
+      "ashamed": {
+        "training_family": "diversity",
+        "contrast": "other11_neutral",
+        "centering": "within_contrast",
+        "layer": 76
+      },
+      "desperate": {
+        "training_family": "diversity",
+        "contrast": "neutral",
+        "centering": "within_contrast",
+        "layer": 32
+      },
+      "calm": {
+        "training_family": "diversity",
+        "contrast": "other11_neutral",
+        "centering": "within_contrast",
+        "layer": 30
+      }
+    }
+  },
+  {
+    "id": "glm53",
+    "path": "data/probes/glm53",
+    "model": {
+      "revision": "ce67b36f3669192b5bb233819f0fda6c8a9837f8",
+      "tokenizer_model": "zai-org/GLM-5.3",
+      "tokenizer_revision": "ba32f8c19c8738e2c57c71798c601d477a7bf844",
+      "name": "Inferact/GLM-5.3-NVFP4"
+    },
+    "emotions": 12,
+    "selection": "highest calibration mixed BA; ties in manifest contrast order",
+    "mixes": {
+      "hostile": {
+        "training_family": "diversity",
+        "contrast": "neutral",
+        "centering": "within_contrast",
+        "layer": 35
+      },
+      "frustrated": {
+        "training_family": "diversity",
+        "contrast": "other11",
+        "centering": "within_contrast",
+        "layer": 37
+      },
+      "excited": {
+        "training_family": "diversity",
+        "contrast": "other11",
+        "centering": "within_contrast",
+        "layer": 16
+      },
+      "appreciative": {
+        "training_family": "diversity",
+        "contrast": "other11",
+        "centering": "within_contrast",
+        "layer": 44
+      },
+      "sad": {
+        "training_family": "diversity",
+        "contrast": "other11_neutral",
+        "centering": "within_contrast",
+        "layer": 48
+      },
+      "afraid": {
+        "training_family": "diversity",
+        "contrast": "other11_neutral",
+        "centering": "within_contrast",
+        "layer": 18
+      },
+      "surprised": {
+        "training_family": "diversity",
+        "contrast": "neutral",
+        "centering": "within_contrast",
+        "layer": 32
+      },
+      "anxious": {
+        "training_family": "diversity",
+        "contrast": "other11",
+        "centering": "within_contrast",
+        "layer": 32
+      },
+      "guilty": {
+        "training_family": "diversity",
+        "contrast": "other11_neutral",
+        "centering": "within_contrast",
+        "layer": 23
+      },
+      "ashamed": {
+        "training_family": "diversity",
+        "contrast": "other11_neutral",
+        "centering": "within_contrast",
+        "layer": 31
+      },
+      "desperate": {
+        "training_family": "diversity",
+        "contrast": "neutral",
+        "centering": "within_contrast",
+        "layer": 58
+      },
+      "calm": {
+        "training_family": "diversity",
+        "contrast": "other11_neutral",
+        "centering": "within_contrast",
+        "layer": 30
+      }
+    }
+  },
+  {
+    "id": "gemma27b",
+    "path": "data/probes/gemma27b",
+    "model": {
+      "name": "google/gemma-3-27b-it",
+      "revision": "005ad3404e59d6023443cb575daa05336842228a",
+      "tokenizer_model": "google/gemma-3-27b-it",
+      "tokenizer_revision": "005ad3404e59d6023443cb575daa05336842228a"
+    },
+    "emotions": 12,
+    "selection": "Highest calibration mixed balanced accuracy within diversity; no held-out selection. Original uncentered probes.",
+    "mixes": {
+      "hostile": {
+        "training_family": "diversity",
+        "contrast": "neutral",
+        "centering": "none",
+        "layer": 43
+      },
+      "frustrated": {
+        "training_family": "diversity",
+        "contrast": "other11",
+        "centering": "none",
+        "layer": 13
+      },
+      "excited": {
+        "training_family": "diversity",
+        "contrast": "other11",
+        "centering": "none",
+        "layer": 12
+      },
+      "appreciative": {
+        "training_family": "diversity",
+        "contrast": "neutral",
+        "centering": "none",
+        "layer": 11
+      },
+      "sad": {
+        "training_family": "diversity",
+        "contrast": "other11",
+        "centering": "none",
+        "layer": 42
+      },
+      "afraid": {
+        "training_family": "diversity",
+        "contrast": "other11",
+        "centering": "none",
+        "layer": 33
+      },
+      "surprised": {
+        "training_family": "diversity",
+        "contrast": "other11_neutral",
+        "centering": "none",
+        "layer": 49
+      },
+      "anxious": {
+        "training_family": "diversity",
+        "contrast": "other11",
+        "centering": "none",
+        "layer": 29
+      },
+      "guilty": {
+        "training_family": "diversity",
+        "contrast": "other11",
+        "centering": "none",
+        "layer": 33
+      },
+      "ashamed": {
+        "training_family": "diversity",
+        "contrast": "neutral",
+        "centering": "none",
+        "layer": 14
+      },
+      "desperate": {
+        "training_family": "diversity",
+        "contrast": "neutral",
+        "centering": "none",
+        "layer": 14
+      },
+      "calm": {
+        "training_family": "diversity",
+        "contrast": "other11",
+        "centering": "none",
+        "layer": 43
+      }
+    }
+  },
+  {
+    "id": "gptoss120b",
+    "path": "data/probes/gptoss120b",
+    "model": {
+      "name": "openai/gpt-oss-120b",
+      "revision": "b5c939de8f754692c1647ca79fbf85e8c1e70f8a",
+      "tokenizer_model": "openai/gpt-oss-120b",
+      "tokenizer_revision": "b5c939de8f754692c1647ca79fbf85e8c1e70f8a"
+    },
+    "emotions": 12,
+    "selection": {
+      "source": "GPT-OSS v1 diversity and GPT-OSS v2 self-story topicmix catalogs",
+      "rule": "For each of the 12 emotions, choose whichever source candidate had the highest saved held-out binary balanced accuracy; exact source candidates and scores are recorded above.",
+      "warning": "Probe selection used held-out labels and is exploratory/selection-biased."
+    },
+    "mixes": {
+      "hostile": {
+        "training_family": "diversity",
+        "contrast": "neutral",
+        "centering": null,
+        "layer": 18
+      },
+      "frustrated": {
+        "training_family": "self_story",
+        "contrast": "neutral",
+        "centering": null,
+        "layer": 13
+      },
+      "excited": {
+        "training_family": "self_story",
+        "contrast": "other11",
+        "centering": null,
+        "layer": 5
+      },
+      "appreciative": {
+        "training_family": "self_story",
+        "contrast": "other11_neutral",
+        "centering": null,
+        "layer": 11
+      },
+      "sad": {
+        "training_family": "self_story",
+        "contrast": "other11",
+        "centering": null,
+        "layer": 12
+      },
+      "afraid": {
+        "training_family": "diversity",
+        "contrast": "other11_neutral",
+        "centering": null,
+        "layer": 12
+      },
+      "surprised": {
+        "training_family": "diversity",
+        "contrast": "other11_neutral",
+        "centering": null,
+        "layer": 14
+      },
+      "anxious": {
+        "training_family": "diversity",
+        "contrast": "other11",
+        "centering": null,
+        "layer": 11
+      },
+      "guilty": {
+        "training_family": "diversity",
+        "contrast": "other11",
+        "centering": null,
+        "layer": 9
+      },
+      "ashamed": {
+        "training_family": "diversity",
+        "contrast": "other11_neutral",
+        "centering": null,
+        "layer": 17
+      },
+      "desperate": {
+        "training_family": "diversity",
+        "contrast": "other11",
+        "centering": null,
+        "layer": 17
+      },
+      "calm": {
+        "training_family": "diversity",
+        "contrast": "other11",
+        "centering": null,
+        "layer": 15
+      }
+    }
+  },
+  {
+    "id": "qwen35-9b",
+    "path": "data/probes/qwen35-9b",
+    "model": {
+      "name": "Qwen/Qwen3.5-9B",
+      "revision": "c202236235762e1c871ad0ccb60c8ee5ba337b9a",
+      "tokenizer_model": "Qwen/Qwen3.5-9B",
+      "tokenizer_revision": "c202236235762e1c871ad0ccb60c8ee5ba337b9a"
+    },
+    "emotions": 12,
+    "selection": {
+      "warning": "Historical selected probes retained for replication; selection may use held-out BA."
+    },
+    "mixes": {
+      "hostile": {
+        "training_family": "diversity",
+        "contrast": "other11_neutral",
+        "centering": null,
+        "layer": 18
+      },
+      "sad": {
+        "training_family": "diversity",
+        "contrast": "other11",
+        "centering": null,
+        "layer": 18
+      },
+      "excited": {
+        "training_family": "diversity",
+        "contrast": "neutral",
+        "centering": null,
+        "layer": 9
+      },
+      "ashamed": {
+        "training_family": "diversity",
+        "contrast": "other11_neutral",
+        "centering": null,
+        "layer": 31
+      },
+      "calm": {
+        "training_family": "diversity",
+        "contrast": "other11_neutral",
+        "centering": null,
+        "layer": 6
+      },
+      "afraid": {
+        "training_family": "diversity",
+        "contrast": "other11",
+        "centering": null,
+        "layer": 13
+      },
+      "surprised": {
+        "training_family": "diversity",
+        "contrast": "other11_neutral",
+        "centering": null,
+        "layer": 12
+      },
+      "appreciative": {
+        "training_family": "diversity",
+        "contrast": "other11_neutral",
+        "centering": null,
+        "layer": 28
+      },
+      "frustrated": {
+        "training_family": "diversity",
+        "contrast": "neutral",
+        "centering": null,
+        "layer": 6
+      },
+      "guilty": {
+        "training_family": "diversity",
+        "contrast": "other11",
+        "centering": null,
+        "layer": 8
+      },
+      "anxious": {
+        "training_family": "diversity",
+        "contrast": "neutral",
+        "centering": null,
+        "layer": 7
+      },
+      "desperate": {
+        "training_family": "diversity",
+        "contrast": "neutral",
+        "centering": null,
+        "layer": 9
+      }
+    }
+  }
+]

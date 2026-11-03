@@ -1,0 +1,16 @@
+{
+  "experiment": "emotion-steering",
+  "run_id": "glm-5.3-nvfp4-coding-steering-v1",
+  "model": "glm-5.3-nvfp4",
+  "dataset": "../src/experiments/emotion-steering/data/coding.json",
+  "strengths": [
+    -0.1,
+    -0.05,
+    0.05,
+    0.1
+  ],
+  "samples": 32,
+  "executor": "modal",
+  "max_new_tokens": 400,
+  "probe_bundle": "../data/probes/glm53"
+}

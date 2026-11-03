@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Research progress</title>
+  <link rel="stylesheet" href="dashboard.css">
+  <script src="dashboard.js" defer></script>
+</head>
+<body>
+  <main>
+    <p id="example" class="notice" hidden>Example snapshot · sample values · not live</p>
+    <h1 id="title">Research progress</h1>
+    <p id="description" hidden></p>
+    <p id="connection" role="status">Loading progress…</p>
+    <p id="read-error" class="error" role="alert" hidden></p>
+    <section id="summary" aria-live="polite" hidden></section>
+    <p id="activity"></p>
+    <p id="freshness" class="muted"></p>
+    <p id="run-error" class="error" role="alert" hidden></p>
+    <section id="stages" aria-label="Pipeline stages" hidden></section>
+    <nav id="links" aria-label="Run artifacts"></nav>
+    <details><summary>Raw progress</summary><pre id="raw">No snapshot yet.</pre></details>
+  </main>
+</body>
+</html>

@@ -1,0 +1,4 @@
+# Preserve native upstream task files byte-for-byte, including their whitespace.
+src/experiments/emotion-steering/data/terminalwrench-tasks/** -whitespace
+# Two inherited prompt-string lines contain intentional whitespace.
+src/environments/sales_env/sales_environment.py -whitespace

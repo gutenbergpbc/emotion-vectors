@@ -1,0 +1,16 @@
+{
+  "experiment": "emotion-probes",
+  "run_id": "glm-5.3-nvfp4-diversity-v2",
+  "model": "Inferact/GLM-5.3-NVFP4",
+  "revision": "ce67b36f3669192b5bb233819f0fda6c8a9837f8",
+  "tokenizer_model": "zai-org/GLM-5.3",
+  "tokenizer_revision": "ba32f8c19c8738e2c57c71798c601d477a7bf844",
+  "layers": 78,
+  "width": 6144,
+  "dataset": "../data/datasets/diversity-sales",
+  "centering": "within_contrast",
+  "quantization": "modelopt_fp4",
+  "tensor_parallel_size": 4,
+  "gpu": "B200:4",
+  "executor": "modal"
+}

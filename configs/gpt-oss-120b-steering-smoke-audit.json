@@ -1,0 +1,18 @@
+{
+  "experiment": "emotion-steering",
+  "run_id": "gpt-oss-120b-coding-steering-endpoints-audit-v1",
+  "model": "gpt-oss-120b",
+  "dataset": "../src/experiments/emotion-steering/data/coding-smoke.json",
+  "strengths": [
+    -0.1,
+    0.1
+  ],
+  "samples": 1,
+  "max_new_tokens": 400,
+  "mode": "audit-existing",
+  "emotions": [
+    "guilty"
+  ],
+  "historical_run": "../../../experiment-results/emotion-steering/gpt-oss-120b-coding-steering-endpoints-v1",
+  "probe_bundle": "../data/probes/gptoss120b"
+}

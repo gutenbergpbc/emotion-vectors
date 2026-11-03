@@ -218,3 +218,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Replication artifacts are downloadable release assets, not source history.
+/data/
+/runs/
+/dist/
+*.partial
+__pycache__/
+.pytest_cache/
+
+/results/

@@ -1,0 +1,20 @@
+{
+  "experiment": "emotion-rh-forecasting",
+  "run_id": "gpt-oss-120b-coding-v1",
+  "title": "GPT-OSS \u00b7 Coding",
+  "probe_bundle": "../data/datasets/catalog/source/experiments/gpt_oss_sentence_rh_12probes_20261016",
+  "dataset": {
+    "format": "legacy-coding",
+    "path": "../data/datasets/catalog/source/experiments/gpt_oss_sentence_rh_12probes_20261016"
+  },
+  "scoring": {
+    "backend": "cached"
+  },
+  "evaluation": {
+    "method": "held_out_task"
+  },
+  "reference": {
+    "format": "legacy-coding",
+    "path": "../data/datasets/catalog/source/experiments/gpt_oss_sentence_rh_12probes_20261016/results/forecast-horizons/result-bundle.json"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "experiment": "emotion-probes",
+  "run_id": "gemma-3-4b-it-story-v1",
+  "model": "google/gemma-3-4b-it",
+  "revision": "093f9f388b31de276ce2de164bdc2081324b9767",
+  "layers": 34,
+  "width": 2560,
+  "dataset": "../runs/emotion-probes/gemma-3-4b-it-story-v1/story-inputs",
+  "dataset_contract": "custom",
+  "training_family": "story",
+  "centering": "within_contrast",
+  "renderer": "gemma-native-preserved-streams-v2",
+  "quantization": null,
+  "max_model_len": 131071,
+  "tensor_parallel_size": 1,
+  "gpu": "H100:1",
+  "executor": "modal"
+}

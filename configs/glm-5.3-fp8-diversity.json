@@ -1,0 +1,14 @@
+{
+  "experiment": "emotion-probes",
+  "run_id": "glm-5.3-fp8-diversity-v1",
+  "model": "zai-org/GLM-5.3",
+  "revision": "ba32f8c19c8738e2c57c71798c601d477a7bf844",
+  "layers": 78,
+  "width": 6144,
+  "dataset": "../data/datasets/diversity-sales",
+  "centering": "within_contrast",
+  "quantization": "fp8",
+  "tensor_parallel_size": 8,
+  "gpu": "H200:8",
+  "executor": "modal"
+}

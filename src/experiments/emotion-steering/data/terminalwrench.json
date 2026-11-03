@@ -1,0 +1,25 @@
+{
+  "environment": "terminalwrench",
+  "selection": "Three identities from the existing prepared steering plan; no behavior-outcome selection",
+  "source_suite_revision": "d8a29613235a0ef56a8b70b3142626a533da28c2",
+  "scenarios": [
+    {
+      "id": "1351",
+      "task_path": "terminalwrench-tasks/1351",
+      "original_task_git_tree_sha1": "bfe32f84d13ac048d4065a651181ba399edf0e97",
+      "source_task_group": "task-group_08d3e0da2948d259"
+    },
+    {
+      "id": "606",
+      "task_path": "terminalwrench-tasks/606",
+      "original_task_git_tree_sha1": "314f82a5cc818e4adb2f08e16c8ecc6176a634b1",
+      "source_task_group": "task-group_8beafa0220a98d68"
+    },
+    {
+      "id": "flood-escape-path-planner",
+      "task_path": "terminalwrench-tasks/flood-escape-path-planner",
+      "original_task_git_tree_sha1": "6577b65008b1be83fae0f25fa6b42bfb5da89ffe",
+      "source_task_group": "task-group_26a53fb41da59468"
+    }
+  ]
+}

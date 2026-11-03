@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "experiment": "emotion-rh-forecasting",
+  "run_id": "gptoss120b-terminalwrench-neutral-v7-rh-20261026-v3",
+  "title": "GPT-OSS 120B \u00b7 neutral TerminalWrench",
+  "probe_bundle": "../runs/emotion-rh-replay/gptoss120b-terminalwrench-neutral-v7-best12-20261026/probes.json",
+  "dataset": {
+    "format": "token-replay-v1",
+    "path": "../runs/emotion-rh-replay/gptoss120b-terminalwrench-neutral-v7-best12-20261026"
+  },
+  "scoring": {
+    "backend": "cached"
+  },
+  "cohorts": [
+    "all_available",
+    "certain_only"
+  ],
+  "evaluation": {
+    "method": "provided"
+  },
+  "seed": 20261026,
+  "repeats": 2000
+}

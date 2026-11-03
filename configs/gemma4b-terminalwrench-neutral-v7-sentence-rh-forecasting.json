@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "experiment": "emotion-rh-forecasting",
+  "run_id": "gemma4b-terminalwrench-neutral-v7-sentence-rh-20261026",
+  "title": "Gemma 4B \u00b7 neutral TerminalWrench",
+  "probe_bundle": "../runs/emotion-rh-replay/gemma3-4b-sales-best12-v1/probes.json",
+  "dataset": {
+    "format": "sentence-traces-v1",
+    "path": "../runs/emotion-rh-forecasting/terminalwrench-neutral-v7-20261026-inputs/gemma4b.json"
+  },
+  "scoring": {
+    "backend": "local-hf",
+    "model_class": "Gemma3ForConditionalGeneration",
+    "dtype": "bfloat16",
+    "device": "cuda",
+    "attention": "sdpa",
+    "layers_path": "model.language_model.layers",
+    "max_tokens": 131072
+  },
+  "evaluation": {
+    "method": "provided"
+  },
+  "seed": 20261026,
+  "repeats": 2000
+}
