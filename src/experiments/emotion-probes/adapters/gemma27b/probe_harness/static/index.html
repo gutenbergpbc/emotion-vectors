@@ -1,0 +1,226 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Gemma · Probe lab</title>
+    <link rel="stylesheet" href="/style.css" />
+  </head>
+  <body>
+    <main>
+      <header>
+        <div>
+          <div class="eyebrow">MODEL FORENSICS / PROBE HARNESS</div>
+          <h1>Gemma <span>Probe lab</span></h1>
+          <p id="identity">Connecting to the run…</p>
+        </div>
+        <div class="connection">
+          <span id="connection">Connecting</span><small id="lastSeen"></small>
+        </div>
+      </header>
+      <div id="demo" class="warning" hidden>
+        SYNTHETIC DEMO — These activations and scores are generated fixtures.
+        They are not Gemma results.
+      </div>
+      <div id="failure" class="warning" hidden></div>
+      <nav aria-label="Dashboard views">
+        <button data-tab="overview" class="active">Overview</button
+        ><button data-tab="layers">Layer selection</button
+        ><button data-tab="examples">Examples</button
+        ><button data-tab="status">Status & logs</button>
+      </nav>
+      <section id="overview" class="tab">
+        <div id="stages" class="stages"></div>
+        <div class="metrics">
+          <div>
+            <small>Training cases</small><strong>2,700</strong
+            ><span>Five source-grouped folds</span>
+          </div>
+          <div>
+            <small>Evaluation replays</small><strong>2,258</strong
+            ><span>1,129 calibration / 1,129 held-out</span>
+          </div>
+          <div>
+            <small>Probes evaluated</small
+            ><strong id="probeCount">0 / 36</strong
+            ><span>Twelve emotions × three contrasts</span>
+          </div>
+          <div>
+            <small>Verification</small><strong id="verifyState">Pending</strong
+            ><span>Required before completion</span>
+          </div>
+        </div>
+        <div class="panel">
+          <div class="heading">
+            <div>
+              <h2>Emotion specificity</h2>
+              <p>
+                Held-out balanced accuracy · equal weight for each negative
+                label
+              </p>
+            </div>
+            <span class="badge" id="resultState">Awaiting extraction</span>
+          </div>
+          <div class="legend">
+            <span><i class="blue"></i>Matched neutral</span
+            ><span><i class="orange"></i>Other 11 + neutral</span
+            ><span><i class="green"></i>Other 11</span>
+          </div>
+          <div id="chart" class="chart empty">
+            Results appear after fitting and calibration. Empty bars are not
+            zero scores.
+          </div>
+          <p class="footnote">
+            Dashed line: 50% · Intervals: 2,000 source-group bootstrap draws
+            with fixed probes and thresholds.
+          </p>
+        </div>
+        <div class="panel">
+          <div class="heading">
+            <h2>All 36 probes</h2>
+            <a href="/files/sentence_scores.csv">Download predictions</a>
+          </div>
+          <div class="scroll">
+            <table>
+              <thead>
+                <tr>
+                  <th>Emotion / contrast</th>
+                  <th>Layer</th>
+                  <th>Calibration BA</th>
+                  <th>Held-out BA</th>
+                  <th>95% interval</th>
+                  <th>Recall</th>
+                  <th>Mean negative FPR</th>
+                  <th>Cutoff</th>
+                </tr>
+              </thead>
+              <tbody id="resultRows"></tbody>
+            </table>
+          </div>
+        </div>
+        <div class="twocol">
+          <div class="panel">
+            <h2>Run & cache</h2>
+            <dl id="runDetails"></dl>
+          </div>
+          <div class="panel">
+            <h2>Verification gates</h2>
+            <ul id="gates">
+              <li>Waiting for the completed run</li>
+            </ul>
+            <div id="artifacts" class="downloads"></div>
+          </div>
+        </div>
+        <p class="footnote">
+          Retrospective development evaluation on a shared sales fixture. Five
+          surprised evaluation pairs retain review disagreements. Supplied
+          reasoning is replayed text, not newly generated Gemma reasoning. Each
+          probe is an independent binary classifier.
+        </p>
+      </section>
+      <section id="layers" class="tab" hidden>
+        <div class="panel">
+          <div class="heading">
+            <div>
+              <h2>Training-only layer selection</h2>
+              <p>
+                Mean condition-weighted validation AUROC across five folds.
+                Shallowest layer within 10⁻⁶ of the maximum wins.
+              </p>
+            </div>
+            <label>Probe<select id="layerProbe"></select></label>
+          </div>
+          <div id="layerChart" class="chart empty">
+            Cross-validation results will appear after fitting.
+          </div>
+          <div id="layerSummary"></div>
+        </div>
+      </section>
+      <section id="examples" class="tab" hidden>
+        <div class="panel">
+          <h2>Inspect individual predictions</h2>
+          <p>
+            Read the saved target sentence and causal context. Filters never
+            change the calibrated threshold.
+          </p>
+          <div class="filters">
+            <label>Probe<select id="exampleProbe"></select></label
+            ><label
+              >Split<select id="exampleSplit">
+                <option value="heldout">Held-out</option>
+                <option value="calibration">Calibration</option>
+                <option value="all">All</option>
+              </select></label
+            ><label
+              >Outcome<select id="exampleOutcome">
+                <option value="all">All</option>
+                <option>TP</option>
+                <option>FP</option>
+                <option>FN</option>
+                <option>TN</option>
+              </select></label
+            ><label
+              >Label<select id="exampleLabel">
+                <option value="all">All</option>
+              </select></label
+            >
+          </div>
+          <p id="exampleCount">Available after evaluation.</p>
+          <div id="exampleRows"></div>
+          <div class="filters">
+            <button id="prev">← Previous</button
+            ><button id="next">Next →</button>
+          </div>
+        </div>
+      </section>
+      <section id="status" class="tab" hidden>
+        <div class="twocol">
+          <div class="panel">
+            <div class="heading">
+              <div>
+                <h2>Live status.json</h2>
+                <p id="statusMeta">Refreshes every two seconds</p>
+              </div>
+              <div>
+                <button id="pause">Pause viewer</button
+                ><button id="copy">Copy JSON</button
+                ><a href="/files/status.json" target="_blank" rel="noopener"
+                  >Raw file ↗</a
+                >
+              </div>
+            </div>
+            <pre id="rawStatus" aria-label="Raw status JSON"></pre>
+          </div>
+          <div class="panel">
+            <h2>Changed fields</h2>
+            <p>
+              Changes observed by this browser. Worker events remain in the
+              append-only log.
+            </p>
+            <ol id="changes" class="changes">
+              <li>Waiting for the next change…</li>
+            </ol>
+          </div>
+        </div>
+        <div class="panel">
+          <div class="heading">
+            <div>
+              <h2>Worker events</h2>
+              <p>Latest 150 entries · heartbeats included</p>
+            </div>
+            <div>
+              <a href="/files/events.jsonl">events.jsonl</a> ·
+              <a href="/files/run.log">Full log & tracebacks</a>
+            </div>
+          </div>
+          <pre id="eventLog"></pre>
+        </div>
+      </section>
+      <footer>
+        <span>Frozen twelve-emotion replication · v1</span
+        ><span id="footerRun"></span>
+      </footer>
+    </main>
+    <script src="/app.js"></script>
+  </body>
+</html>

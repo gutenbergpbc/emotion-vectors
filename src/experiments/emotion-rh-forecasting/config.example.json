@@ -1,0 +1,40 @@
+{
+  "experiment": "emotion-rh-forecasting",
+  "run_id": "my-model-terminalwrench-v1",
+  "title": "My model \u00b7 TerminalWrench",
+  "probe_bundle": "/absolute/path/to/selected-probes.json",
+  "dataset": {
+    "format": "sentence-traces-v1",
+    "path": "/absolute/path/to/labeled-traces.json"
+  },
+  "scoring": {
+    "backend": "local-hf",
+    "model_class": "AutoModelForCausalLM",
+    "layers_path": "model.layers",
+    "device": "cuda",
+    "dtype": "bfloat16",
+    "attention": "sdpa",
+    "template_kwargs": {},
+    "answer_prefix": "",
+    "max_tokens": 131072
+  },
+  "evaluation": {
+    "method": "grouped",
+    "folds": 5
+  },
+  "horizons": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "repeats": 2000,
+  "seed": 20261016
+}

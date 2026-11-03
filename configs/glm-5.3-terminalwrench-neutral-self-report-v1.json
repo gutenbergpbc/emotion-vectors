@@ -1,0 +1,28 @@
+{
+  "experiment": "emotion-self-report",
+  "run_id": "glm-5.3-terminalwrench-neutral-self-report-v1",
+  "model": "z-ai/glm-5.3",
+  "environment": "terminalwrench",
+  "mode": "collect",
+  "traces": "../data/traces/terminalwrench/terminalwrench-neutral-v7-20261026/glm53/traces.json",
+  "checkpoints": "../data/traces/terminalwrench/terminalwrench-neutral-v7-20261026/glm53/checkpoints.json",
+  "prompt": "task_stance",
+  "api": {
+    "temperature": 0,
+    "max_tokens": 256,
+    "workers": 4,
+    "request_interval_seconds": 0.5,
+    "timeout_seconds": 120,
+    "reasoning": {
+      "effort": "low",
+      "exclude": false
+    },
+    "provider": {
+      "only": [
+        "novita/fp8"
+      ],
+      "allow_fallbacks": false,
+      "require_parameters": true
+    }
+  }
+}

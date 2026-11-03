@@ -1,0 +1,19 @@
+{
+  "experiment": "emotion-self-report",
+  "run_id": "gpt-oss-120b-coding-self-report-import-v1",
+  "model": "openai/gpt-oss-120b",
+  "environment": "coding",
+  "mode": "import",
+  "legacy_run": "../data/datasets/catalog/source/experiments/gpt_oss_self_report_plan_20261016",
+  "prompt": "task_stance",
+  "probe_scores": {
+    "path": "../data/datasets/catalog/source/experiments/gpt_oss_self_report_plan_20261016/plots/sentence-probe-comparison.csv",
+    "provenance": "../data/datasets/catalog/source/experiments/gpt_oss_self_report_plan_20261016/probe_replay_12/run-spec.json"
+  },
+  "correlation_score": "projection_score_1_to_10",
+  "exclude_labels": [
+    "ambiguous"
+  ],
+  "bootstrap_replicates": 2000,
+  "seed": 20261021
+}

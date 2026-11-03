@@ -1,0 +1,43 @@
+{
+  "experiment": "emotion-self-report",
+  "run_id": "gpt-oss-120b-coding-self-report-v1",
+  "model": "openai/gpt-oss-120b",
+  "environment": "coding",
+  "mode": "collect",
+  "traces": "../data/datasets/catalog/source/experiments/gpt_oss_coding_early_warning_20261016/cases.json",
+  "checkpoints": "../data/datasets/catalog/source/experiments/gpt_oss_self_report_plan_20261016/plan.json",
+  "prompt": "task_stance",
+  "api": {
+    "temperature": 0,
+    "max_tokens": 2048,
+    "workers": 4,
+    "reasoning": {
+      "effort": "low",
+      "exclude": false
+    },
+    "provider": {
+      "only": [
+        "groq",
+        "cerebras/fp16",
+        "crusoe/bf16"
+      ],
+      "order": [
+        "groq",
+        "cerebras/fp16",
+        "crusoe/bf16"
+      ],
+      "allow_fallbacks": true,
+      "require_parameters": true
+    }
+  },
+  "probe_scores": {
+    "path": "../data/datasets/catalog/source/experiments/gpt_oss_self_report_plan_20261016/plots/sentence-probe-comparison.csv",
+    "provenance": "../data/datasets/catalog/source/experiments/gpt_oss_self_report_plan_20261016/probe_replay_12/run-spec.json"
+  },
+  "correlation_score": "raw_projection",
+  "exclude_labels": [
+    "ambiguous"
+  ],
+  "bootstrap_replicates": 2000,
+  "seed": 20261021
+}

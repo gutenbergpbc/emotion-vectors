@@ -1,0 +1,19 @@
+{
+  "experiment": "emotion-self-report",
+  "run_id": "gemma-3-4b-terminalwrench-neutral-self-report-v1",
+  "model": "google/gemma-3-4b-it",
+  "environment": "terminalwrench",
+  "mode": "collect",
+  "traces": "../data/traces/terminalwrench/terminalwrench-neutral-v7-20261026/gemma4b/traces.json",
+  "checkpoints": "../data/traces/terminalwrench/terminalwrench-neutral-v7-20261026/gemma4b/checkpoints.json",
+  "prompt": "task_stance",
+  "api": {
+    "temperature": 0,
+    "max_tokens": 128,
+    "workers": 4,
+    "request_interval_seconds": 0.5,
+    "timeout_seconds": 120,
+    "reasoning": null,
+    "provider": {}
+  }
+}

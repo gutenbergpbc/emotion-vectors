@@ -1,0 +1,1861 @@
+[
+  {
+    "inventory": 0,
+    "link": "../emotion_probe_replication_guide_v2/data_sheet.html",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_replication_guide_v2/data_sheet.html"
+    ]
+  },
+  {
+    "inventory": 0,
+    "link": "../emotion_probe_replication_guide_v2/replication_guide.html",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_replication_guide_v2/replication_guide.html"
+    ]
+  },
+  {
+    "inventory": 0,
+    "link": "../emotion_probe_replication_guide_v2/baseline_results.html",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_replication_guide_v2/baseline_results.html"
+    ]
+  },
+  {
+    "inventory": 0,
+    "link": "cosine_ablation_v1/report.html",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/cosine_ablation_v1/report.html"
+    ]
+  },
+  {
+    "inventory": 0,
+    "link": "all_emotions_three_contrasts_v1/minimal_validation_report/projection_report.html",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/all_emotions_three_contrasts_v1/minimal_validation_report/projection_report.html"
+    ]
+  },
+  {
+    "inventory": 0,
+    "link": "canonical_controls_v2/manifest.json",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/canonical_controls_v2/manifest.json"
+    ]
+  },
+  {
+    "inventory": 0,
+    "link": "generated_neutral_controls_v1/review.html",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/generated_neutral_controls_v1/review.html"
+    ]
+  },
+  {
+    "inventory": 0,
+    "link": "generated_neutral_controls_v1/review_results.json",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/generated_neutral_controls_v1/review_results.json"
+    ]
+  },
+  {
+    "inventory": 0,
+    "link": "generated_neutral_controls_v1/status.json",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/generated_neutral_controls_v1/status.json"
+    ]
+  },
+  {
+    "inventory": 0,
+    "link": "../hostile_diversity_regenerated_v2/episodes.jsonl",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/README.md",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/api_usage.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/audit_round_01.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/audit_round_02.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/curated_sentences.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/diversity_audit.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/extraction_cases.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_01/request.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_01/response.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_01/samples.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_01/started.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_01/status.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_02/request.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_02/response.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_02/samples.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_02/started.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_02/status.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_03/request.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_03/response.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_03/samples.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_03/started.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_03/status.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_04/request.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_04/response.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_04/samples.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_04/started.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_04/status.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_05/request.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_05/response.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_05/samples.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_05/started.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_05/status.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_06/request.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_06/response.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_06/samples.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_06/started.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_06/status.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_07/request.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_07/response.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_07/samples.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_07/started.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_07/status.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_08/request.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_08/response.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_08/samples.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_08/started.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_08/status.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_09/request.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_09/response.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_09/samples.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_09/started.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_09/status.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_10/request.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_10/response.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_10/samples.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_10/started.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_10/status.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_02/batch_01/request.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_02/batch_01/response.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_02/batch_01/samples.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_02/batch_01/started.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_02/batch_01/status.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_02/batch_02/request.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_02/batch_02/response.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_02/batch_02/samples.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_02/batch_02/started.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_02/batch_02/status.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation_progress.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/index.html",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/manifest.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/plan_round_01.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/plan_round_02.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/progress.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/protocol.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/review_round_01.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/review_round_02.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/rewrite_review.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_01/request.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_01/response.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_01/started.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_01/status.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_02/request.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_02/response.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_02/started.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_02/status.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_03/request.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_03/response.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_03/started.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_03/status.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_04/request.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_04/response.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_04/started.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_04/status.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_05/request.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_05/response.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_05/started.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_05/status.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_06/request.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_06/response.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_06/started.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_06/status.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_07/request.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_07/response.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_07/started.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_07/status.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_08/request.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_08/response.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_08/started.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_08/status.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_09/request.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_09/response.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_09/started.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_09/status.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_10/request.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_10/response.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_10/started.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_10/status.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_11/request.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_11/response.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_11/started.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_11/status.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_12/request.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_12/response.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_12/started.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_12/status.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_13/request.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_13/response.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_13/started.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_13/status.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_14/request.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_14/response.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_14/started.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_14/status.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_15/request.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_15/response.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_15/started.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_15/status.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_16/request.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_16/response.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_16/started.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_16/status.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_17/request.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_17/response.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_17/started.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_17/status.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_18/request.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_18/response.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_18/started.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_18/status.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_19/request.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_19/response.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_19/started.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_19/status.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_20/request.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_20/response.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_20/started.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_20/status.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_02/batch_01/request.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_02/batch_01/response.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_02/batch_01/started.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_02/batch_01/status.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_02/batch_02/request.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_02/batch_02/response.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_02/batch_02/started.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_02/batch_02/status.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_02/batch_03/request.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_02/batch_03/response.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_02/batch_03/started.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_02/batch_03/status.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_02/batch_04/request.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_02/batch_04/response.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_02/batch_04/started.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_02/batch_04/status.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/source_episodes.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/status.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/summary_round_01.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/summary_round_02.json"
+    ],
+    "resolution_note": "Stale inventory reference; original preserved source files are included at their actual names."
+  },
+  {
+    "inventory": 0,
+    "link": "../../../../../../runs/qwen35-9b-hostility-20260924/phase1/full_v2_token_length/stories.jsonl",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/runs/qwen35-9b-hostility-20260924/phase1/full_v2_token_length/stories.jsonl"
+    ],
+    "resolution_note": "Stale inventory reference; original preserved source files are included at their actual names."
+  },
+  {
+    "inventory": 0,
+    "link": "canonical_controls_v1/hostile_neutral_controls.jsonl",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/canonical_controls_v1/hostile_neutral_controls.jsonl"
+    ]
+  },
+  {
+    "inventory": 0,
+    "link": "../hostile_sales_eval_50_v1/curated_sentences.json",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_sales_eval_50_v1/curated_sentences.json"
+    ]
+  },
+  {
+    "inventory": 0,
+    "link": "../sadness_diversity_11conditions_v1/emotion_diversity_sets_v1/frustrated/",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/sadness_diversity_11conditions_v1/emotion_diversity_sets_v1/frustrated/batch_01/request.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/sadness_diversity_11conditions_v1/emotion_diversity_sets_v1/frustrated/batch_01/response.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/sadness_diversity_11conditions_v1/emotion_diversity_sets_v1/frustrated/batch_01/samples.jsonl",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/sadness_diversity_11conditions_v1/emotion_diversity_sets_v1/frustrated/batch_01/status.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/sadness_diversity_11conditions_v1/emotion_diversity_sets_v1/frustrated/batch_02/request.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/sadness_diversity_11conditions_v1/emotion_diversity_sets_v1/frustrated/batch_02/response.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/sadness_diversity_11conditions_v1/emotion_diversity_sets_v1/frustrated/batch_02/samples.jsonl",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/sadness_diversity_11conditions_v1/emotion_diversity_sets_v1/frustrated/batch_02/status.json"
+    ]
+  },
+  {
+    "inventory": 0,
+    "link": "generated_neutral_controls_v1/frustrated/controls.jsonl",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/generated_neutral_controls_v1/frustrated/controls.jsonl"
+    ]
+  },
+  {
+    "inventory": 0,
+    "link": "generated_neutral_controls_v1/frustrated/status.json",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/generated_neutral_controls_v1/frustrated/status.json"
+    ]
+  },
+  {
+    "inventory": 0,
+    "link": "remaining_eval_100_v1/frustrated/pairs.jsonl",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/remaining_eval_100_v1/frustrated/pairs.jsonl"
+    ]
+  },
+  {
+    "inventory": 0,
+    "link": "remaining_eval_100_v1/frustrated/review.html",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/remaining_eval_100_v1/frustrated/review.html"
+    ],
+    "original_link": "http://127.0.0.1:8769/remaining_eval_100_v1/frustrated/review.html"
+  },
+  {
+    "inventory": 0,
+    "link": "stories/astra/phase1b/emotion_probe_pipeline_v1/diversity_previews_v1/calm/expansion_50_v1/samples_100.json",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/diversity_previews_v1/calm/expansion_50_v1/samples_100.json"
+    ]
+  },
+  {
+    "inventory": 0,
+    "link": "stories/astra/phase1b/emotion_probe_pipeline_v1/diversity_previews_v1/calm/expansion_50_v1/status.json",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/diversity_previews_v1/calm/expansion_50_v1/status.json"
+    ]
+  },
+  {
+    "inventory": 0,
+    "link": "stories/astra/phase1b/emotion_probe_pipeline_v1/diversity_previews_v1/calm/expansion_50_v1/review.html",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/diversity_previews_v1/calm/expansion_50_v1/review.html"
+    ]
+  },
+  {
+    "inventory": 0,
+    "link": "stories/astra/phase1b/emotion_probe_pipeline_v1/diversity_previews_v1/desperate/expansion_50_v1/samples_100.json",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/diversity_previews_v1/desperate/expansion_50_v1/samples_100.json"
+    ]
+  },
+  {
+    "inventory": 0,
+    "link": "stories/astra/phase1b/emotion_probe_pipeline_v1/diversity_previews_v1/desperate/expansion_50_v1/status.json",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/diversity_previews_v1/desperate/expansion_50_v1/status.json"
+    ]
+  },
+  {
+    "inventory": 0,
+    "link": "stories/astra/phase1b/emotion_probe_pipeline_v1/diversity_previews_v1/desperate/expansion_50_v1/review_summary.json",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/diversity_previews_v1/desperate/expansion_50_v1/review_summary.json"
+    ]
+  },
+  {
+    "inventory": 0,
+    "link": "../sadness_diversity_11conditions_v1/emotion_diversity_sets_v1/excited/",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/sadness_diversity_11conditions_v1/emotion_diversity_sets_v1/excited/batch_01/request.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/sadness_diversity_11conditions_v1/emotion_diversity_sets_v1/excited/batch_01/response.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/sadness_diversity_11conditions_v1/emotion_diversity_sets_v1/excited/batch_01/samples.jsonl",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/sadness_diversity_11conditions_v1/emotion_diversity_sets_v1/excited/batch_01/status.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/sadness_diversity_11conditions_v1/emotion_diversity_sets_v1/excited/batch_02/request.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/sadness_diversity_11conditions_v1/emotion_diversity_sets_v1/excited/batch_02/response.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/sadness_diversity_11conditions_v1/emotion_diversity_sets_v1/excited/batch_02/samples.jsonl",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/sadness_diversity_11conditions_v1/emotion_diversity_sets_v1/excited/batch_02/status.json"
+    ]
+  },
+  {
+    "inventory": 0,
+    "link": "generated_neutral_controls_v1/excited/controls.jsonl",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/generated_neutral_controls_v1/excited/controls.jsonl"
+    ]
+  },
+  {
+    "inventory": 0,
+    "link": "generated_neutral_controls_v1/excited/status.json",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/generated_neutral_controls_v1/excited/status.json"
+    ]
+  },
+  {
+    "inventory": 0,
+    "link": "excited_eval_100_v1/pairs.jsonl",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/excited_eval_100_v1/pairs.jsonl"
+    ]
+  },
+  {
+    "inventory": 0,
+    "link": "excited_eval_100_v1/probe_calibration_v1/review.html",
+    "status": "missing_source"
+  },
+  {
+    "inventory": 0,
+    "link": "../sadness_diversity_11conditions_v1/emotion_diversity_sets_v1/appreciative/",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/sadness_diversity_11conditions_v1/emotion_diversity_sets_v1/appreciative/batch_01/request.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/sadness_diversity_11conditions_v1/emotion_diversity_sets_v1/appreciative/batch_01/response.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/sadness_diversity_11conditions_v1/emotion_diversity_sets_v1/appreciative/batch_01/samples.jsonl",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/sadness_diversity_11conditions_v1/emotion_diversity_sets_v1/appreciative/batch_01/status.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/sadness_diversity_11conditions_v1/emotion_diversity_sets_v1/appreciative/batch_02/request.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/sadness_diversity_11conditions_v1/emotion_diversity_sets_v1/appreciative/batch_02/response.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/sadness_diversity_11conditions_v1/emotion_diversity_sets_v1/appreciative/batch_02/samples.jsonl",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/sadness_diversity_11conditions_v1/emotion_diversity_sets_v1/appreciative/batch_02/status.json"
+    ]
+  },
+  {
+    "inventory": 0,
+    "link": "story_completion_astra_intense_100_v2/appreciative/stories.jsonl",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/story_completion_astra_intense_100_v2/appreciative/stories.jsonl"
+    ]
+  },
+  {
+    "inventory": 0,
+    "link": "generated_neutral_controls_v1/appreciative/controls.jsonl",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/generated_neutral_controls_v1/appreciative/controls.jsonl"
+    ]
+  },
+  {
+    "inventory": 0,
+    "link": "generated_neutral_controls_v1/appreciative/status.json",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/generated_neutral_controls_v1/appreciative/status.json"
+    ]
+  },
+  {
+    "inventory": 0,
+    "link": "remaining_eval_100_v1/appreciative/pairs.jsonl",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/remaining_eval_100_v1/appreciative/pairs.jsonl"
+    ]
+  },
+  {
+    "inventory": 0,
+    "link": "remaining_eval_100_v1/appreciative/review.html",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/remaining_eval_100_v1/appreciative/review.html"
+    ],
+    "original_link": "http://127.0.0.1:8769/remaining_eval_100_v1/appreciative/review.html"
+  },
+  {
+    "inventory": 0,
+    "link": "../sadness_diversity_50_per_category_v1/episodes.jsonl",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/sadness_diversity_50_per_category_v1/episodes.jsonl"
+    ]
+  },
+  {
+    "inventory": 0,
+    "link": "canonical_controls_v1/sad_neutral_controls.jsonl",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/canonical_controls_v1/sad_neutral_controls.jsonl"
+    ]
+  },
+  {
+    "inventory": 0,
+    "link": "../sadness_sales_100_v1/curated_sentences.json",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/sadness_sales_100_v1/curated_sentences.json"
+    ]
+  },
+  {
+    "inventory": 0,
+    "link": "diversity_100_v1/afraid/samples.jsonl",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/diversity_100_v1/afraid/samples.jsonl"
+    ]
+  },
+  {
+    "inventory": 0,
+    "link": "diversity_100_v1/afraid/review_v1/final_review_report.md",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/diversity_100_v1/afraid/review_v1/final_review_report.md"
+    ]
+  },
+  {
+    "inventory": 0,
+    "link": "story_completion_astra_intense_100_v2/afraid/stories.jsonl",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/story_completion_astra_intense_100_v2/afraid/stories.jsonl"
+    ]
+  },
+  {
+    "inventory": 0,
+    "link": "canonical_controls_v1/afraid_neutral_controls.jsonl",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/canonical_controls_v1/afraid_neutral_controls.jsonl"
+    ]
+  },
+  {
+    "inventory": 0,
+    "link": "remaining_eval_100_v1/afraid/v12/pairs.jsonl",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/remaining_eval_100_v1/afraid/v12/pairs.jsonl"
+    ]
+  },
+  {
+    "inventory": 0,
+    "link": "remaining_eval_100_v1/afraid/v12/review.html",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/remaining_eval_100_v1/afraid/v12/review.html"
+    ],
+    "original_link": "http://127.0.0.1:8769/remaining_eval_100_v1/afraid/v12/review.html"
+  },
+  {
+    "inventory": 0,
+    "link": "diversity_100_v1/surprised/samples.jsonl",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/diversity_100_v1/surprised/samples.jsonl"
+    ]
+  },
+  {
+    "inventory": 0,
+    "link": "diversity_100_v1/surprised/review_v1/cheap_route_v1/review_report.md",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/diversity_100_v1/surprised/review_v1/cheap_route_v1/review_report.md"
+    ]
+  },
+  {
+    "inventory": 0,
+    "link": "story_completion_astra_intense_100_v2/surprised/stories.jsonl",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/story_completion_astra_intense_100_v2/surprised/stories.jsonl"
+    ]
+  },
+  {
+    "inventory": 0,
+    "link": "canonical_controls_v1/surprised_neutral_controls.jsonl",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/canonical_controls_v1/surprised_neutral_controls.jsonl"
+    ]
+  },
+  {
+    "inventory": 0,
+    "link": "surprised_three_contrasts_v2/source_eval/pairs.jsonl",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/surprised_three_contrasts_v2/source_eval/pairs.jsonl"
+    ]
+  },
+  {
+    "inventory": 0,
+    "link": "surprised_three_contrasts_v2/source_eval/passing_pairs.jsonl",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/surprised_three_contrasts_v2/source_eval/passing_pairs.jsonl"
+    ]
+  },
+  {
+    "inventory": 0,
+    "link": "surprised_three_contrasts_v2/source_eval/review.html",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/surprised_three_contrasts_v2/source_eval/review.html"
+    ]
+  },
+  {
+    "inventory": 0,
+    "link": "surprised_three_contrasts_v2/source_eval/STATUS_REPORT.txt",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/surprised_three_contrasts_v2/source_eval/STATUS_REPORT.txt"
+    ]
+  },
+  {
+    "inventory": 0,
+    "link": "../sadness_diversity_11conditions_v1/emotion_diversity_sets_v1/anxious/",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/sadness_diversity_11conditions_v1/emotion_diversity_sets_v1/anxious/batch_01/request.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/sadness_diversity_11conditions_v1/emotion_diversity_sets_v1/anxious/batch_01/response.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/sadness_diversity_11conditions_v1/emotion_diversity_sets_v1/anxious/batch_01/samples.jsonl",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/sadness_diversity_11conditions_v1/emotion_diversity_sets_v1/anxious/batch_01/status.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/sadness_diversity_11conditions_v1/emotion_diversity_sets_v1/anxious/batch_02/request.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/sadness_diversity_11conditions_v1/emotion_diversity_sets_v1/anxious/batch_02/response.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/sadness_diversity_11conditions_v1/emotion_diversity_sets_v1/anxious/batch_02/samples.jsonl",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/sadness_diversity_11conditions_v1/emotion_diversity_sets_v1/anxious/batch_02/status.json"
+    ]
+  },
+  {
+    "inventory": 0,
+    "link": "generated_neutral_controls_v1/anxious/controls.jsonl",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/generated_neutral_controls_v1/anxious/controls.jsonl"
+    ]
+  },
+  {
+    "inventory": 0,
+    "link": "generated_neutral_controls_v1/anxious/status.json",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/generated_neutral_controls_v1/anxious/status.json"
+    ]
+  },
+  {
+    "inventory": 0,
+    "link": "remaining_eval_100_v1/anxious/stronger_anxiety_v1/pairs.jsonl",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/remaining_eval_100_v1/anxious/stronger_anxiety_v1/pairs.jsonl"
+    ]
+  },
+  {
+    "inventory": 0,
+    "link": "remaining_eval_100_v1/anxious/stronger_anxiety_v1/review.html",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/remaining_eval_100_v1/anxious/stronger_anxiety_v1/review.html"
+    ],
+    "original_link": "http://127.0.0.1:8769/remaining_eval_100_v1/anxious/stronger_anxiety_v1/review.html"
+  },
+  {
+    "inventory": 0,
+    "link": "diversity_100_v1/guilty/samples.jsonl",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/diversity_100_v1/guilty/samples.jsonl"
+    ]
+  },
+  {
+    "inventory": 0,
+    "link": "diversity_100_v1/guilty/review_v1/aggregate_report.md",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/diversity_100_v1/guilty/review_v1/aggregate_report.md"
+    ]
+  },
+  {
+    "inventory": 0,
+    "link": "story_completion_astra_intense_100_v2/guilty/stories.jsonl",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/story_completion_astra_intense_100_v2/guilty/stories.jsonl"
+    ]
+  },
+  {
+    "inventory": 0,
+    "link": "canonical_controls_v1/guilty_neutral_controls.jsonl",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/canonical_controls_v1/guilty_neutral_controls.jsonl"
+    ]
+  },
+  {
+    "inventory": 0,
+    "link": "remaining_eval_100_v1/guilty/pairs.jsonl",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/remaining_eval_100_v1/guilty/pairs.jsonl"
+    ]
+  },
+  {
+    "inventory": 0,
+    "link": "remaining_eval_100_v1/guilty/review.html",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/remaining_eval_100_v1/guilty/review.html"
+    ],
+    "original_link": "http://127.0.0.1:8769/remaining_eval_100_v1/guilty/review.html"
+  },
+  {
+    "inventory": 0,
+    "link": "diversity_100_v1/ashamed/samples.jsonl",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/diversity_100_v1/ashamed/samples.jsonl"
+    ]
+  },
+  {
+    "inventory": 0,
+    "link": "diversity_100_v1/ashamed/review_v1/report.md",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/diversity_100_v1/ashamed/review_v1/report.md"
+    ]
+  },
+  {
+    "inventory": 0,
+    "link": "story_completion_astra_intense_100_v2/ashamed/stories.jsonl",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/story_completion_astra_intense_100_v2/ashamed/stories.jsonl"
+    ]
+  },
+  {
+    "inventory": 0,
+    "link": "canonical_controls_v1/ashamed_neutral_controls.jsonl",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/canonical_controls_v1/ashamed_neutral_controls.jsonl"
+    ]
+  },
+  {
+    "inventory": 0,
+    "link": "remaining_eval_100_v1/ashamed/pairs.jsonl",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/remaining_eval_100_v1/ashamed/pairs.jsonl"
+    ]
+  },
+  {
+    "inventory": 0,
+    "link": "remaining_eval_100_v1/ashamed/review.html",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/remaining_eval_100_v1/ashamed/review.html"
+    ],
+    "original_link": "http://127.0.0.1:8769/remaining_eval_100_v1/ashamed/review.html"
+  },
+  {
+    "inventory": 0,
+    "link": "story_completion_astra_intense_100_v2/review.html",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/story_completion_astra_intense_100_v2/review.html"
+    ]
+  },
+  {
+    "inventory": 0,
+    "link": "story_completion_astra_intense_100_v2/manifest.json",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/story_completion_astra_intense_100_v2/manifest.json"
+    ]
+  },
+  {
+    "inventory": 0,
+    "link": "story_completion_astra_intense_100_v2/aggregate_validation.json",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/story_completion_astra_intense_100_v2/aggregate_validation.json"
+    ]
+  },
+  {
+    "inventory": 0,
+    "link": "story_completion_astra_intense_100_v2/final_review_results.json",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/story_completion_astra_intense_100_v2/final_review_results.json"
+    ]
+  },
+  {
+    "inventory": 0,
+    "link": "story_three_contrasts_v1/protocol.json",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/story_three_contrasts_v1/protocol.json"
+    ]
+  },
+  {
+    "inventory": 0,
+    "link": "story_three_contrasts_v1/neutral_stories/stories.jsonl",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/story_three_contrasts_v1/neutral_stories/stories.jsonl"
+    ]
+  },
+  {
+    "inventory": 0,
+    "link": "story_three_contrasts_v1/neutral_stories/blind_review_results.json",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/story_three_contrasts_v1/neutral_stories/blind_review_results.json"
+    ]
+  },
+  {
+    "inventory": 0,
+    "link": "story_three_contrasts_v1/training_cases.json",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/story_three_contrasts_v1/training_cases.json"
+    ]
+  },
+  {
+    "inventory": 0,
+    "link": "story_three_contrasts_v1/surface_audit.json",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/story_three_contrasts_v1/surface_audit.json"
+    ]
+  },
+  {
+    "inventory": 0,
+    "link": "story_three_contrasts_v1/report.html",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/story_three_contrasts_v1/report.html"
+    ]
+  },
+  {
+    "inventory": 0,
+    "link": "story_three_contrasts_v1/score_viewer.html",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/story_three_contrasts_v1/score_viewer.html"
+    ]
+  },
+  {
+    "inventory": 0,
+    "link": "story_three_contrasts_v1/status.json",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/story_three_contrasts_v1/status.json"
+    ]
+  },
+  {
+    "inventory": 0,
+    "link": "combined_diversity_story_three_contrasts_v1/report.html",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/combined_diversity_story_three_contrasts_v1/report.html"
+    ]
+  },
+  {
+    "inventory": 0,
+    "link": "combined_diversity_story_three_contrasts_v1/protocol.json",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/combined_diversity_story_three_contrasts_v1/protocol.json"
+    ]
+  },
+  {
+    "inventory": 0,
+    "link": "combined_diversity_story_three_contrasts_v1/verification.json",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/combined_diversity_story_three_contrasts_v1/verification.json"
+    ]
+  },
+  {
+    "inventory": 0,
+    "link": "combined_diversity_story_three_contrasts_v1/paired_comparisons.json",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/combined_diversity_story_three_contrasts_v1/paired_comparisons.json"
+    ]
+  },
+  {
+    "inventory": 0,
+    "link": "combined_diversity_story_three_contrasts_v1/score_viewer.html",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/combined_diversity_story_three_contrasts_v1/score_viewer.html"
+    ]
+  },
+  {
+    "inventory": 0,
+    "link": "all_emotions_three_contrasts_v1/token_trace_viewer_v1/viewer.html",
+    "status": "derived_artifact_excluded"
+  },
+  {
+    "inventory": 0,
+    "link": "all_emotions_three_contrasts_v1/token_trace_viewer_v1/representatives.html",
+    "status": "derived_artifact_excluded"
+  },
+  {
+    "inventory": 0,
+    "link": "all_emotions_three_contrasts_v1/token_trace_viewer_v1/selection.json",
+    "status": "derived_artifact_excluded"
+  },
+  {
+    "inventory": 0,
+    "link": "all_emotions_three_contrasts_v1/token_trace_viewer_v1/verification.json",
+    "status": "derived_artifact_excluded"
+  },
+  {
+    "inventory": 0,
+    "link": "all_emotions_three_contrasts_v1/token_trace_viewer_v1/viewer_checks.json",
+    "status": "derived_artifact_excluded"
+  },
+  {
+    "inventory": 1,
+    "link": "../emotion_probe_replication_guide_v3/replication_guide.html",
+    "status": "missing_source"
+  },
+  {
+    "inventory": 1,
+    "link": "../emotion_probe_replication_guide_v3/replication_spec.json",
+    "status": "missing_source"
+  },
+  {
+    "inventory": 1,
+    "link": "../emotion_probe_replication_guide_v2/data_sheet.html",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_replication_guide_v2/data_sheet.html"
+    ]
+  },
+  {
+    "inventory": 1,
+    "link": "../emotion_probe_replication_guide_v2/replication_guide.html",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_replication_guide_v2/replication_guide.html"
+    ]
+  },
+  {
+    "inventory": 1,
+    "link": "../emotion_probe_replication_guide_v2/baseline_results.html",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_replication_guide_v2/baseline_results.html"
+    ]
+  },
+  {
+    "inventory": 1,
+    "link": "cosine_ablation_v1/report.html",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/cosine_ablation_v1/report.html"
+    ]
+  },
+  {
+    "inventory": 1,
+    "link": "all_emotions_three_contrasts_v1/minimal_validation_report/projection_report.html",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/all_emotions_three_contrasts_v1/minimal_validation_report/projection_report.html"
+    ]
+  },
+  {
+    "inventory": 1,
+    "link": "canonical_controls_v2/manifest.json",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/canonical_controls_v2/manifest.json"
+    ]
+  },
+  {
+    "inventory": 1,
+    "link": "generated_neutral_controls_v1/review.html",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/generated_neutral_controls_v1/review.html"
+    ]
+  },
+  {
+    "inventory": 1,
+    "link": "generated_neutral_controls_v1/review_results.json",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/generated_neutral_controls_v1/review_results.json"
+    ]
+  },
+  {
+    "inventory": 1,
+    "link": "generated_neutral_controls_v1/status.json",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/generated_neutral_controls_v1/status.json"
+    ]
+  },
+  {
+    "inventory": 1,
+    "link": "../hostile_diversity_regenerated_v2/episodes.jsonl",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/README.md",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/api_usage.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/audit_round_01.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/audit_round_02.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/curated_sentences.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/diversity_audit.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/extraction_cases.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_01/request.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_01/response.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_01/samples.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_01/started.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_01/status.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_02/request.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_02/response.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_02/samples.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_02/started.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_02/status.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_03/request.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_03/response.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_03/samples.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_03/started.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_03/status.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_04/request.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_04/response.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_04/samples.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_04/started.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_04/status.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_05/request.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_05/response.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_05/samples.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_05/started.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_05/status.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_06/request.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_06/response.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_06/samples.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_06/started.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_06/status.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_07/request.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_07/response.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_07/samples.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_07/started.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_07/status.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_08/request.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_08/response.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_08/samples.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_08/started.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_08/status.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_09/request.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_09/response.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_09/samples.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_09/started.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_09/status.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_10/request.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_10/response.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_10/samples.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_10/started.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_01/batch_10/status.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_02/batch_01/request.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_02/batch_01/response.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_02/batch_01/samples.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_02/batch_01/started.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_02/batch_01/status.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_02/batch_02/request.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_02/batch_02/response.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_02/batch_02/samples.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_02/batch_02/started.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation/round_02/batch_02/status.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/generation_progress.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/index.html",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/manifest.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/plan_round_01.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/plan_round_02.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/progress.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/protocol.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/review_round_01.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/review_round_02.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/rewrite_review.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_01/request.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_01/response.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_01/started.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_01/status.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_02/request.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_02/response.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_02/started.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_02/status.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_03/request.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_03/response.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_03/started.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_03/status.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_04/request.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_04/response.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_04/started.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_04/status.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_05/request.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_05/response.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_05/started.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_05/status.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_06/request.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_06/response.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_06/started.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_06/status.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_07/request.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_07/response.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_07/started.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_07/status.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_08/request.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_08/response.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_08/started.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_08/status.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_09/request.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_09/response.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_09/started.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_09/status.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_10/request.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_10/response.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_10/started.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_10/status.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_11/request.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_11/response.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_11/started.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_11/status.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_12/request.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_12/response.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_12/started.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_12/status.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_13/request.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_13/response.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_13/started.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_13/status.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_14/request.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_14/response.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_14/started.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_14/status.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_15/request.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_15/response.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_15/started.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_15/status.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_16/request.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_16/response.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_16/started.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_16/status.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_17/request.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_17/response.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_17/started.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_17/status.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_18/request.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_18/response.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_18/started.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_18/status.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_19/request.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_19/response.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_19/started.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_19/status.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_20/request.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_20/response.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_20/started.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_01/batch_20/status.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_02/batch_01/request.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_02/batch_01/response.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_02/batch_01/started.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_02/batch_01/status.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_02/batch_02/request.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_02/batch_02/response.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_02/batch_02/started.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_02/batch_02/status.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_02/batch_03/request.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_02/batch_03/response.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_02/batch_03/started.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_02/batch_03/status.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_02/batch_04/request.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_02/batch_04/response.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_02/batch_04/started.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/screening/round_02/batch_04/status.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/source_episodes.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/status.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/summary_round_01.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_diversity_regenerated_v2/summary_round_02.json"
+    ],
+    "resolution_note": "Stale inventory reference; original preserved source files are included at their actual names."
+  },
+  {
+    "inventory": 1,
+    "link": "../../../../../../runs/qwen35-9b-hostility-20260924/phase1/full_v2_token_length/stories.jsonl",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/runs/qwen35-9b-hostility-20260924/phase1/full_v2_token_length/stories.jsonl"
+    ],
+    "resolution_note": "Stale inventory reference; original preserved source files are included at their actual names."
+  },
+  {
+    "inventory": 1,
+    "link": "canonical_controls_v1/hostile_neutral_controls.jsonl",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/canonical_controls_v1/hostile_neutral_controls.jsonl"
+    ]
+  },
+  {
+    "inventory": 1,
+    "link": "../hostile_sales_eval_50_v1/curated_sentences.json",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/hostile_sales_eval_50_v1/curated_sentences.json"
+    ]
+  },
+  {
+    "inventory": 1,
+    "link": "../sadness_diversity_11conditions_v1/emotion_diversity_sets_v1/frustrated/",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/sadness_diversity_11conditions_v1/emotion_diversity_sets_v1/frustrated/batch_01/request.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/sadness_diversity_11conditions_v1/emotion_diversity_sets_v1/frustrated/batch_01/response.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/sadness_diversity_11conditions_v1/emotion_diversity_sets_v1/frustrated/batch_01/samples.jsonl",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/sadness_diversity_11conditions_v1/emotion_diversity_sets_v1/frustrated/batch_01/status.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/sadness_diversity_11conditions_v1/emotion_diversity_sets_v1/frustrated/batch_02/request.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/sadness_diversity_11conditions_v1/emotion_diversity_sets_v1/frustrated/batch_02/response.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/sadness_diversity_11conditions_v1/emotion_diversity_sets_v1/frustrated/batch_02/samples.jsonl",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/sadness_diversity_11conditions_v1/emotion_diversity_sets_v1/frustrated/batch_02/status.json"
+    ]
+  },
+  {
+    "inventory": 1,
+    "link": "generated_neutral_controls_v1/frustrated/controls.jsonl",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/generated_neutral_controls_v1/frustrated/controls.jsonl"
+    ]
+  },
+  {
+    "inventory": 1,
+    "link": "generated_neutral_controls_v1/frustrated/status.json",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/generated_neutral_controls_v1/frustrated/status.json"
+    ]
+  },
+  {
+    "inventory": 1,
+    "link": "remaining_eval_100_v1/frustrated/pairs.jsonl",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/remaining_eval_100_v1/frustrated/pairs.jsonl"
+    ]
+  },
+  {
+    "inventory": 1,
+    "link": "remaining_eval_100_v1/frustrated/review.html",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/remaining_eval_100_v1/frustrated/review.html"
+    ],
+    "original_link": "http://127.0.0.1:8769/remaining_eval_100_v1/frustrated/review.html"
+  },
+  {
+    "inventory": 1,
+    "link": "../sadness_diversity_11conditions_v1/emotion_diversity_sets_v1/excited/",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/sadness_diversity_11conditions_v1/emotion_diversity_sets_v1/excited/batch_01/request.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/sadness_diversity_11conditions_v1/emotion_diversity_sets_v1/excited/batch_01/response.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/sadness_diversity_11conditions_v1/emotion_diversity_sets_v1/excited/batch_01/samples.jsonl",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/sadness_diversity_11conditions_v1/emotion_diversity_sets_v1/excited/batch_01/status.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/sadness_diversity_11conditions_v1/emotion_diversity_sets_v1/excited/batch_02/request.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/sadness_diversity_11conditions_v1/emotion_diversity_sets_v1/excited/batch_02/response.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/sadness_diversity_11conditions_v1/emotion_diversity_sets_v1/excited/batch_02/samples.jsonl",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/sadness_diversity_11conditions_v1/emotion_diversity_sets_v1/excited/batch_02/status.json"
+    ]
+  },
+  {
+    "inventory": 1,
+    "link": "generated_neutral_controls_v1/excited/controls.jsonl",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/generated_neutral_controls_v1/excited/controls.jsonl"
+    ]
+  },
+  {
+    "inventory": 1,
+    "link": "generated_neutral_controls_v1/excited/status.json",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/generated_neutral_controls_v1/excited/status.json"
+    ]
+  },
+  {
+    "inventory": 1,
+    "link": "excited_eval_100_v1/pairs.jsonl",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/excited_eval_100_v1/pairs.jsonl"
+    ]
+  },
+  {
+    "inventory": 1,
+    "link": "excited_eval_100_v1/probe_calibration_v1/review.html",
+    "status": "missing_source"
+  },
+  {
+    "inventory": 1,
+    "link": "../sadness_diversity_11conditions_v1/emotion_diversity_sets_v1/appreciative/",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/sadness_diversity_11conditions_v1/emotion_diversity_sets_v1/appreciative/batch_01/request.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/sadness_diversity_11conditions_v1/emotion_diversity_sets_v1/appreciative/batch_01/response.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/sadness_diversity_11conditions_v1/emotion_diversity_sets_v1/appreciative/batch_01/samples.jsonl",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/sadness_diversity_11conditions_v1/emotion_diversity_sets_v1/appreciative/batch_01/status.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/sadness_diversity_11conditions_v1/emotion_diversity_sets_v1/appreciative/batch_02/request.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/sadness_diversity_11conditions_v1/emotion_diversity_sets_v1/appreciative/batch_02/response.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/sadness_diversity_11conditions_v1/emotion_diversity_sets_v1/appreciative/batch_02/samples.jsonl",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/sadness_diversity_11conditions_v1/emotion_diversity_sets_v1/appreciative/batch_02/status.json"
+    ]
+  },
+  {
+    "inventory": 1,
+    "link": "story_completion_astra_intense_100_v2/appreciative/stories.jsonl",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/story_completion_astra_intense_100_v2/appreciative/stories.jsonl"
+    ]
+  },
+  {
+    "inventory": 1,
+    "link": "generated_neutral_controls_v1/appreciative/controls.jsonl",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/generated_neutral_controls_v1/appreciative/controls.jsonl"
+    ]
+  },
+  {
+    "inventory": 1,
+    "link": "generated_neutral_controls_v1/appreciative/status.json",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/generated_neutral_controls_v1/appreciative/status.json"
+    ]
+  },
+  {
+    "inventory": 1,
+    "link": "remaining_eval_100_v1/appreciative/pairs.jsonl",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/remaining_eval_100_v1/appreciative/pairs.jsonl"
+    ]
+  },
+  {
+    "inventory": 1,
+    "link": "remaining_eval_100_v1/appreciative/review.html",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/remaining_eval_100_v1/appreciative/review.html"
+    ],
+    "original_link": "http://127.0.0.1:8769/remaining_eval_100_v1/appreciative/review.html"
+  },
+  {
+    "inventory": 1,
+    "link": "../sadness_diversity_50_per_category_v1/episodes.jsonl",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/sadness_diversity_50_per_category_v1/episodes.jsonl"
+    ]
+  },
+  {
+    "inventory": 1,
+    "link": "canonical_controls_v1/sad_neutral_controls.jsonl",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/canonical_controls_v1/sad_neutral_controls.jsonl"
+    ]
+  },
+  {
+    "inventory": 1,
+    "link": "../sadness_sales_100_v1/curated_sentences.json",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/sadness_sales_100_v1/curated_sentences.json"
+    ]
+  },
+  {
+    "inventory": 1,
+    "link": "diversity_100_v1/afraid/samples.jsonl",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/diversity_100_v1/afraid/samples.jsonl"
+    ]
+  },
+  {
+    "inventory": 1,
+    "link": "diversity_100_v1/afraid/review_v1/final_review_report.md",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/diversity_100_v1/afraid/review_v1/final_review_report.md"
+    ]
+  },
+  {
+    "inventory": 1,
+    "link": "story_completion_astra_intense_100_v2/afraid/stories.jsonl",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/story_completion_astra_intense_100_v2/afraid/stories.jsonl"
+    ]
+  },
+  {
+    "inventory": 1,
+    "link": "canonical_controls_v1/afraid_neutral_controls.jsonl",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/canonical_controls_v1/afraid_neutral_controls.jsonl"
+    ]
+  },
+  {
+    "inventory": 1,
+    "link": "remaining_eval_100_v1/afraid/v12/pairs.jsonl",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/remaining_eval_100_v1/afraid/v12/pairs.jsonl"
+    ]
+  },
+  {
+    "inventory": 1,
+    "link": "remaining_eval_100_v1/afraid/v12/review.html",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/remaining_eval_100_v1/afraid/v12/review.html"
+    ],
+    "original_link": "http://127.0.0.1:8769/remaining_eval_100_v1/afraid/v12/review.html"
+  },
+  {
+    "inventory": 1,
+    "link": "diversity_100_v1/surprised/samples.jsonl",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/diversity_100_v1/surprised/samples.jsonl"
+    ]
+  },
+  {
+    "inventory": 1,
+    "link": "diversity_100_v1/surprised/review_v1/cheap_route_v1/review_report.md",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/diversity_100_v1/surprised/review_v1/cheap_route_v1/review_report.md"
+    ]
+  },
+  {
+    "inventory": 1,
+    "link": "story_completion_astra_intense_100_v2/surprised/stories.jsonl",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/story_completion_astra_intense_100_v2/surprised/stories.jsonl"
+    ]
+  },
+  {
+    "inventory": 1,
+    "link": "canonical_controls_v1/surprised_neutral_controls.jsonl",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/canonical_controls_v1/surprised_neutral_controls.jsonl"
+    ]
+  },
+  {
+    "inventory": 1,
+    "link": "surprised_three_contrasts_v2/source_eval/pairs.jsonl",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/surprised_three_contrasts_v2/source_eval/pairs.jsonl"
+    ]
+  },
+  {
+    "inventory": 1,
+    "link": "surprised_three_contrasts_v2/source_eval/review.html",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/surprised_three_contrasts_v2/source_eval/review.html"
+    ]
+  },
+  {
+    "inventory": 1,
+    "link": "../sadness_diversity_11conditions_v1/emotion_diversity_sets_v1/anxious/",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/sadness_diversity_11conditions_v1/emotion_diversity_sets_v1/anxious/batch_01/request.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/sadness_diversity_11conditions_v1/emotion_diversity_sets_v1/anxious/batch_01/response.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/sadness_diversity_11conditions_v1/emotion_diversity_sets_v1/anxious/batch_01/samples.jsonl",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/sadness_diversity_11conditions_v1/emotion_diversity_sets_v1/anxious/batch_01/status.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/sadness_diversity_11conditions_v1/emotion_diversity_sets_v1/anxious/batch_02/request.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/sadness_diversity_11conditions_v1/emotion_diversity_sets_v1/anxious/batch_02/response.json",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/sadness_diversity_11conditions_v1/emotion_diversity_sets_v1/anxious/batch_02/samples.jsonl",
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/sadness_diversity_11conditions_v1/emotion_diversity_sets_v1/anxious/batch_02/status.json"
+    ]
+  },
+  {
+    "inventory": 1,
+    "link": "generated_neutral_controls_v1/anxious/controls.jsonl",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/generated_neutral_controls_v1/anxious/controls.jsonl"
+    ]
+  },
+  {
+    "inventory": 1,
+    "link": "generated_neutral_controls_v1/anxious/status.json",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/generated_neutral_controls_v1/anxious/status.json"
+    ]
+  },
+  {
+    "inventory": 1,
+    "link": "remaining_eval_100_v1/anxious/stronger_anxiety_v1/pairs.jsonl",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/remaining_eval_100_v1/anxious/stronger_anxiety_v1/pairs.jsonl"
+    ]
+  },
+  {
+    "inventory": 1,
+    "link": "remaining_eval_100_v1/anxious/stronger_anxiety_v1/review.html",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/remaining_eval_100_v1/anxious/stronger_anxiety_v1/review.html"
+    ],
+    "original_link": "http://127.0.0.1:8769/remaining_eval_100_v1/anxious/stronger_anxiety_v1/review.html"
+  },
+  {
+    "inventory": 1,
+    "link": "diversity_100_v1/guilty/samples.jsonl",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/diversity_100_v1/guilty/samples.jsonl"
+    ]
+  },
+  {
+    "inventory": 1,
+    "link": "diversity_100_v1/guilty/review_v1/aggregate_report.md",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/diversity_100_v1/guilty/review_v1/aggregate_report.md"
+    ]
+  },
+  {
+    "inventory": 1,
+    "link": "story_completion_astra_intense_100_v2/guilty/stories.jsonl",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/story_completion_astra_intense_100_v2/guilty/stories.jsonl"
+    ]
+  },
+  {
+    "inventory": 1,
+    "link": "canonical_controls_v1/guilty_neutral_controls.jsonl",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/canonical_controls_v1/guilty_neutral_controls.jsonl"
+    ]
+  },
+  {
+    "inventory": 1,
+    "link": "remaining_eval_100_v1/guilty/pairs.jsonl",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/remaining_eval_100_v1/guilty/pairs.jsonl"
+    ]
+  },
+  {
+    "inventory": 1,
+    "link": "remaining_eval_100_v1/guilty/review.html",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/remaining_eval_100_v1/guilty/review.html"
+    ],
+    "original_link": "http://127.0.0.1:8769/remaining_eval_100_v1/guilty/review.html"
+  },
+  {
+    "inventory": 1,
+    "link": "diversity_100_v1/ashamed/samples.jsonl",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/diversity_100_v1/ashamed/samples.jsonl"
+    ]
+  },
+  {
+    "inventory": 1,
+    "link": "diversity_100_v1/ashamed/review_v1/report.md",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/diversity_100_v1/ashamed/review_v1/report.md"
+    ]
+  },
+  {
+    "inventory": 1,
+    "link": "story_completion_astra_intense_100_v2/ashamed/stories.jsonl",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/story_completion_astra_intense_100_v2/ashamed/stories.jsonl"
+    ]
+  },
+  {
+    "inventory": 1,
+    "link": "canonical_controls_v1/ashamed_neutral_controls.jsonl",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/canonical_controls_v1/ashamed_neutral_controls.jsonl"
+    ]
+  },
+  {
+    "inventory": 1,
+    "link": "remaining_eval_100_v1/ashamed/pairs.jsonl",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/remaining_eval_100_v1/ashamed/pairs.jsonl"
+    ]
+  },
+  {
+    "inventory": 1,
+    "link": "remaining_eval_100_v1/ashamed/review.html",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/remaining_eval_100_v1/ashamed/review.html"
+    ],
+    "original_link": "http://127.0.0.1:8769/remaining_eval_100_v1/ashamed/review.html"
+  },
+  {
+    "inventory": 1,
+    "link": "story_completion_astra_intense_100_v2/review.html",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/story_completion_astra_intense_100_v2/review.html"
+    ]
+  },
+  {
+    "inventory": 1,
+    "link": "story_completion_astra_intense_100_v2/manifest.json",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/story_completion_astra_intense_100_v2/manifest.json"
+    ]
+  },
+  {
+    "inventory": 1,
+    "link": "story_completion_astra_intense_100_v2/aggregate_validation.json",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/story_completion_astra_intense_100_v2/aggregate_validation.json"
+    ]
+  },
+  {
+    "inventory": 1,
+    "link": "story_completion_astra_intense_100_v2/final_review_results.json",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/story_completion_astra_intense_100_v2/final_review_results.json"
+    ]
+  },
+  {
+    "inventory": 1,
+    "link": "story_three_contrasts_v1/protocol.json",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/story_three_contrasts_v1/protocol.json"
+    ]
+  },
+  {
+    "inventory": 1,
+    "link": "story_three_contrasts_v1/neutral_stories/stories.jsonl",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/story_three_contrasts_v1/neutral_stories/stories.jsonl"
+    ]
+  },
+  {
+    "inventory": 1,
+    "link": "story_three_contrasts_v1/neutral_stories/blind_review_results.json",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/story_three_contrasts_v1/neutral_stories/blind_review_results.json"
+    ]
+  },
+  {
+    "inventory": 1,
+    "link": "story_three_contrasts_v1/training_cases.json",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/story_three_contrasts_v1/training_cases.json"
+    ]
+  },
+  {
+    "inventory": 1,
+    "link": "story_three_contrasts_v1/surface_audit.json",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/story_three_contrasts_v1/surface_audit.json"
+    ]
+  },
+  {
+    "inventory": 1,
+    "link": "story_three_contrasts_v1/report.html",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/story_three_contrasts_v1/report.html"
+    ]
+  },
+  {
+    "inventory": 1,
+    "link": "story_three_contrasts_v1/score_viewer.html",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/story_three_contrasts_v1/score_viewer.html"
+    ]
+  },
+  {
+    "inventory": 1,
+    "link": "story_three_contrasts_v1/status.json",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/story_three_contrasts_v1/status.json"
+    ]
+  },
+  {
+    "inventory": 1,
+    "link": "combined_diversity_story_three_contrasts_v1/report.html",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/combined_diversity_story_three_contrasts_v1/report.html"
+    ]
+  },
+  {
+    "inventory": 1,
+    "link": "combined_diversity_story_three_contrasts_v1/protocol.json",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/combined_diversity_story_three_contrasts_v1/protocol.json"
+    ]
+  },
+  {
+    "inventory": 1,
+    "link": "combined_diversity_story_three_contrasts_v1/verification.json",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/combined_diversity_story_three_contrasts_v1/verification.json"
+    ]
+  },
+  {
+    "inventory": 1,
+    "link": "combined_diversity_story_three_contrasts_v1/paired_comparisons.json",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/combined_diversity_story_three_contrasts_v1/paired_comparisons.json"
+    ]
+  },
+  {
+    "inventory": 1,
+    "link": "combined_diversity_story_three_contrasts_v1/score_viewer.html",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/combined_diversity_story_three_contrasts_v1/score_viewer.html"
+    ]
+  },
+  {
+    "inventory": 1,
+    "link": "all_emotions_three_contrasts_v1/token_trace_viewer_v1/viewer.html",
+    "status": "derived_artifact_excluded"
+  },
+  {
+    "inventory": 1,
+    "link": "all_emotions_three_contrasts_v1/token_trace_viewer_v1/representatives.html",
+    "status": "derived_artifact_excluded"
+  },
+  {
+    "inventory": 1,
+    "link": "all_emotions_three_contrasts_v1/token_trace_viewer_v1/selection.json",
+    "status": "derived_artifact_excluded"
+  },
+  {
+    "inventory": 1,
+    "link": "all_emotions_three_contrasts_v1/token_trace_viewer_v1/verification.json",
+    "status": "derived_artifact_excluded"
+  },
+  {
+    "inventory": 1,
+    "link": "all_emotions_three_contrasts_v1/token_trace_viewer_v1/viewer_checks.json",
+    "status": "derived_artifact_excluded"
+  },
+  {
+    "inventory": 1,
+    "link": "diversity_previews_v1/calm/expansion_50_v1/samples_100.json",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/diversity_previews_v1/calm/expansion_50_v1/samples_100.json"
+    ]
+  },
+  {
+    "inventory": 1,
+    "link": "diversity_previews_v1/calm/expansion_50_v1/final_review_lock.json",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/diversity_previews_v1/calm/expansion_50_v1/final_review_lock.json"
+    ]
+  },
+  {
+    "inventory": 1,
+    "link": "calm_three_contrasts_v1/source_eval/pairs.json",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/calm_three_contrasts_v1/source_eval/pairs.json"
+    ]
+  },
+  {
+    "inventory": 1,
+    "link": "calm_three_contrasts_v1/split_manifest.json",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/calm_three_contrasts_v1/split_manifest.json"
+    ]
+  },
+  {
+    "inventory": 1,
+    "link": "calm_three_contrasts_v1/dashboard.html",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/calm_three_contrasts_v1/dashboard.html"
+    ]
+  },
+  {
+    "inventory": 1,
+    "link": "calm_three_contrasts_v1/results_report.html",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/calm_three_contrasts_v1/results_report.html"
+    ]
+  },
+  {
+    "inventory": 1,
+    "link": "calm_three_contrasts_v1/sample_viewer/index.html",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/calm_three_contrasts_v1/sample_viewer/index.html"
+    ]
+  },
+  {
+    "inventory": 1,
+    "link": "calm_three_contrasts_v1/data_validation.json",
+    "status": "included",
+    "files": [
+      "data/datasets/catalog/source/sandbox/ayush/emotion_vectors/stories/astra/phase1b/emotion_probe_pipeline_v1/calm_three_contrasts_v1/data_validation.json"
+    ]
+  },
+  {
+    "inventory": 1,
+    "link": "calm_three_contrasts_v1/cache_reuse_audit.json",
+    "status": "derived_artifact_excluded"
+  }
+]

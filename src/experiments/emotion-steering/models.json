@@ -1,0 +1,163 @@
+{
+  "gpt-oss-120b": {
+    "name": "openai/gpt-oss-120b",
+    "revision": "b5c939de8f754692c1647ca79fbf85e8c1e70f8a",
+    "class": "AutoModelForCausalLM",
+    "template_kwargs": {
+      "reasoning_effort": "low"
+    },
+    "answer_prefix": "<|channel|>final<|message|>",
+    "family": "gpt_oss",
+    "width": 2880,
+    "layers": 36,
+    "layers_path": "model.layers",
+    "gpu": "H200",
+    "cache_volume": "gpt-oss120-probe-model-cache-v1",
+    "hub_cache": "/models/hub",
+    "attention": "eager",
+    "packages": {
+      "torch": "2.8.0",
+      "transformers": "4.57.6",
+      "triton": "3.4.0",
+      "kernels": "0.11.7"
+    },
+    "kernel_repository": "kernels-community/triton_kernels",
+    "kernel_revision": "b26c936cb02fb91920cbccfc7454284b47d86b0d",
+    "max_context": 131072
+  },
+  "qwen35-9b": {
+    "name": "Qwen/Qwen3.5-9B",
+    "revision": "c202236235762e1c871ad0ccb60c8ee5ba337b9a",
+    "class": "AutoModelForImageTextToText",
+    "layers_path": "model.language_model.layers",
+    "template_kwargs": {
+      "enable_thinking": false
+    },
+    "family": "qwen",
+    "width": 4096,
+    "layers": 32,
+    "gpu": "H100",
+    "cache_volume": "qwen35-9b-hostility-model",
+    "hub_cache": "/models",
+    "attention": "sdpa",
+    "packages": {
+      "transformers": "5.17.0",
+      "torch": "2.8.0"
+    },
+    "max_context": 131072
+  },
+  "gemma-3-27b": {
+    "name": "google/gemma-3-27b-it",
+    "revision": "005ad3404e59d6023443cb575daa05336842228a",
+    "class": "Gemma3ForConditionalGeneration",
+    "layers_path": "model.language_model.layers",
+    "template_kwargs": {},
+    "family": "gemma",
+    "width": 5376,
+    "layers": 62,
+    "gpu": "H200",
+    "cache_volume": "gemma27-probe-model-cache-v1",
+    "hub_cache": "/models/hub",
+    "attention": "sdpa",
+    "packages": {
+      "transformers": "4.57.6",
+      "torch": "2.6.0"
+    },
+    "max_context": 131072
+  },
+  "glm-5.3-nvfp4": {
+    "revision": "ce67b36f3669192b5bb233819f0fda6c8a9837f8",
+    "tokenizer_model": "zai-org/GLM-5.3",
+    "tokenizer_revision": "ba32f8c19c8738e2c57c71798c601d477a7bf844",
+    "layers": 78,
+    "width": 6144,
+    "quantization": "modelopt_fp4",
+    "tensor_parallel_size": 4,
+    "gpu": "B200:4",
+    "name": "Inferact/GLM-5.3-NVFP4",
+    "family": "glm",
+    "template_kwargs": {
+      "enable_thinking": true,
+      "reasoning_effort": "low"
+    },
+    "max_context": 131072,
+    "cache_volume": "canonical-glm53-model-cache-v1",
+    "hub_cache": "/models/hub",
+    "packages": {}
+  },
+  "gemma-3-4b": {
+    "name": "google/gemma-3-4b-it",
+    "revision": "093f9f388b31de276ce2de164bdc2081324b9767",
+    "backend": "vllm_lens",
+    "family": "gemma",
+    "tokenizer_model": "google/gemma-3-4b-it",
+    "tokenizer_revision": "093f9f388b31de276ce2de164bdc2081324b9767",
+    "width": 2560,
+    "layers": 34,
+    "quantization": null,
+    "tensor_parallel_size": 1,
+    "gpu": "H100",
+    "cache_volume": "canonical-gemma3-model-cache-v1",
+    "hub_cache": "/models/hub",
+    "max_context": 131072,
+    "limit_mm_per_prompt": {
+      "image": 0
+    },
+    "template_kwargs": {},
+    "packages": {
+      "torch": "2.13.0",
+      "vllm": "0.30.0",
+      "vllm-lens": "1.2.1",
+      "transformers": "5.17.0"
+    }
+  },
+  "gemma-3-27b-vllm": {
+    "name": "google/gemma-3-27b-it",
+    "revision": "005ad3404e59d6023443cb575daa05336842228a",
+    "backend": "vllm_lens",
+    "family": "gemma",
+    "tokenizer_model": "google/gemma-3-27b-it",
+    "tokenizer_revision": "005ad3404e59d6023443cb575daa05336842228a",
+    "width": 5376,
+    "layers": 62,
+    "quantization": null,
+    "tensor_parallel_size": 1,
+    "gpu": "H200",
+    "cache_volume": "gemma27-probe-model-cache-v1",
+    "hub_cache": "/models/hub",
+    "max_context": 131072,
+    "limit_mm_per_prompt": {
+      "image": 0
+    },
+    "template_kwargs": {},
+    "packages": {
+      "torch": "2.13.0",
+      "vllm": "0.30.0",
+      "vllm-lens": "1.2.1",
+      "transformers": "5.17.0"
+    }
+  },
+  "gpt-oss-120b-lens": {
+    "name": "openai/gpt-oss-120b",
+    "revision": "b5c939de8f754692c1647ca79fbf85e8c1e70f8a",
+    "class": "AutoModelForCausalLM",
+    "template_kwargs": {
+      "reasoning_effort": "low"
+    },
+    "family": "gpt_oss",
+    "width": 2880,
+    "layers": 36,
+    "layers_path": "model.layers",
+    "gpu": "H200",
+    "cache_volume": "gpt-oss120-probe-model-cache-v1",
+    "hub_cache": "/models/hub",
+    "attention": "eager",
+    "packages": {},
+    "kernel_repository": "kernels-community/triton_kernels",
+    "kernel_revision": "b26c936cb02fb91920cbccfc7454284b47d86b0d",
+    "max_context": 131072,
+    "backend": "vllm_lens",
+    "quantization": "mxfp4",
+    "tensor_parallel_size": 1
+  }
+}

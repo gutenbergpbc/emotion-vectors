@@ -1,0 +1,29 @@
+{
+  "experiment": "emotion-self-report",
+  "run_id": "gpt-oss-120b-coding-self-report-example-v1",
+  "model": "openai/gpt-oss-120b",
+  "environment": "coding",
+  "mode": "collect",
+  "traces": "../../gpt_oss_coding_early_warning_20261016/cases.json",
+  "checkpoints": "../../gpt_oss_self_report_plan_20261016/plan.json",
+  "prompt": "task_stance",
+  "emotions": [
+    "hostile",
+    "frustrated",
+    "excited",
+    "appreciative",
+    "sad",
+    "afraid",
+    "surprised",
+    "anxious",
+    "guilty",
+    "ashamed",
+    "desperate",
+    "calm"
+  ],
+  "exclude_labels": [
+    "ambiguous"
+  ],
+  "bootstrap_replicates": 2000,
+  "seed": 20261021
+}

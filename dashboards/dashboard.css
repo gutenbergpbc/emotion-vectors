@@ -1,0 +1,32 @@
+:root { color-scheme: light; font: 16px/1.5 system-ui, sans-serif; color: #17232d; background: #f5f8fa; }
+* { box-sizing: border-box; }
+body { margin: 0; padding: 40px 16px; }
+main { max-width: 900px; margin: auto; padding: 28px; background: white; border: 1px solid #dce4e8; border-radius: 12px; }
+h1 { font-size: 28px; line-height: 1.2; margin: 0 0 14px; }
+p { margin: 12px 0; overflow-wrap: anywhere; }
+#description, .muted, #freshness { color: #53616d; }
+#connection { font-size: 14px; }
+.counter { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 8px; margin: 22px 0 10px; }
+.counter strong { font-size: 23px; font-variant-numeric: tabular-nums; }
+progress { display: block; appearance: none; border: 0; border-radius: 12px; width: 100%; height: 14px; overflow: hidden; background: #e5ecef; accent-color: #217a70; }
+progress::-webkit-progress-bar { background: #e5ecef; }
+progress::-webkit-progress-value { background: #217a70; border-radius: 12px; }
+progress::-moz-progress-bar { background: #217a70; }
+progress:indeterminate { background: repeating-linear-gradient(90deg, #dce4e8 0 16px, #edf2f4 16px 32px); }
+progress:indeterminate::-webkit-progress-bar { background: repeating-linear-gradient(90deg, #dce4e8 0 16px, #edf2f4 16px 32px); }
+#stages { display: grid; grid-template-columns: repeat(auto-fit, minmax(145px, 1fr)); gap: 10px; margin: 24px 0; }
+.stage { padding: 14px; border: 1px solid #dce4e8; border-radius: 8px; min-width: 0; overflow-wrap: anywhere; }
+.stage h2 { font-size: 15px; margin: 0 0 5px; }
+.stage p { font-size: 13px; margin: 7px 0; }
+.stage progress { height: 7px; }
+.stage[data-state="running"] { border-color: #217a70; }
+.stage[data-state="failed"] { border-color: #ac3838; }
+.error { color: #922b2b; background: #fff0ef; padding: 10px; border-radius: 6px; }
+.notice { color: #775418; background: #fff5df; padding: 10px; border-radius: 6px; }
+a { color: #175f9b; overflow-wrap: anywhere; }
+nav { display: flex; flex-wrap: wrap; gap: 8px 18px; margin: 22px 0 14px; }
+details { font-size: 14px; color: #53616d; }
+summary { cursor: pointer; }
+pre { white-space: pre-wrap; overflow-wrap: anywhere; font-size: 12px; }
+[hidden] { display: none !important; }
+@media (max-width: 480px) { body { padding: 16px 10px; } main { padding: 20px 16px; } h1 { font-size: 24px; } }

@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "experiment": "emotion-rh-forecasting",
+  "run_id": "gemma-3-27b-coding-verbose-haiku55-v1",
+  "title": "Gemma 27B \u00b7 Coding, verbose prompt \u00b7 Haiku labels",
+  "probe_bundle": "../runs/emotion-rh-replay/gemma3-27b-coding-haiku55-v3/probes.json",
+  "dataset": {
+    "format": "token-replay-v1",
+    "path": "../runs/emotion-rh-replay/gemma3-27b-coding-haiku55-v3"
+  },
+  "scoring": {
+    "backend": "cached"
+  },
+  "evaluation": {
+    "method": "provided"
+  },
+  "seed": 20261026,
+  "repeats": 2000
+}

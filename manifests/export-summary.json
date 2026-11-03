@@ -1,0 +1,26 @@
+{
+  "files": 18071,
+  "counts": {
+    "datasets": 316,
+    "probes": 24,
+    "traces": 17125,
+    "results": 606
+  },
+  "bytes_by_category": {
+    "datasets": 220495801,
+    "probes": 11325857,
+    "traces": 965149238,
+    "results": 403104082
+  },
+  "catalog_coverage": {
+    "included": 170,
+    "missing_source": 4,
+    "derived_artifact_excluded": 11
+  },
+  "excludes": [
+    "activations",
+    "token scores",
+    "token caches",
+    "model weights"
+  ]
+}

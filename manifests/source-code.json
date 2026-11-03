@@ -1,0 +1,2761 @@
+{
+  "source_repository": "gutenbergpbc/code",
+  "source_subdirectory": "model-forensics",
+  "files": [
+    {
+      "source": "experiments/canonical/emotion-probes/README.md",
+      "destination": "src/experiments/emotion-probes/README.md",
+      "source_sha256": "1d5d117dc9e383dff05d4169ed755bdccb35b41241024b582aa723087b2e02e4",
+      "migration_status": "included",
+      "destination_sha256": "3b27d27a9e4aa59cb03ff99effcbe84ff13a5dfc1ad0eb1470eeea2dc6e3518d"
+    },
+    {
+      "source": "experiments/canonical/emotion-probes/diagnose_capture.py",
+      "destination": "src/experiments/emotion-probes/diagnose_capture.py",
+      "source_sha256": "aa8389f1d8bf51fb18c9dbb625135b8faabb083db3f86e0aecd9a3ec5af79f55",
+      "migration_status": "included",
+      "destination_sha256": "37678d6190d8897bb05ae30e16eb1fa87be0ac5b80e5a5b4844f74597276ab58"
+    },
+    {
+      "source": "experiments/canonical/emotion-probes/emotion_probes/__init__.py",
+      "destination": "src/experiments/emotion-probes/emotion_probes/__init__.py",
+      "source_sha256": "7d07549c310d220a6c6666e9d2f2b54819b6d0f1ed4a402ee42a3d17c8979dfb",
+      "migration_status": "included",
+      "destination_sha256": "7d07549c310d220a6c6666e9d2f2b54819b6d0f1ed4a402ee42a3d17c8979dfb"
+    },
+    {
+      "source": "experiments/canonical/emotion-probes/emotion_probes/config.py",
+      "destination": "src/experiments/emotion-probes/emotion_probes/config.py",
+      "source_sha256": "d1d0c3abe1e04dcfdb2d385bafb389a3687abf3eb9397894dafd96f5c0045503",
+      "migration_status": "included",
+      "destination_sha256": "090a141d8b0893c59db921e6997f0551b9835a93dd3f46b0cf5e5bc1c858e8a6"
+    },
+    {
+      "source": "experiments/canonical/emotion-probes/emotion_probes/data.py",
+      "destination": "src/experiments/emotion-probes/emotion_probes/data.py",
+      "source_sha256": "b993540cd83026395faeffc76b6a4ae74f0e79cef529d7085d5efbbee6439f47",
+      "migration_status": "included",
+      "destination_sha256": "b993540cd83026395faeffc76b6a4ae74f0e79cef529d7085d5efbbee6439f47"
+    },
+    {
+      "source": "experiments/canonical/emotion-probes/emotion_probes/evaluation.py",
+      "destination": "src/experiments/emotion-probes/emotion_probes/evaluation.py",
+      "source_sha256": "f8493af619955d6b33a324403242af414b411beceb05254ce42ef6378cb98b7a",
+      "migration_status": "included",
+      "destination_sha256": "f8493af619955d6b33a324403242af414b411beceb05254ce42ef6378cb98b7a"
+    },
+    {
+      "source": "experiments/canonical/emotion-probes/emotion_probes/extraction.py",
+      "destination": "src/experiments/emotion-probes/emotion_probes/extraction.py",
+      "source_sha256": "ba755caf481f6bc3a623cef31f260f6637a813715e55743ed29535bdb146cb60",
+      "migration_status": "included",
+      "destination_sha256": "ba755caf481f6bc3a623cef31f260f6637a813715e55743ed29535bdb146cb60"
+    },
+    {
+      "source": "experiments/canonical/emotion-probes/emotion_probes/fitting.py",
+      "destination": "src/experiments/emotion-probes/emotion_probes/fitting.py",
+      "source_sha256": "5a6e7da2485e0f049db9fa5f08595db172941f43b25c4c5feb8ca3217e2b9425",
+      "migration_status": "included",
+      "destination_sha256": "5a6e7da2485e0f049db9fa5f08595db172941f43b25c4c5feb8ca3217e2b9425"
+    },
+    {
+      "source": "experiments/canonical/emotion-probes/emotion_probes/gemma_rendering.py",
+      "destination": "src/experiments/emotion-probes/emotion_probes/gemma_rendering.py",
+      "source_sha256": "1e23b5b8249919d80c9448d081d2c1e48e3ad891be819ea9da0ef9edd41c033f",
+      "migration_status": "included",
+      "destination_sha256": "6d362256683d0afe2fc7f13628cf40d5ed4265e79c79f7ec656c4a5e0b30c0b7"
+    },
+    {
+      "source": "experiments/canonical/emotion-probes/emotion_probes/pipeline.py",
+      "destination": "src/experiments/emotion-probes/emotion_probes/pipeline.py",
+      "source_sha256": "a6c13044717d4de3911954a4f4144d9a81787353cae4973d6a1c9e23eea37ac6",
+      "migration_status": "included",
+      "destination_sha256": "a6c13044717d4de3911954a4f4144d9a81787353cae4973d6a1c9e23eea37ac6"
+    },
+    {
+      "source": "experiments/canonical/emotion-probes/emotion_probes/rendering.py",
+      "destination": "src/experiments/emotion-probes/emotion_probes/rendering.py",
+      "source_sha256": "9da4a1e30e4c9bb561652621a24aee2e044ec3dc8b11e1116647d7ab3b183200",
+      "migration_status": "included",
+      "destination_sha256": "9da4a1e30e4c9bb561652621a24aee2e044ec3dc8b11e1116647d7ab3b183200"
+    },
+    {
+      "source": "experiments/canonical/emotion-probes/emotion_probes/reporting.py",
+      "destination": "src/experiments/emotion-probes/emotion_probes/reporting.py",
+      "source_sha256": "dae3a6ab230c495517e8be5283848645fcd476007795008dcece336c4d71a072",
+      "migration_status": "included",
+      "destination_sha256": "dae3a6ab230c495517e8be5283848645fcd476007795008dcece336c4d71a072"
+    },
+    {
+      "source": "experiments/canonical/emotion-probes/emotion_probes/statistics.py",
+      "destination": "src/experiments/emotion-probes/emotion_probes/statistics.py",
+      "source_sha256": "510906a9979c9c0371edf349ae0270a963d79657f597ab0637c61815fcd5c91b",
+      "migration_status": "included",
+      "destination_sha256": "451dd4308140107f59477c3728f5bbf0b0dadf4fba374ebce6981602d7b67fbc"
+    },
+    {
+      "source": "experiments/canonical/emotion-probes/kernel_smoke.py",
+      "destination": "src/experiments/emotion-probes/kernel_smoke.py",
+      "source_sha256": "59dc147e2365dae612f89194ceb4c0047a9a122368d1a136987a0140ca9a3586",
+      "migration_status": "included",
+      "destination_sha256": "b404021b95ff99d11418dcf43cacb73b3b23df9313b5eb123182eb467948215b"
+    },
+    {
+      "source": "experiments/canonical/emotion-probes/modal_worker.py",
+      "destination": "src/experiments/emotion-probes/modal_worker.py",
+      "source_sha256": "830413cdde785f4253e674a8a14b2d2004a3a035d2fe8e680dbc7617347687a0",
+      "migration_status": "included",
+      "destination_sha256": "e417bf2f06bbea0b59f2edad746e4a50e89cc2cd49417e8d8053043ed82d6962"
+    },
+    {
+      "source": "experiments/canonical/emotion-probes/prepare_stories.py",
+      "destination": "src/experiments/emotion-probes/prepare_stories.py",
+      "source_sha256": "20835a847ef4386a117631364bf793c4bed12dbd73f586ac4ce544b30135e467",
+      "migration_status": "included",
+      "destination_sha256": "65cdd0a609f83416a482483b6cf21231d04ca939d48f38898bb4f0f7f4369ad1"
+    },
+    {
+      "source": "experiments/canonical/emotion-probes/resume_from_extract.py",
+      "destination": "src/experiments/emotion-probes/resume_from_extract.py",
+      "source_sha256": "c4781d561a1eeedce6af4f351f09cb5d5ba9338f5d2158b06500168d9be8184b",
+      "migration_status": "included",
+      "destination_sha256": "7da008550c920f086d7b4382de093dd1c0f232da8cba75cf3455c539e6afb028"
+    },
+    {
+      "source": "experiments/canonical/emotion-probes/run.py",
+      "destination": "src/experiments/emotion-probes/run.py",
+      "source_sha256": "c610943b5c0f9f2b23233288032862914f4d21b43f454d9d97f5b2b8180f11ee",
+      "migration_status": "included",
+      "destination_sha256": "2f066cbfcdb6cbdb6b99c2ff8239f78f73bcd674be5588b57b1bc9de87d4b2e7"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/GPTOSS_ACTIVE_TIMING.md",
+      "destination": "src/experiments/emotion-steering/GPTOSS_ACTIVE_TIMING.md",
+      "source_sha256": "e2a701af8983b62779830ef9afd80b488a04c9a539a25c181e4a6f69d164ed76",
+      "migration_status": "included",
+      "destination_sha256": "e2a701af8983b62779830ef9afd80b488a04c9a539a25c181e4a6f69d164ed76"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/README.md",
+      "destination": "src/experiments/emotion-steering/README.md",
+      "source_sha256": "9a24e7f8db134dac8499af161857f61eaca2433a9c9f6849ac70a8dfb5aeebb5",
+      "migration_status": "included",
+      "destination_sha256": "43018215254536eba0f56e7caae537cb64af0a172d13ba843bca617bd5f9b9d7"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/TERMINALWRENCH_EVALUATION.md",
+      "destination": "src/experiments/emotion-steering/TERMINALWRENCH_EVALUATION.md",
+      "source_sha256": "aab89113c3eb433acd222256be10900758b753e86fcc49cd117576396a75c1a8",
+      "migration_status": "included",
+      "destination_sha256": "aab89113c3eb433acd222256be10900758b753e86fcc49cd117576396a75c1a8"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/_kit/figkit.py",
+      "destination": "src/experiments/emotion-steering/_kit/figkit.py",
+      "source_sha256": "f1af34130e9fc6375767988b11900fea6cf650df728e7a859ab7fb80d9e5dfbd",
+      "migration_status": "included",
+      "destination_sha256": "f1af34130e9fc6375767988b11900fea6cf650df728e7a859ab7fb80d9e5dfbd"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/_kit/fonts/Inter-LICENSE.txt",
+      "destination": "src/experiments/emotion-steering/_kit/fonts/Inter-LICENSE.txt",
+      "source_sha256": "262481e844521b326f5ecd053e59b98c8b2da78c8ee1bdbb6e8174305e54935a",
+      "migration_status": "included",
+      "destination_sha256": "262481e844521b326f5ecd053e59b98c8b2da78c8ee1bdbb6e8174305e54935a"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/_kit/fonts/Inter-Regular.ttf",
+      "destination": "src/experiments/emotion-steering/_kit/fonts/Inter-Regular.ttf",
+      "source_sha256": "40d692fce188e4471e2b3cba937be967878f631ad3ebbbdcd587687c7ebe0c82",
+      "migration_status": "included",
+      "destination_sha256": "40d692fce188e4471e2b3cba937be967878f631ad3ebbbdcd587687c7ebe0c82"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/_kit/fonts/Inter-SemiBold.ttf",
+      "destination": "src/experiments/emotion-steering/_kit/fonts/Inter-SemiBold.ttf",
+      "source_sha256": "78a843fade9d4612a5567302fb595b56976eb5fcebf4fea5a5912d638bafcde3",
+      "migration_status": "included",
+      "destination_sha256": "78a843fade9d4612a5567302fb595b56976eb5fcebf4fea5a5912d638bafcde3"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/audit_terminalwrench_glm53_neutral10_20261101.py",
+      "destination": "src/experiments/emotion-steering/audit_terminalwrench_glm53_neutral10_20261101.py",
+      "source_sha256": "47aedd1f3947bf6781e6c664429f8e9bc1b08d587416aca377d4f14e955f717f",
+      "migration_status": "included",
+      "destination_sha256": "64e4d2c3c6c596ae039f985fce464a16fc548248ef7fb05b9fb5589c92081941"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/audit_terminalwrench_neutral20_review_astra.py",
+      "destination": "src/experiments/emotion-steering/audit_terminalwrench_neutral20_review_astra.py",
+      "source_sha256": "0ab47ed0978a7450c1219b43c762bf98b61e922705748ff4f55abee8a6a5e17d",
+      "migration_status": "included",
+      "destination_sha256": "e47da7c641b40f58dcf276a6b9e65258c1e4ddbd0068638b0b1789cd409d1813"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/audit_terminalwrench_positive_labels.py",
+      "destination": "src/experiments/emotion-steering/audit_terminalwrench_positive_labels.py",
+      "source_sha256": "0ff05f55f5110e16906998ec4707807185a5cdd6dd054597b7c9536e4bfb34db",
+      "migration_status": "included",
+      "destination_sha256": "0bacfe71f6e7b7c1d6102dcc05432b653f3fc4999ab3d5d536c21a15715257bc"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/audit_terminalwrench_v7_steering_sentences.py",
+      "destination": "src/experiments/emotion-steering/audit_terminalwrench_v7_steering_sentences.py",
+      "source_sha256": "397dec4f86a51ed1b88969b5fba71d562d8c1a945a93dde3130c234723672cdb",
+      "migration_status": "included",
+      "destination_sha256": "8fff15bdbdad5ea81f8ae9e121ad66f4993e42a8482f67b9018e98bd09c4cc48"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/benchmark_continuous.py",
+      "destination": "src/experiments/emotion-steering/benchmark_continuous.py",
+      "source_sha256": "2cfd5bb3e439efc607bb50028b4e4756469d82d4a1c9639a6d0a0f1f2bd4b1a7",
+      "migration_status": "included",
+      "destination_sha256": "fa80c4c2e8c1870450f9c89c1a75056c28b464a2e343aceacc0926df914bfabf"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/build_terminalwrench_rh_expanded_20261026.py",
+      "destination": "src/experiments/emotion-steering/build_terminalwrench_rh_expanded_20261026.py",
+      "source_sha256": "7a99ca70aac27fd61810c3841ff6c0743935e5cb6d666d220a27a0c36b8d6ba0",
+      "migration_status": "included",
+      "destination_sha256": "332c3f294bcce14c17f393139b248f40a2c80cde97f4adc86aabb4c9f82a144f"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/continue_batch.py",
+      "destination": "src/experiments/emotion-steering/continue_batch.py",
+      "source_sha256": "189e1e85a4826de3c30dab60f6f5e4b0a670cbf136594ed2895f05892345222f",
+      "migration_status": "included",
+      "destination_sha256": "d54d1a02172e73848f7f549512f21f5781948776066e208cfdbd696090a04613"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/data/terminalwrench-tasks/1351/analysis.toml",
+      "destination": "src/experiments/emotion-steering/data/terminalwrench-tasks/1351/analysis.toml",
+      "source_sha256": "6bca9c85318761d642762ca5b18de009bfebfb1002cdf9406d7757ffc33e783e",
+      "migration_status": "included",
+      "destination_sha256": "6bca9c85318761d642762ca5b18de009bfebfb1002cdf9406d7757ffc33e783e"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/data/terminalwrench-tasks/1351/environment/draft_spec.md",
+      "destination": "src/experiments/emotion-steering/data/terminalwrench-tasks/1351/environment/draft_spec.md",
+      "source_sha256": "3d594e375143014f9a8fc3b7d4fb34efe861a5e1f1fb0b294b45f5c51a59544a",
+      "migration_status": "included",
+      "destination_sha256": "3d594e375143014f9a8fc3b7d4fb34efe861a5e1f1fb0b294b45f5c51a59544a"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/data/terminalwrench-tasks/1351/instruction.md",
+      "destination": "src/experiments/emotion-steering/data/terminalwrench-tasks/1351/instruction.md",
+      "source_sha256": "58eb4aef6d2b36b6faebdf04b50b2e12fc9c290b5965aaf86c10033a53c6d519",
+      "migration_status": "included",
+      "destination_sha256": "58eb4aef6d2b36b6faebdf04b50b2e12fc9c290b5965aaf86c10033a53c6d519"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/data/terminalwrench-tasks/1351/solution/solve.sh",
+      "destination": "src/experiments/emotion-steering/data/terminalwrench-tasks/1351/solution/solve.sh",
+      "source_sha256": "1ee9d4dc813031af7a85c2a795288a6d2a17769f4864d48a7fd176e6bf357fc7",
+      "migration_status": "included",
+      "destination_sha256": "1ee9d4dc813031af7a85c2a795288a6d2a17769f4864d48a7fd176e6bf357fc7"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/data/terminalwrench-tasks/1351/task.toml",
+      "destination": "src/experiments/emotion-steering/data/terminalwrench-tasks/1351/task.toml",
+      "source_sha256": "8bd723d51cfcdf5337e03b011142ec5d378dbe38868946ebdd5ebe8f9591b179",
+      "migration_status": "included",
+      "destination_sha256": "8bd723d51cfcdf5337e03b011142ec5d378dbe38868946ebdd5ebe8f9591b179"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/data/terminalwrench-tasks/1351/tests/test.sh",
+      "destination": "src/experiments/emotion-steering/data/terminalwrench-tasks/1351/tests/test.sh",
+      "source_sha256": "fc9835e405cbbb0389d09b6482294a11e8f7ea4b856ec88162b8239c8b4b4d67",
+      "migration_status": "included",
+      "destination_sha256": "fc9835e405cbbb0389d09b6482294a11e8f7ea4b856ec88162b8239c8b4b4d67"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/data/terminalwrench-tasks/1351/tests/test_outputs.py",
+      "destination": "src/experiments/emotion-steering/data/terminalwrench-tasks/1351/tests/test_outputs.py",
+      "source_sha256": "469d2fd2cb70881742c77b351e06a8edaaa997afff137fe97c8fb8a0da60e5e2",
+      "migration_status": "included",
+      "destination_sha256": "469d2fd2cb70881742c77b351e06a8edaaa997afff137fe97c8fb8a0da60e5e2"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/data/terminalwrench-tasks/606/analysis.toml",
+      "destination": "src/experiments/emotion-steering/data/terminalwrench-tasks/606/analysis.toml",
+      "source_sha256": "3f05cbc9bf7de986e162f506258f84131068836402f688060bac9e904052de8a",
+      "migration_status": "included",
+      "destination_sha256": "3f05cbc9bf7de986e162f506258f84131068836402f688060bac9e904052de8a"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/data/terminalwrench-tasks/606/environment/draft_spec.md",
+      "destination": "src/experiments/emotion-steering/data/terminalwrench-tasks/606/environment/draft_spec.md",
+      "source_sha256": "f7f83213454c0225d80f882b09efb5570cdd8d7ad00d34ceb79bbc80ee4fc025",
+      "migration_status": "included",
+      "destination_sha256": "f7f83213454c0225d80f882b09efb5570cdd8d7ad00d34ceb79bbc80ee4fc025"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/data/terminalwrench-tasks/606/instruction.md",
+      "destination": "src/experiments/emotion-steering/data/terminalwrench-tasks/606/instruction.md",
+      "source_sha256": "1770f80fb1e04a1e17c59d7e88f13dfa2e9f51ebb89e7071d8b7903185c30973",
+      "migration_status": "included",
+      "destination_sha256": "1770f80fb1e04a1e17c59d7e88f13dfa2e9f51ebb89e7071d8b7903185c30973"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/data/terminalwrench-tasks/606/solution/solve.sh",
+      "destination": "src/experiments/emotion-steering/data/terminalwrench-tasks/606/solution/solve.sh",
+      "source_sha256": "8545b6cf857d4b3bc703ac58c2816167c84afa5081b6818c467692fef00e76de",
+      "migration_status": "included",
+      "destination_sha256": "8545b6cf857d4b3bc703ac58c2816167c84afa5081b6818c467692fef00e76de"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/data/terminalwrench-tasks/606/task.toml",
+      "destination": "src/experiments/emotion-steering/data/terminalwrench-tasks/606/task.toml",
+      "source_sha256": "baa137c2727e63c212a35bbbe36ddb0fcde31455a2ca87c5c1df769732ad68fc",
+      "migration_status": "included",
+      "destination_sha256": "baa137c2727e63c212a35bbbe36ddb0fcde31455a2ca87c5c1df769732ad68fc"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/data/terminalwrench-tasks/606/tests/test.sh",
+      "destination": "src/experiments/emotion-steering/data/terminalwrench-tasks/606/tests/test.sh",
+      "source_sha256": "fc9835e405cbbb0389d09b6482294a11e8f7ea4b856ec88162b8239c8b4b4d67",
+      "migration_status": "included",
+      "destination_sha256": "fc9835e405cbbb0389d09b6482294a11e8f7ea4b856ec88162b8239c8b4b4d67"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/data/terminalwrench-tasks/606/tests/test_outputs.py",
+      "destination": "src/experiments/emotion-steering/data/terminalwrench-tasks/606/tests/test_outputs.py",
+      "source_sha256": "c25579afe8dfcd491f23a55ef70b6e141c0e65581df722aaf8ae862b520a20de",
+      "migration_status": "included",
+      "destination_sha256": "c25579afe8dfcd491f23a55ef70b6e141c0e65581df722aaf8ae862b520a20de"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/data/terminalwrench-tasks/flood-escape-path-planner/analysis.toml",
+      "destination": "src/experiments/emotion-steering/data/terminalwrench-tasks/flood-escape-path-planner/analysis.toml",
+      "source_sha256": "ee69b3daf58f6b587810ec9b1f72a734d26581eea69c0fe5eeb1a3502addce6a",
+      "migration_status": "included",
+      "destination_sha256": "ee69b3daf58f6b587810ec9b1f72a734d26581eea69c0fe5eeb1a3502addce6a"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/data/terminalwrench-tasks/flood-escape-path-planner/environment/flood_simulator.py",
+      "destination": "src/experiments/emotion-steering/data/terminalwrench-tasks/flood-escape-path-planner/environment/flood_simulator.py",
+      "source_sha256": "6192ef8ee68220b30bf744d4a2c928a37fc60b0a518429205dbe5bd5f8c5ff5a",
+      "migration_status": "included",
+      "destination_sha256": "6192ef8ee68220b30bf744d4a2c928a37fc60b0a518429205dbe5bd5f8c5ff5a"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/data/terminalwrench-tasks/flood-escape-path-planner/instruction.md",
+      "destination": "src/experiments/emotion-steering/data/terminalwrench-tasks/flood-escape-path-planner/instruction.md",
+      "source_sha256": "44a8d4968ff99fa377ed99ba8369e6041b4e3d442d8340ca7e74953beb8a0cac",
+      "migration_status": "included",
+      "destination_sha256": "44a8d4968ff99fa377ed99ba8369e6041b4e3d442d8340ca7e74953beb8a0cac"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/data/terminalwrench-tasks/flood-escape-path-planner/solution/solve.sh",
+      "destination": "src/experiments/emotion-steering/data/terminalwrench-tasks/flood-escape-path-planner/solution/solve.sh",
+      "source_sha256": "938b89083694f299aa5f1e7754ecd10c0d7b365d0992b6d7ac42c846ff1d072c",
+      "migration_status": "included",
+      "destination_sha256": "938b89083694f299aa5f1e7754ecd10c0d7b365d0992b6d7ac42c846ff1d072c"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/data/terminalwrench-tasks/flood-escape-path-planner/task.toml",
+      "destination": "src/experiments/emotion-steering/data/terminalwrench-tasks/flood-escape-path-planner/task.toml",
+      "source_sha256": "eab1a12c87da9d631b16f2869cd424c73b76890a37f8d315f9af0ffe6ef952f5",
+      "migration_status": "included",
+      "destination_sha256": "eab1a12c87da9d631b16f2869cd424c73b76890a37f8d315f9af0ffe6ef952f5"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/data/terminalwrench-tasks/flood-escape-path-planner/tests/test.sh",
+      "destination": "src/experiments/emotion-steering/data/terminalwrench-tasks/flood-escape-path-planner/tests/test.sh",
+      "source_sha256": "a2fa3e02a7992aa638db977efe0d1a761d6a43e905d3bf027c8e49166e2ba8ef",
+      "migration_status": "included",
+      "destination_sha256": "a2fa3e02a7992aa638db977efe0d1a761d6a43e905d3bf027c8e49166e2ba8ef"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/data/terminalwrench-tasks/flood-escape-path-planner/tests/test_outputs.py",
+      "destination": "src/experiments/emotion-steering/data/terminalwrench-tasks/flood-escape-path-planner/tests/test_outputs.py",
+      "source_sha256": "b9d43a0a19f167591bcae57e0d97a61b5a465da46803a323c1976a578cf83fed",
+      "migration_status": "included",
+      "destination_sha256": "b9d43a0a19f167591bcae57e0d97a61b5a465da46803a323c1976a578cf83fed"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/emotion_steering/__init__.py",
+      "destination": "src/experiments/emotion-steering/emotion_steering/__init__.py",
+      "source_sha256": "ae169192e41ba9b6b1175e2fed281796fcc689314e8b8bb2bcf09b1870cce4e4",
+      "migration_status": "included",
+      "destination_sha256": "ae169192e41ba9b6b1175e2fed281796fcc689314e8b8bb2bcf09b1870cce4e4"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/emotion_steering/active_budget.py",
+      "destination": "src/experiments/emotion-steering/emotion_steering/active_budget.py",
+      "source_sha256": "365eba0f40282234af67b64dea3eb06742f9cc60557dc1aa2a20f6514abb6492",
+      "migration_status": "included",
+      "destination_sha256": "365eba0f40282234af67b64dea3eb06742f9cc60557dc1aa2a20f6514abb6492"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/emotion_steering/async_backend.py",
+      "destination": "src/experiments/emotion-steering/emotion_steering/async_backend.py",
+      "source_sha256": "8087c35c4de17765d5205ed55a294a96c2b4e3ca3a9d3d31679eb5dcffbbf111",
+      "migration_status": "included",
+      "destination_sha256": "8087c35c4de17765d5205ed55a294a96c2b4e3ca3a9d3d31679eb5dcffbbf111"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/emotion_steering/backend.py",
+      "destination": "src/experiments/emotion-steering/emotion_steering/backend.py",
+      "source_sha256": "5ff600da45bb1be375a889dc230d0a8efb6c62e8eca23353881de174d30453c7",
+      "migration_status": "included",
+      "destination_sha256": "5ff600da45bb1be375a889dc230d0a8efb6c62e8eca23353881de174d30453c7"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/emotion_steering/config.py",
+      "destination": "src/experiments/emotion-steering/emotion_steering/config.py",
+      "source_sha256": "95ed2a024f7110ea3cce9664c531c25c87fe0ed79d8924668c343da24e611a97",
+      "migration_status": "included",
+      "destination_sha256": "4686d221beeed856018fe39f0551f5f3186b74cbaf21e4c9aa71bb47e0c3970e"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/emotion_steering/environments.py",
+      "destination": "src/experiments/emotion-steering/emotion_steering/environments.py",
+      "source_sha256": "bc71c9e379aee3409bb65d071fc459dea86dce3ba893e08b930af3043e137e6e",
+      "migration_status": "included",
+      "destination_sha256": "bc71c9e379aee3409bb65d071fc459dea86dce3ba893e08b930af3043e137e6e"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/emotion_steering/inference_queue.py",
+      "destination": "src/experiments/emotion-steering/emotion_steering/inference_queue.py",
+      "source_sha256": "64f04294772af2f0c1795c8308d4d4526326fce60b1bb1e64ed14081e985d609",
+      "migration_status": "included",
+      "destination_sha256": "57b58e58cfee341db0801bf1c31e14a587f6e593cde0b3fd9fa3541b4c074e23"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/emotion_steering/judging.py",
+      "destination": "src/experiments/emotion-steering/emotion_steering/judging.py",
+      "source_sha256": "3f5eecc773859f17c5516c13be5f1593e3b8b19218a7def3063409792d74c7c9",
+      "migration_status": "included",
+      "destination_sha256": "3f5eecc773859f17c5516c13be5f1593e3b8b19218a7def3063409792d74c7c9"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/emotion_steering/lens_worker_ext.py",
+      "destination": "src/experiments/emotion-steering/emotion_steering/lens_worker_ext.py",
+      "source_sha256": "a96007fab7259d5dc865d55ce58515339faed25c8d34eb434c90fe64006cb7f4",
+      "migration_status": "included",
+      "destination_sha256": "a96007fab7259d5dc865d55ce58515339faed25c8d34eb434c90fe64006cb7f4"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/emotion_steering/pipeline.py",
+      "destination": "src/experiments/emotion-steering/emotion_steering/pipeline.py",
+      "source_sha256": "bb3ae98c0b1a939c67f2938cc5d8a3cd92b5d6176b1eea8e51e1d9e353e47606",
+      "migration_status": "included",
+      "destination_sha256": "bb3ae98c0b1a939c67f2938cc5d8a3cd92b5d6176b1eea8e51e1d9e353e47606"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/emotion_steering/remote.py",
+      "destination": "src/experiments/emotion-steering/emotion_steering/remote.py",
+      "source_sha256": "3e868c44479ba1d1083941973d657489f2f926c826d460aab8a5180cca276a83",
+      "migration_status": "included",
+      "destination_sha256": "3e868c44479ba1d1083941973d657489f2f926c826d460aab8a5180cca276a83"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/emotion_steering/reporting.py",
+      "destination": "src/experiments/emotion-steering/emotion_steering/reporting.py",
+      "source_sha256": "9ccd6515aba5bf868bbfa87d883e26774a25a9f052fda0739b698393e0ceab0a",
+      "migration_status": "included",
+      "destination_sha256": "9ccd6515aba5bf868bbfa87d883e26774a25a9f052fda0739b698393e0ceab0a"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/emotion_steering/terminalwrench.py",
+      "destination": "src/experiments/emotion-steering/emotion_steering/terminalwrench.py",
+      "source_sha256": "2f56a56428fe34f8b876bc8a45d313f9927ba778b283092139151266f0eaa9b9",
+      "migration_status": "included",
+      "destination_sha256": "2f56a56428fe34f8b876bc8a45d313f9927ba778b283092139151266f0eaa9b9"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/emotion_steering/timed_proxy.py",
+      "destination": "src/experiments/emotion-steering/emotion_steering/timed_proxy.py",
+      "source_sha256": "ab7af5a173bd35a160494088df93868530a3e0b6c3bf9442e2199a2d4c156d88",
+      "migration_status": "included",
+      "destination_sha256": "ab7af5a173bd35a160494088df93868530a3e0b6c3bf9442e2199a2d4c156d88"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/finish_figures.py",
+      "destination": "src/experiments/emotion-steering/finish_figures.py",
+      "source_sha256": "088de4f6df4677eee291dfc42f22a1a4778494e849a07d0dbf69057b68ebede1",
+      "migration_status": "included",
+      "destination_sha256": "0924e2211ed86f1a6ba52648a6e35007a1d355fcbca3612a6dafb9b0fc33991e"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/finish_terminalwrench_glm53_neutral10_20261101.py",
+      "destination": "src/experiments/emotion-steering/finish_terminalwrench_glm53_neutral10_20261101.py",
+      "source_sha256": "f145051d810e86db8fc7c9502a81624e5f4aaabe0a62a05d8bc628420a3ce944",
+      "migration_status": "included",
+      "destination_sha256": "2f10c7eb83159112bfcc6287de0dd269371a9953e12fdabd788178e0c74824a0"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/glm_adaptive.py",
+      "destination": "src/experiments/emotion-steering/glm_adaptive.py",
+      "source_sha256": "651c1907503d192cf1bc75d792cb46ee8cd59a142a12957fe3f814dae087a952",
+      "migration_status": "included",
+      "destination_sha256": "aa96279f15da693bc4aa3dd71cb316b74499eafc6e8cfe4fa4c60081a155e369"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/glm_modal_worker.py",
+      "destination": "src/experiments/emotion-steering/glm_modal_worker.py",
+      "source_sha256": "3fb6f7ea1201bba67a49316b539d75519a50b10cfc2aa333378a0f0b973eacad",
+      "migration_status": "included",
+      "destination_sha256": "6e58c70288c6d80a0b31312813ee55dcbde0ed36aefa1573df6bbaa0ad2809e2"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/glm_sales_capped.py",
+      "destination": "src/experiments/emotion-steering/glm_sales_capped.py",
+      "source_sha256": "62d89af178365818ed9a09bd4bde4fd064803126e5631d724cdc40c41c3275ff",
+      "migration_status": "included",
+      "destination_sha256": "a1c04ffce9a122004033388b7793670f8d3c15250516cc203b723764c4d34876"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/glm_sales_capped_worker.py",
+      "destination": "src/experiments/emotion-steering/glm_sales_capped_worker.py",
+      "source_sha256": "fc069e73489e0139ae4fde3752c31ebd42f66157d15e24066816488a355125e7",
+      "migration_status": "included",
+      "destination_sha256": "23960af31080cc6f762e0602fc1b01809a664056b241b17b7a34a25fa4058733"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/gptoss_terminalwrench_backend.py",
+      "destination": "src/experiments/emotion-steering/gptoss_terminalwrench_backend.py",
+      "source_sha256": "50738a1faef09f17d114b5c98f349cdda3c2e11a20bd01b5cb6eb9db069a07d8",
+      "migration_status": "included",
+      "destination_sha256": "4ed74d78619cbc9a7e60e3070d8525fd22c5c6199f2f0b02abd787a8a7df498f"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/gptoss_terminalwrench_timing.py",
+      "destination": "src/experiments/emotion-steering/gptoss_terminalwrench_timing.py",
+      "source_sha256": "f659234e93a884f11b51b6f419a28f82f66a585656d634be37267e045712c4be",
+      "migration_status": "included",
+      "destination_sha256": "9d1c08b13eb5ad80444382b70905214bfaf9ea1a04c641c72c577ce40df022c7"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/gptoss_terminalwrench_worker.py",
+      "destination": "src/experiments/emotion-steering/gptoss_terminalwrench_worker.py",
+      "source_sha256": "f8c420c6277885e5cb5f053a1cda2b83968b672f0a8100f720c402b43347db63",
+      "migration_status": "included",
+      "destination_sha256": "de05c36a9fd5dde785faa9bf93b8094a03a814383764ef89695650eef95ca36e"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/gptoss_terminalwrench_worker_v2.py",
+      "destination": "src/experiments/emotion-steering/gptoss_terminalwrench_worker_v2.py",
+      "source_sha256": "fc019d8f7a82d2d2d24d08420661dfe34e4bef055f0c826cf12b81ae1a02dc1d",
+      "migration_status": "included",
+      "destination_sha256": "59652661cb6da0bf841d03270559153d904ebfb42a276c780a008b23c1f53ad7"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/label_saved_glm53_terminalwrench_neutral10_early.py",
+      "destination": "src/experiments/emotion-steering/label_saved_glm53_terminalwrench_neutral10_early.py",
+      "source_sha256": "aae19842fe54a8df867eb12283a069af6a71b829cd4077e0e34feb4173e42a0e",
+      "migration_status": "included",
+      "destination_sha256": "2fab60f4a5b6219ee4bbff84bf2a38fea9be8367196439641d8b0771170a7995"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/label_terminalwrench_glm53_neutral10_20261101.py",
+      "destination": "src/experiments/emotion-steering/label_terminalwrench_glm53_neutral10_20261101.py",
+      "source_sha256": "61407f625b93fac8ae5a2251e7cb380e3881f88d1ac53b81761188b6d41a1fa8",
+      "migration_status": "included",
+      "destination_sha256": "2fcd8f4d5b504c957e69fe077f8327e84bf9590f41ffb67e04b0f5ebae9bad5c"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/label_terminalwrench_glm53_neutral10_recovery_20261101.py",
+      "destination": "src/experiments/emotion-steering/label_terminalwrench_glm53_neutral10_recovery_20261101.py",
+      "source_sha256": "88517c703128b3692bd0c6c09beee08837c13b9233ac3b9205310cb2a6dbf494",
+      "migration_status": "included",
+      "destination_sha256": "2e595c86a23bb61eaf2f75b885f151b42e5dbad60932e1b013ccf5f3f8e05acc"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/label_terminalwrench_neutral20_20261026.py",
+      "destination": "src/experiments/emotion-steering/label_terminalwrench_neutral20_20261026.py",
+      "source_sha256": "85e54655fc6bca089ea5a0e402b0327909d2850ce956d78e4c542d7a132add14",
+      "migration_status": "included",
+      "destination_sha256": "4b649b9e48dea621e76e742f6f07f83237fedc96f52526cec9795c595d3bf40b"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/label_terminalwrench_steering_sentences.py",
+      "destination": "src/experiments/emotion-steering/label_terminalwrench_steering_sentences.py",
+      "source_sha256": "e3e75a945f09caef8e55745b2ab052223e5336e4f11ffc9f6d2823acf887f494",
+      "migration_status": "included",
+      "destination_sha256": "329951cffbf5e6b7dc37435d8ab09229ce9cc487a44ee4d498032fcb0d29c180"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/label_terminalwrench_steering_sentences_deepseek.py",
+      "destination": "src/experiments/emotion-steering/label_terminalwrench_steering_sentences_deepseek.py",
+      "source_sha256": "abb012a5fd25db7169c20db420c939da8f0fb785994ac1fdbd09ece8a6c9a7ae",
+      "migration_status": "included",
+      "destination_sha256": "e1b7da588474c3635e34a7be3f1a2b7ef4a301288af9c375bc3dbc4b9d59340a"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/label_terminalwrench_v7_neutral_extension.py",
+      "destination": "src/experiments/emotion-steering/label_terminalwrench_v7_neutral_extension.py",
+      "source_sha256": "2e15953867ce0fbf1c4f1f7701af04588939a477bd651ee2ec283daf234ebc9b",
+      "migration_status": "included",
+      "destination_sha256": "5475d45eb6a205cc9cb814e0394b1fc726e0b1be4d85e78b7aecd84182e947e1"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/label_terminalwrench_v7_steering_sentences.py",
+      "destination": "src/experiments/emotion-steering/label_terminalwrench_v7_steering_sentences.py",
+      "source_sha256": "017b7ea0ce8e6fa7099ad679fbc9b551f353a9e4246f3a9f559f89b3fc48cbf4",
+      "migration_status": "included",
+      "destination_sha256": "cea868f6a820a0d8d4c0be3b76a735f6abad2372521066c7b2a2922ac3abcf05"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/label_terminalwrench_v7_steering_sentences_v2.py",
+      "destination": "src/experiments/emotion-steering/label_terminalwrench_v7_steering_sentences_v2.py",
+      "source_sha256": "6779278932d7202b7090b43a11e23c1ab179544b4c9015afba4696353e4c23db",
+      "migration_status": "included",
+      "destination_sha256": "094ca355b9d181bb032856f2e8d4961267478c0974b2acac6470f7f22157609c"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/modal_worker.py",
+      "destination": "src/experiments/emotion-steering/modal_worker.py",
+      "source_sha256": "e8ad1beded1c70254230d31f79b932cb33f82cf15bd4e4b1f20c461035c724eb",
+      "migration_status": "included",
+      "destination_sha256": "0a890fe579094f77d80b4006c9ede8e9546bb9e9fb8d5fdfc8fcb148e9791173"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/pause_after_batch.py",
+      "destination": "src/experiments/emotion-steering/pause_after_batch.py",
+      "source_sha256": "5cef920cb00a890579093fd53e062f340f7fa2f0a4fd2020341372763b2caaf7",
+      "migration_status": "included",
+      "destination_sha256": "139c2c7fbd1025770c98aff57709535c6bb08dee21a7b314f0e39f113363562e"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/plans/gemma4b-terminalwrench-interactive-steering-v1.md",
+      "destination": "src/experiments/emotion-steering/plans/gemma4b-terminalwrench-interactive-steering-v1.md",
+      "source_sha256": "f43c3d4ec1bf230c6c9c8e9b5275ce50ce27a6a555d6a45907250b6da0d20edf",
+      "migration_status": "included",
+      "destination_sha256": "f43c3d4ec1bf230c6c9c8e9b5275ce50ce27a6a555d6a45907250b6da0d20edf"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/plans/glm-5.3-terminalwrench-interactive-steering-v1.md",
+      "destination": "src/experiments/emotion-steering/plans/glm-5.3-terminalwrench-interactive-steering-v1.md",
+      "source_sha256": "b02dac2bd6be23831a55a798dad530f6c57279cd474412dfe6c1cfffa5036093",
+      "migration_status": "included",
+      "destination_sha256": "b02dac2bd6be23831a55a798dad530f6c57279cd474412dfe6c1cfffa5036093"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/plans/gpt-oss-120b-terminalwrench-interactive-steering-v1.md",
+      "destination": "src/experiments/emotion-steering/plans/gpt-oss-120b-terminalwrench-interactive-steering-v1.md",
+      "source_sha256": "6c51fd3684aed61f622b5dd2436222ab38873b9f49c3b8770e5fd853d0796dcd",
+      "migration_status": "included",
+      "destination_sha256": "6c51fd3684aed61f622b5dd2436222ab38873b9f49c3b8770e5fd853d0796dcd"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/plans/terminalwrench-active-time-v2.md",
+      "destination": "src/experiments/emotion-steering/plans/terminalwrench-active-time-v2.md",
+      "source_sha256": "cbfd04ca8d2afb01729c8c364b1b065478607ab5d3d0edd89551ca45dd0178ff",
+      "migration_status": "included",
+      "destination_sha256": "cbfd04ca8d2afb01729c8c364b1b065478607ab5d3d0edd89551ca45dd0178ff"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/plot_saved.py",
+      "destination": "src/experiments/emotion-steering/plot_saved.py",
+      "source_sha256": "98e1d67b168ed8f593f6db1aac9d77b8f6e71c94441a93ab3acbf85dd29712fa",
+      "migration_status": "included",
+      "destination_sha256": "c30c6b1b001f1cdf859457f870524dd220b9ae9efcfbddb49cf44c2fc1874d2b"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/plot_terminalwrench_rh_expanded_20261026.py",
+      "destination": "src/experiments/emotion-steering/plot_terminalwrench_rh_expanded_20261026.py",
+      "source_sha256": "38f130ffb63fd36a142374c313dd2186093f7e18602db4b2fe7f8dd81bd216a3",
+      "migration_status": "included",
+      "destination_sha256": "267407225addaf4a7fd3303ee52b597485af22d91c0ad7c2c06d35901842c197"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/plot_terminalwrench_sentence_rh.py",
+      "destination": "src/experiments/emotion-steering/plot_terminalwrench_sentence_rh.py",
+      "source_sha256": "a33ec6ff80f39a9de15271922da7ab70d2f34413f0c9ec0368a30eb0716f7f06",
+      "migration_status": "included",
+      "destination_sha256": "42bed67cd33a863450b4166212e1b5c2ef826da6c1d914055f147db49da90762"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/plot_terminalwrench_v7_sentence_rh.py",
+      "destination": "src/experiments/emotion-steering/plot_terminalwrench_v7_sentence_rh.py",
+      "source_sha256": "bfa63ea4f49f2de8e76db59f008f78bd2eb19df2474c94a1b40989b28fb334e6",
+      "migration_status": "included",
+      "destination_sha256": "b24af664203add9940f84c63793da491252845d8c534b9a3231d802b3b7b5059"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/recover_terminalwrench_glm53_neutral10_20261101.py",
+      "destination": "src/experiments/emotion-steering/recover_terminalwrench_glm53_neutral10_20261101.py",
+      "source_sha256": "58798f5abac87da39d63977a8676b724d521cc1d2da75462e3408560ef41c060",
+      "migration_status": "included",
+      "destination_sha256": "a0354a30753c48c2ab88cca79d85705f624f5d99bc5f1afe5b800cb8b5753f12"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/reuse_terminalwrench.py",
+      "destination": "src/experiments/emotion-steering/reuse_terminalwrench.py",
+      "source_sha256": "e89d57d4d36a28879bbd9129e8e42609495a3ae5f768473ad157cbbaf4fc08d7",
+      "migration_status": "included",
+      "destination_sha256": "da639f29eb5b51b752186654cb8ac0a7dc837dcc75f905e98b28dec1d023b28d"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/run.py",
+      "destination": "src/experiments/emotion-steering/run.py",
+      "source_sha256": "97d28025fcb66b49c84c7cdf40b541c12119b8d3690600f55be3d986e3920577",
+      "migration_status": "included",
+      "destination_sha256": "5e8df63ad4d645cae4b14273e1d922510f8a604a269cf3802c1afcbd7cb22afc"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/summarize_terminalwrench_glm53_neutral10_20261101.py",
+      "destination": "src/experiments/emotion-steering/summarize_terminalwrench_glm53_neutral10_20261101.py",
+      "source_sha256": "88c4d9aa5dd486d25c0d428e05ffa456bb0e755767a7460aed99ba39c102aa40",
+      "migration_status": "included",
+      "destination_sha256": "8d4c042e3bf62d318839acdffcaf3996eedeea81fa30ba8915dc70443ad656bf"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/terminalwrench_async_worker.py",
+      "destination": "src/experiments/emotion-steering/terminalwrench_async_worker.py",
+      "source_sha256": "c3a98cc87c7ab13c9b250b7f36816d5da301bc3a9a27501bb683ce9733f717e2",
+      "migration_status": "included",
+      "destination_sha256": "3c4ed55cd4df899ad855b85a6cbf741321cf02ce6fb39db63faff7dd86f6eea8"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/terminalwrench_evaluate.py",
+      "destination": "src/experiments/emotion-steering/terminalwrench_evaluate.py",
+      "source_sha256": "320f415209fe6ae88ad25dc3951fc390c1c3059ee912f0ba2e64a84c12739ac2",
+      "migration_status": "included",
+      "destination_sha256": "bcc3b869fa5f7db8a13d13f373bbeaaf8b916e2926f11aaee4f556e1f4ac8ace"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/terminalwrench_finish.py",
+      "destination": "src/experiments/emotion-steering/terminalwrench_finish.py",
+      "source_sha256": "e1ee57cb6c70845f4691bf52a16b3dc15a6510d9ff96b69c2a9d1305a3129311",
+      "migration_status": "included",
+      "destination_sha256": "88e7328c20980b8ebd2842c3ef225706b3c7029c5bbf18951ef96e0a04f31fd7"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/terminalwrench_glm53_neutral10_20261101.py",
+      "destination": "src/experiments/emotion-steering/terminalwrench_glm53_neutral10_20261101.py",
+      "source_sha256": "cace0937eb020dec073596d692d8dce76a81a10b936f8ee839e2b056c05c026d",
+      "migration_status": "included",
+      "destination_sha256": "f955916b779d017f093e521199710b204eb3c4e764a08c058ae7938ed17bbe13"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/terminalwrench_keepalive.py",
+      "destination": "src/experiments/emotion-steering/terminalwrench_keepalive.py",
+      "source_sha256": "11173f1d34d0f8efaa91611731f523f9d81e252f544dba676f71e25ef9ed14ee",
+      "migration_status": "included",
+      "destination_sha256": "e806ae4e7e060a54e8613f8d9c3f1f89192c64d3f51649992779282080a7e8c3"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/terminalwrench_lens_worker.py",
+      "destination": "src/experiments/emotion-steering/terminalwrench_lens_worker.py",
+      "source_sha256": "2009788044285f6a7f757d336a513d617198e0f52421457e1387a6db8513c767",
+      "migration_status": "included",
+      "destination_sha256": "8bc6501f2775c56b54ece1b55c429fed81d26bc678fd996ab51192e708e09060"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/terminalwrench_migrate_scheduler.py",
+      "destination": "src/experiments/emotion-steering/terminalwrench_migrate_scheduler.py",
+      "source_sha256": "b2953b90b878801b2e15b57b252e6b3ebe9d992b1860e4473808ea218f5c1e35",
+      "migration_status": "included",
+      "destination_sha256": "b404ce503d945043f295c015121ce8511b46201ffefd3f0bc34e7798c985a418"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/terminalwrench_neutral20_20261026.py",
+      "destination": "src/experiments/emotion-steering/terminalwrench_neutral20_20261026.py",
+      "source_sha256": "d816c0f2f746d67885588f761b80f3b986b746b59978f01c3aba614e36118be5",
+      "migration_status": "included",
+      "destination_sha256": "4681b4240a237009eb8111143908042461a5892dd3d160ce6f38b14850f1b8e5"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/terminalwrench_neutral20_audit.py",
+      "destination": "src/experiments/emotion-steering/terminalwrench_neutral20_audit.py",
+      "source_sha256": "01809f6ebc9a2320831ca67a1746dd6a5b8e271c7222fb6c2027124be614e6ef",
+      "migration_status": "included",
+      "destination_sha256": "7a475dea1096fd346b91f0f3be198bc8bc8d69bd1f77514eb179211055ee9838"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/terminalwrench_neutral_extension.py",
+      "destination": "src/experiments/emotion-steering/terminalwrench_neutral_extension.py",
+      "source_sha256": "2f168243cf21c2e5deface0458be93fff49bac66e347905e6adf26820c1beef9",
+      "migration_status": "included",
+      "destination_sha256": "cb9c8902daf77265146bd186932858752522359629958171b929276e50a9caee"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/terminalwrench_neutral_extension_clockfix.py",
+      "destination": "src/experiments/emotion-steering/terminalwrench_neutral_extension_clockfix.py",
+      "source_sha256": "8b4b6cafde49cba7126b8980c8d6cad0a86cc0745b364ad1623b42ccab2b3feb",
+      "migration_status": "included",
+      "destination_sha256": "665475b37111e8863471d857ad3a58803856a817d998d8d58222f3d816f10749"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/terminalwrench_neutral_extension_resume.py",
+      "destination": "src/experiments/emotion-steering/terminalwrench_neutral_extension_resume.py",
+      "source_sha256": "3fdba697c682cac8eb982bb14ad29024112ecdb9ea231bd32f9bf038061c7939",
+      "migration_status": "included",
+      "destination_sha256": "7ebd9f404864736b1409a9f0a29dcc354606d10375529f579ec0558150accf53"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/terminalwrench_neutral_extension_supervise.py",
+      "destination": "src/experiments/emotion-steering/terminalwrench_neutral_extension_supervise.py",
+      "source_sha256": "60203f3af6e90c95dd49251cc7adf10b3d3e6e712a86e527c7a85d97829ad93a",
+      "migration_status": "included",
+      "destination_sha256": "7a65ba1904ddefa27616c66565e09b6c434190294f157e9179f7788526f926b9"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/terminalwrench_neutral_to20.py",
+      "destination": "src/experiments/emotion-steering/terminalwrench_neutral_to20.py",
+      "source_sha256": "30a1fa64a29f94c13c47771027e9ddfa887e5b22b4f43bf72888b61de33c4c02",
+      "migration_status": "included",
+      "destination_sha256": "f7a82185f05f71f9a0d549a2be767a808a75d6abaecb069625e4cf15b2c053c2"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/terminalwrench_supervise.py",
+      "destination": "src/experiments/emotion-steering/terminalwrench_supervise.py",
+      "source_sha256": "dbc8e16ce75ab3dd0edd0e7a37984f7c82ad4eef6f1329ec75508f6156d04f22",
+      "migration_status": "included",
+      "destination_sha256": "d9201890f3c27af6cea2670fd424b0f4cef13acff3ea218adb55d70105bab6d6"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/terminalwrench_sweep.py",
+      "destination": "src/experiments/emotion-steering/terminalwrench_sweep.py",
+      "source_sha256": "b12607330b953f27d7d3be91947c287974a6ee23fde196975683e63c629569e2",
+      "migration_status": "included",
+      "destination_sha256": "3388690aad6ebaa06337cce2fb5cf8c9e05d83d30730660df54c8a4354a69f86"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/terminalwrench_v7_neutral_extension.py",
+      "destination": "src/experiments/emotion-steering/terminalwrench_v7_neutral_extension.py",
+      "source_sha256": "f0ab1b5dbfae25659d4ce0bcc3bcc4348a1fbd107dd496869b87d5aa03548946",
+      "migration_status": "included",
+      "destination_sha256": "fcce740370381130656c938f2478591cc9cca067f90deeea77bfd9004d833cd7"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/terminalwrench_validate.py",
+      "destination": "src/experiments/emotion-steering/terminalwrench_validate.py",
+      "source_sha256": "ec5fd1b713e0d2bc14c9717157a12b0457f035d2586908fb197693d3a2f5feaa",
+      "migration_status": "included",
+      "destination_sha256": "53be059ec588e626d391f65423143719670235895d0dfc7716e3c5552047364a"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/test_gptoss_terminalwrench_timing.py",
+      "destination": "src/experiments/emotion-steering/test_gptoss_terminalwrench_timing.py",
+      "source_sha256": "9f6c777bf41ccac9c4fb5c4613d09b13fa69aa76feb00b0bf6731474a33b9c5b",
+      "migration_status": "included",
+      "destination_sha256": "d21cf98d0aae75d76e1d77b99caa819c7e485418f1dd34370d840fbfa6d2ecce"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/test_gptoss_timed_proxy.py",
+      "destination": "src/experiments/emotion-steering/test_gptoss_timed_proxy.py",
+      "source_sha256": "b813b7d5e91499adc5ca152a5fe4b3ddaa1d10d602a05b0e31b9c5d4a2f9a99e",
+      "migration_status": "included",
+      "destination_sha256": "b4d5a557c657fa867540536e4491ad540e7fc3441e4d897bd74a9170f06cdda3"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/tests/test_async_backend.py",
+      "destination": "src/experiments/emotion-steering/tests/test_async_backend.py",
+      "source_sha256": "57a9e12c6483348fd307613ee3a126e5d78f488a867b28e31da54123e507e3e3",
+      "migration_status": "included",
+      "destination_sha256": "57a9e12c6483348fd307613ee3a126e5d78f488a867b28e31da54123e507e3e3"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/tests/test_terminalwrench_active_budget.py",
+      "destination": "src/experiments/emotion-steering/tests/test_terminalwrench_active_budget.py",
+      "source_sha256": "bb57219dfce4b960bb217e4153f851bbcc3d6e1348cd7dfc50a50f4067430a0d",
+      "migration_status": "included",
+      "destination_sha256": "bb57219dfce4b960bb217e4153f851bbcc3d6e1348cd7dfc50a50f4067430a0d"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/tests/test_terminalwrench_scheduler.py",
+      "destination": "src/experiments/emotion-steering/tests/test_terminalwrench_scheduler.py",
+      "source_sha256": "f7c65e08db35ff2f773ce04b63d9fa64bca9c9373ce77272391724564b8993ad",
+      "migration_status": "included",
+      "destination_sha256": "f7c65e08db35ff2f773ce04b63d9fa64bca9c9373ce77272391724564b8993ad"
+    },
+    {
+      "source": "experiments/canonical/emotion-rh-forecasting/README.md",
+      "destination": "src/experiments/emotion-rh-forecasting/README.md",
+      "source_sha256": "fb26d6f4ebbeddd9af318f736de861fb92ecefa5bd83b1aced6e2dc2fbfd369c",
+      "migration_status": "included",
+      "destination_sha256": "8d677322cbeeef1deec48be81c786b6301e73c9f5ebcf89ae1cdf3cdb73c1e0e"
+    },
+    {
+      "source": "experiments/canonical/emotion-rh-forecasting/TRACE_COLLECTION.md",
+      "destination": "src/experiments/emotion-rh-forecasting/TRACE_COLLECTION.md",
+      "source_sha256": "ca1b68069c20aa9ec31d9330a2a8718b02adc70df03bcd0cdc59b377771a4ec1",
+      "migration_status": "included",
+      "destination_sha256": "ca1b68069c20aa9ec31d9330a2a8718b02adc70df03bcd0cdc59b377771a4ec1"
+    },
+    {
+      "source": "experiments/canonical/emotion-rh-forecasting/adjudicate_terminalwrench_disagreements.py",
+      "destination": "src/experiments/emotion-rh-forecasting/adjudicate_terminalwrench_disagreements.py",
+      "source_sha256": "e60f86b7a33516c208c0e2876bbbda41a6b3b9def03b778636fbcf7af68f86ab",
+      "migration_status": "included",
+      "destination_sha256": "f8e3df6f8495c5ea50aabca259702e09e3362d132630d71bf074b338f285792a"
+    },
+    {
+      "source": "experiments/canonical/emotion-rh-forecasting/audit_openrouter_traces.py",
+      "destination": "src/experiments/emotion-rh-forecasting/audit_openrouter_traces.py",
+      "source_sha256": "d6f31ee6cecc4d23983c04145723ec7e6670abf2fef81cc64fdf8fd9dba85487",
+      "migration_status": "included",
+      "destination_sha256": "1f1a3341d817b1a0cb512569d93a87059a363a8a8d24cd041476628fcc097b1f"
+    },
+    {
+      "source": "experiments/canonical/emotion-rh-forecasting/combine_glm_coding_gpt55.py",
+      "destination": "src/experiments/emotion-rh-forecasting/combine_glm_coding_gpt55.py",
+      "source_sha256": "6bf831401692cb0b5666a86b88b47c814bb738f463d07b0b3f6f479193dd917a",
+      "migration_status": "included",
+      "destination_sha256": "200a7e27f0cd920f14e8c2451b4150083c50492f4409db3a6c019ae64369a2bd"
+    },
+    {
+      "source": "experiments/canonical/emotion-rh-forecasting/combined_emotions.py",
+      "destination": "src/experiments/emotion-rh-forecasting/combined_emotions.py",
+      "source_sha256": "1a999d7792ca9274c13c254f0927725aadac9e0a01fc76ea836012489b19439f",
+      "migration_status": "included",
+      "destination_sha256": "ac12159bd355ecf32980ff58d71ca5af41c460428513380745341bdab282bb9a"
+    },
+    {
+      "source": "experiments/canonical/emotion-rh-forecasting/compare_terminalwrench_labels.py",
+      "destination": "src/experiments/emotion-rh-forecasting/compare_terminalwrench_labels.py",
+      "source_sha256": "c2a78f323304bd29555b154944a767a86058b3dfe795ea8296a78cd8302b86d2",
+      "migration_status": "included",
+      "destination_sha256": "6afaabb95356e97eb63aeea6837ea48863a4b80d6fdd358c59890f0bc908d73a"
+    },
+    {
+      "source": "experiments/canonical/emotion-rh-forecasting/emotion_rh_forecasting/__init__.py",
+      "destination": "src/experiments/emotion-rh-forecasting/emotion_rh_forecasting/__init__.py",
+      "source_sha256": "a5c164dec66b2f66ad11ff5546e78a36fd8b3dfc27ff12b4d75e8a7be1b6a32b",
+      "migration_status": "included",
+      "destination_sha256": "a5c164dec66b2f66ad11ff5546e78a36fd8b3dfc27ff12b4d75e8a7be1b6a32b"
+    },
+    {
+      "source": "experiments/canonical/emotion-rh-forecasting/emotion_rh_forecasting/analysis.py",
+      "destination": "src/experiments/emotion-rh-forecasting/emotion_rh_forecasting/analysis.py",
+      "source_sha256": "290aba43906c5fbdb5d13c0054a97255fff7390d19f24a18306c37cd0a0609c7",
+      "migration_status": "included",
+      "destination_sha256": "290aba43906c5fbdb5d13c0054a97255fff7390d19f24a18306c37cd0a0609c7"
+    },
+    {
+      "source": "experiments/canonical/emotion-rh-forecasting/emotion_rh_forecasting/features.py",
+      "destination": "src/experiments/emotion-rh-forecasting/emotion_rh_forecasting/features.py",
+      "source_sha256": "de045142cfe06d680c393b39c2d99fc38a03e972f953c1a49fd3728d35236a65",
+      "migration_status": "included",
+      "destination_sha256": "de045142cfe06d680c393b39c2d99fc38a03e972f953c1a49fd3728d35236a65"
+    },
+    {
+      "source": "experiments/canonical/emotion-rh-forecasting/emotion_rh_forecasting/gptoss_terminalwrench_replay.py",
+      "destination": "src/experiments/emotion-rh-forecasting/emotion_rh_forecasting/gptoss_terminalwrench_replay.py",
+      "source_sha256": "f41264a72bc086a5dbc87025d99148fb60f5de54267a078c01d49b657b64d0f1",
+      "migration_status": "included",
+      "destination_sha256": "f41264a72bc086a5dbc87025d99148fb60f5de54267a078c01d49b657b64d0f1"
+    },
+    {
+      "source": "experiments/canonical/emotion-rh-forecasting/emotion_rh_forecasting/inputs.py",
+      "destination": "src/experiments/emotion-rh-forecasting/emotion_rh_forecasting/inputs.py",
+      "source_sha256": "9665a880e13717741b665ac317bb246a5c2a143c25ae1f4145d9a96219ff4b6f",
+      "migration_status": "included",
+      "destination_sha256": "9665a880e13717741b665ac317bb246a5c2a143c25ae1f4145d9a96219ff4b6f"
+    },
+    {
+      "source": "experiments/canonical/emotion-rh-forecasting/emotion_rh_forecasting/pipeline.py",
+      "destination": "src/experiments/emotion-rh-forecasting/emotion_rh_forecasting/pipeline.py",
+      "source_sha256": "27e03c605166d7baadcd8af16363757e2ce45c7fbdde1a86bdfcd861a8ae90b1",
+      "migration_status": "included",
+      "destination_sha256": "e1ab38727a84532e25eedfd8dbe656f3c91f9f2055aa23e9dd186e072b6c6888"
+    },
+    {
+      "source": "experiments/canonical/emotion-rh-forecasting/emotion_rh_forecasting/reporting.py",
+      "destination": "src/experiments/emotion-rh-forecasting/emotion_rh_forecasting/reporting.py",
+      "source_sha256": "8fc242a34856a103e7120799d1e6c6de46f4fe7bf37b4f4ec5b22ce4db4dd976",
+      "migration_status": "included",
+      "destination_sha256": "8fc242a34856a103e7120799d1e6c6de46f4fe7bf37b4f4ec5b22ce4db4dd976"
+    },
+    {
+      "source": "experiments/canonical/emotion-rh-forecasting/emotion_rh_forecasting/terminalwrench_replay.py",
+      "destination": "src/experiments/emotion-rh-forecasting/emotion_rh_forecasting/terminalwrench_replay.py",
+      "source_sha256": "ed159fe1b2196895b3ec57abc9227156aefc6824981bc79bfb9cb1cc022785ca",
+      "migration_status": "included",
+      "destination_sha256": "ed159fe1b2196895b3ec57abc9227156aefc6824981bc79bfb9cb1cc022785ca"
+    },
+    {
+      "source": "experiments/canonical/emotion-rh-forecasting/figures/_kit/diagram.css",
+      "destination": "src/experiments/emotion-rh-forecasting/figures/_kit/diagram.css",
+      "source_sha256": "467cbd2a6bb175d2b78bea73426f7cb6d1cfed3a7f1e5df9c8257d74fd936938",
+      "migration_status": "included",
+      "destination_sha256": "467cbd2a6bb175d2b78bea73426f7cb6d1cfed3a7f1e5df9c8257d74fd936938"
+    },
+    {
+      "source": "experiments/canonical/emotion-rh-forecasting/figures/_kit/figkit.py",
+      "destination": "src/experiments/emotion-rh-forecasting/figures/_kit/figkit.py",
+      "source_sha256": "f1af34130e9fc6375767988b11900fea6cf650df728e7a859ab7fb80d9e5dfbd",
+      "migration_status": "included",
+      "destination_sha256": "f1af34130e9fc6375767988b11900fea6cf650df728e7a859ab7fb80d9e5dfbd"
+    },
+    {
+      "source": "experiments/canonical/emotion-rh-forecasting/figures/_kit/fonts/Inter-LICENSE.txt",
+      "destination": "src/experiments/emotion-rh-forecasting/figures/_kit/fonts/Inter-LICENSE.txt",
+      "source_sha256": "262481e844521b326f5ecd053e59b98c8b2da78c8ee1bdbb6e8174305e54935a",
+      "migration_status": "included",
+      "destination_sha256": "262481e844521b326f5ecd053e59b98c8b2da78c8ee1bdbb6e8174305e54935a"
+    },
+    {
+      "source": "experiments/canonical/emotion-rh-forecasting/figures/_kit/fonts/Inter-Regular.ttf",
+      "destination": "src/experiments/emotion-rh-forecasting/figures/_kit/fonts/Inter-Regular.ttf",
+      "source_sha256": "40d692fce188e4471e2b3cba937be967878f631ad3ebbbdcd587687c7ebe0c82",
+      "migration_status": "included",
+      "destination_sha256": "40d692fce188e4471e2b3cba937be967878f631ad3ebbbdcd587687c7ebe0c82"
+    },
+    {
+      "source": "experiments/canonical/emotion-rh-forecasting/figures/_kit/fonts/Inter-SemiBold.ttf",
+      "destination": "src/experiments/emotion-rh-forecasting/figures/_kit/fonts/Inter-SemiBold.ttf",
+      "source_sha256": "78a843fade9d4612a5567302fb595b56976eb5fcebf4fea5a5912d638bafcde3",
+      "migration_status": "included",
+      "destination_sha256": "78a843fade9d4612a5567302fb595b56976eb5fcebf4fea5a5912d638bafcde3"
+    },
+    {
+      "source": "experiments/canonical/emotion-rh-forecasting/figures/_kit/summary.css",
+      "destination": "src/experiments/emotion-rh-forecasting/figures/_kit/summary.css",
+      "source_sha256": "39fb6947d7ddedfa5fef32948d957587a0e114b8de6c94968d71da6f76b0f0bf",
+      "migration_status": "included",
+      "destination_sha256": "39fb6947d7ddedfa5fef32948d957587a0e114b8de6c94968d71da6f76b0f0bf"
+    },
+    {
+      "source": "experiments/canonical/emotion-rh-forecasting/figures/_kit/summary.js",
+      "destination": "src/experiments/emotion-rh-forecasting/figures/_kit/summary.js",
+      "source_sha256": "7d233df54120d14195ebb2caeaa9a8094434732aa4577cb18091bfa2a815a279",
+      "migration_status": "included",
+      "destination_sha256": "7d233df54120d14195ebb2caeaa9a8094434732aa4577cb18091bfa2a815a279"
+    },
+    {
+      "source": "experiments/canonical/emotion-rh-forecasting/figures/gemma27b_haiku_heatmap.py",
+      "destination": "src/experiments/emotion-rh-forecasting/figures/gemma27b_haiku_heatmap.py",
+      "source_sha256": "f4efdb602535f2ac88b1c2b77368bbbed9f729226986aae55c0a368264f25891",
+      "migration_status": "included",
+      "destination_sha256": "27602fa82d45142b90a9ec695943ecf521eb84fea448fa51c0ad319dad40c236"
+    },
+    {
+      "source": "experiments/canonical/emotion-rh-forecasting/figures/gemma27b_haiku_heatmap.spec.md",
+      "destination": "src/experiments/emotion-rh-forecasting/figures/gemma27b_haiku_heatmap.spec.md",
+      "source_sha256": "61a09c00fd5cfa32f3d06da08a206e0c1d0aecdecf8b3a21e58beb269e672fb8",
+      "migration_status": "included",
+      "destination_sha256": "61a09c00fd5cfa32f3d06da08a206e0c1d0aecdecf8b3a21e58beb269e672fb8"
+    },
+    {
+      "source": "experiments/canonical/emotion-rh-forecasting/generate_glm_coding_diverse.py",
+      "destination": "src/experiments/emotion-rh-forecasting/generate_glm_coding_diverse.py",
+      "source_sha256": "e6ca65b271d2215131f653c7053cdeb800c25328fd7ace93fbbd5afae0a7314b",
+      "migration_status": "included",
+      "destination_sha256": "5e924f31b92a3b6ac14b5822ceea4901d7724c5a8f571939a88374e89d902b8c"
+    },
+    {
+      "source": "experiments/canonical/emotion-rh-forecasting/generate_openrouter_traces.py",
+      "destination": "src/experiments/emotion-rh-forecasting/generate_openrouter_traces.py",
+      "source_sha256": "77dfa94f92878f809fe2c4e5aad2be12ad31a09dc4384ad1b5e16217b06630c2",
+      "migration_status": "included",
+      "destination_sha256": "8e4958f7f1da2640f58780121d762ce9b4191e851fdde3ec5fc594a070ef59e7"
+    },
+    {
+      "source": "experiments/canonical/emotion-rh-forecasting/index_goodfire_glm52.py",
+      "destination": "src/experiments/emotion-rh-forecasting/index_goodfire_glm52.py",
+      "source_sha256": "ef5d497d8a1ad72531744476c7a3b7ecf777fb12943ea7342ebd686aaffa6c7e",
+      "migration_status": "included",
+      "destination_sha256": "9b5a0478a0df39de617cca4bf6c171d715ff4810780ea7600ebfc73fa54294a4"
+    },
+    {
+      "source": "experiments/canonical/emotion-rh-forecasting/judge_coding_hack_rate.py",
+      "destination": "src/experiments/emotion-rh-forecasting/judge_coding_hack_rate.py",
+      "source_sha256": "1fa516a06996d5f962cd7d8d7c9e78c615e91bec05d52e8ee10a2d6c100f8bb8",
+      "migration_status": "included",
+      "destination_sha256": "01fa565719e044ce1a6eb400e954e2f1a6e132eb0b6a2ba06ec23e579fead248"
+    },
+    {
+      "source": "experiments/canonical/emotion-rh-forecasting/label_gemma27b_haiku.py",
+      "destination": "src/experiments/emotion-rh-forecasting/label_gemma27b_haiku.py",
+      "source_sha256": "4fe48ef44391eaca74d629400d8471dfd99132bd34f96e930e14bbd3ea3ffc5c",
+      "migration_status": "included",
+      "destination_sha256": "c2539a3e5585eeb31740fc487a62be40f17d99bebddf73fab1db5fada1f9b9d8"
+    },
+    {
+      "source": "experiments/canonical/emotion-rh-forecasting/label_gemma4b_coding_lines.py",
+      "destination": "src/experiments/emotion-rh-forecasting/label_gemma4b_coding_lines.py",
+      "source_sha256": "eb94d665ad26225c88ffcbd1cfd7d8eb78fcefee75eafff520c4d472b8cbfc05",
+      "migration_status": "included",
+      "destination_sha256": "893f94415a968b2ee132568dff2a5844fd0173cf71e54a3ee538ed59eeca3fad"
+    },
+    {
+      "source": "experiments/canonical/emotion-rh-forecasting/label_gemma4b_sales.py",
+      "destination": "src/experiments/emotion-rh-forecasting/label_gemma4b_sales.py",
+      "source_sha256": "53fcdc4997b7438d018faa9f6383ad4a50c46f2c47357748808f21b740fa2f30",
+      "migration_status": "included",
+      "destination_sha256": "ff34b2b0df51299a8cd3b9d0164000e280866c3a5238135fd0832b39e5d6c817"
+    },
+    {
+      "source": "experiments/canonical/emotion-rh-forecasting/label_glm_coding_deepseek.py",
+      "destination": "src/experiments/emotion-rh-forecasting/label_glm_coding_deepseek.py",
+      "source_sha256": "c011efceb4f62db6d0079f6c368c904743cda3724d2b7ed56f9e91b3cfa3ebec",
+      "migration_status": "included",
+      "destination_sha256": "688af04d9b503bdbd495e6ad06c1223dd23372bda93791759ade51530dafa596"
+    },
+    {
+      "source": "experiments/canonical/emotion-rh-forecasting/label_glm_coding_new_gpt55.py",
+      "destination": "src/experiments/emotion-rh-forecasting/label_glm_coding_new_gpt55.py",
+      "source_sha256": "89459549dfad657829ba9f639bd2ede86dc332cdf0e54fea4d8dafcc12a7be64",
+      "migration_status": "included",
+      "destination_sha256": "992edd51d2d11356b1a3e1fe4650fdc79fa31dc9ae249628a1bab3a7ab64a05a"
+    },
+    {
+      "source": "experiments/canonical/emotion-rh-forecasting/label_glm_hack_traces.py",
+      "destination": "src/experiments/emotion-rh-forecasting/label_glm_hack_traces.py",
+      "source_sha256": "3a1a3461608e783f3c2fea53ca906bafc4102b5739c8bf1db5eac68e2a0d6ddf",
+      "migration_status": "included",
+      "destination_sha256": "a2c8b4ea3eacfeb7235bc64340a4cddc3db058276ef897e88b3b36bc668a6446"
+    },
+    {
+      "source": "experiments/canonical/emotion-rh-forecasting/label_goodfire_glm52_deepseek.py",
+      "destination": "src/experiments/emotion-rh-forecasting/label_goodfire_glm52_deepseek.py",
+      "source_sha256": "084cf9e49173a3f069ecb2dd4c9742c4979c2e69fb586a6cec1c1fee23436994",
+      "migration_status": "included",
+      "destination_sha256": "f6880f35c15d3112b43979d95573cf238621e13ce753bd2ed64dcab9e08579a3"
+    },
+    {
+      "source": "experiments/canonical/emotion-rh-forecasting/label_goodfire_glm52_deepseek_v2.py",
+      "destination": "src/experiments/emotion-rh-forecasting/label_goodfire_glm52_deepseek_v2.py",
+      "source_sha256": "d1b4cf48ec010a0d7c254a63f74bfe558445889ef3ba2dfe59ec2e12b0613a87",
+      "migration_status": "included",
+      "destination_sha256": "4025575986d2f506661f63b10a88ad01a02cae2fd3a362238f9bef3301534df7"
+    },
+    {
+      "source": "experiments/canonical/emotion-rh-forecasting/label_goodfire_glm52_gpt61sol.py",
+      "destination": "src/experiments/emotion-rh-forecasting/label_goodfire_glm52_gpt61sol.py",
+      "source_sha256": "d1de3ec8fc586c62c026ccaece6bce6e9956325f2dbbaaf52c8667ce3faa00c1",
+      "migration_status": "included",
+      "destination_sha256": "94e38b02b622755bd2a8841f782ef22b5fd25be7f9893d6a81886bd8293ae578"
+    },
+    {
+      "source": "experiments/canonical/emotion-rh-forecasting/label_goodfire_glm52_gpt61sol_5k.py",
+      "destination": "src/experiments/emotion-rh-forecasting/label_goodfire_glm52_gpt61sol_5k.py",
+      "source_sha256": "c75a4ee2ef0062f047bd31424e71f7321ae43d4ccfa28b514de4be4dedea44c6",
+      "migration_status": "included",
+      "destination_sha256": "f77d678c7c3168bc976eb975651f4ed61aeaa4739a67b273710cdd0fd24717f6"
+    },
+    {
+      "source": "experiments/canonical/emotion-rh-forecasting/label_terminalwrench.py",
+      "destination": "src/experiments/emotion-rh-forecasting/label_terminalwrench.py",
+      "source_sha256": "4b0bb3de3f02760957bcb4ad7e0be106d3109609a0e549edc1161bcd0f05a479",
+      "migration_status": "included",
+      "destination_sha256": "6227b516397bebe1f56d53a5f0ce0154e67f5d08d6fea1df79a2f6c8189cc1b9"
+    },
+    {
+      "source": "experiments/canonical/emotion-rh-forecasting/materialize_goodfire_glm52_gpt61sol_5k.py",
+      "destination": "src/experiments/emotion-rh-forecasting/materialize_goodfire_glm52_gpt61sol_5k.py",
+      "source_sha256": "0b23b20c169e55c2c780915fa1bf98d761159016df7197da92b417e792a9ef6b",
+      "migration_status": "included",
+      "destination_sha256": "7df6478cde43d16a7863844ed01816d0c8db2bd16820ef7305f2899195091002"
+    },
+    {
+      "source": "experiments/canonical/emotion-rh-forecasting/materialize_goodfire_glm52_gpt61sol_labels.py",
+      "destination": "src/experiments/emotion-rh-forecasting/materialize_goodfire_glm52_gpt61sol_labels.py",
+      "source_sha256": "8ffc92f97df1999a8bec8e01f67a5cd848017dcfebd2e63f618e7f97c4c720df",
+      "migration_status": "included",
+      "destination_sha256": "3e70e14ceb725476635bc5080bd1da27fd27daae65dcbf486dac2542b576a837"
+    },
+    {
+      "source": "experiments/canonical/emotion-rh-forecasting/materialize_goodfire_glm52_manual_labels.py",
+      "destination": "src/experiments/emotion-rh-forecasting/materialize_goodfire_glm52_manual_labels.py",
+      "source_sha256": "0778feb6df850c8e117424aba0f4c020b84cb371259448644a64246c4d6f77b1",
+      "migration_status": "included",
+      "destination_sha256": "a29f42f98fcb22878f062886231ad345d9884d3cdf53da58c75e14f1304da631"
+    },
+    {
+      "source": "experiments/canonical/emotion-rh-forecasting/merge_glm_sentence_labels.py",
+      "destination": "src/experiments/emotion-rh-forecasting/merge_glm_sentence_labels.py",
+      "source_sha256": "171e8b8b2e553ba6404760bda0cbb1f45b00944de4d8f0b1b8514904b088909d",
+      "migration_status": "included",
+      "destination_sha256": "51ea9e4b8060426b519f3a6483121fdc721f2622219e150d7e5af321f0fcf154"
+    },
+    {
+      "source": "experiments/canonical/emotion-rh-forecasting/merge_goodfire_glm52_index.py",
+      "destination": "src/experiments/emotion-rh-forecasting/merge_goodfire_glm52_index.py",
+      "source_sha256": "d7b587f20cf8e676ef7db128a729211d089f4c8dc66d2eeae9fcc2df5c0cbd07",
+      "migration_status": "included",
+      "destination_sha256": "3c8017d86deaae5bd903999ee2376864dd8accb5fe373fbff9a2df3ad849debe"
+    },
+    {
+      "source": "experiments/canonical/emotion-rh-forecasting/merge_terminalwrench_adjudication.py",
+      "destination": "src/experiments/emotion-rh-forecasting/merge_terminalwrench_adjudication.py",
+      "source_sha256": "75dc88076718fb3df321335d78d84eef6dc53ba93a198d3a345437f23e751dd9",
+      "migration_status": "included",
+      "destination_sha256": "cb9b2c73dd94be95fdd1e55530f7c9fffcb12c064083aa316e83cfa972847d9c"
+    },
+    {
+      "source": "experiments/canonical/emotion-rh-forecasting/modal_gemma4b_coding_line_replay.py",
+      "destination": "src/experiments/emotion-rh-forecasting/modal_gemma4b_coding_line_replay.py",
+      "source_sha256": "52dd0007609dd4614a1e0305d8cb20d6a688c26f895059b5b69f61c4efd8d5dc",
+      "migration_status": "included",
+      "destination_sha256": "f246fffa3cf8fe5483744e38331d7e7719ec818597b49ea2d0cc19248ac3ce72"
+    },
+    {
+      "source": "experiments/canonical/emotion-rh-forecasting/modal_gemma4b_sales_replay.py",
+      "destination": "src/experiments/emotion-rh-forecasting/modal_gemma4b_sales_replay.py",
+      "source_sha256": "5b094582bf1fd648c7626f644ccb84ab794b8ce444efb4b52f6592fb6c38375b",
+      "migration_status": "included",
+      "destination_sha256": "ecfe74a3d4b13ea6817a69775f4a5cc5e24ff9e4dbcc65adc7f70266f538acc9"
+    },
+    {
+      "source": "experiments/canonical/emotion-rh-forecasting/modal_gemma4b_terminalwrench_replay.py",
+      "destination": "src/experiments/emotion-rh-forecasting/modal_gemma4b_terminalwrench_replay.py",
+      "source_sha256": "ff0397f99e30b42c4dec9d9774c78bb5023d3b1c77fc20c282886b0031162478",
+      "migration_status": "included",
+      "destination_sha256": "84ae1a9fbbc5f6b3fbee7fe10da7c73a68602d9f366ddf7c03cea301c7b1c7e8"
+    },
+    {
+      "source": "experiments/canonical/emotion-rh-forecasting/modal_glm_hack_replay.py",
+      "destination": "src/experiments/emotion-rh-forecasting/modal_glm_hack_replay.py",
+      "source_sha256": "9bb7a9a13112041ba0527d5a29c5667c609c45843ee44b3f6a9ce09c26240c8b",
+      "migration_status": "included",
+      "destination_sha256": "1b80653556ce27474bd53574b759c3d73a0e9700d265172d6aca80d0d51705e3"
+    },
+    {
+      "source": "experiments/canonical/emotion-rh-forecasting/modal_gptoss_terminalwrench_replay.py",
+      "destination": "src/experiments/emotion-rh-forecasting/modal_gptoss_terminalwrench_replay.py",
+      "source_sha256": "733a7111d35d9d5e6e81f84005694e62c3df564265e466dae0a1dd53aed4b041",
+      "migration_status": "included",
+      "destination_sha256": "a82825814b058bf166882bc966a56b24636504d142df42b9fc589dc4da451064"
+    },
+    {
+      "source": "experiments/canonical/emotion-rh-forecasting/modal_missing_cell_replay.py",
+      "destination": "src/experiments/emotion-rh-forecasting/modal_missing_cell_replay.py",
+      "source_sha256": "9043bb3f762084784fea1987199b2a1fbe0676d09d8e04d6f8c2e1b963e278f5",
+      "migration_status": "included",
+      "destination_sha256": "37e228717c2f5cc5d909fb5f92dcfd6f9007f665252a1b93264c8d7ba6857389"
+    },
+    {
+      "source": "experiments/canonical/emotion-rh-forecasting/modal_terminalwrench_replay.py",
+      "destination": "src/experiments/emotion-rh-forecasting/modal_terminalwrench_replay.py",
+      "source_sha256": "609fe0209df18d26e030b4992502daa2006ecf8cc5f8d414139bfef2e7361835",
+      "migration_status": "included",
+      "destination_sha256": "7cb5447938157b287187f1a7213ed8a216f7e57f4e9f1b2f3a34702f2d142619"
+    },
+    {
+      "source": "experiments/canonical/emotion-rh-forecasting/plot_combined_roc.py",
+      "destination": "src/experiments/emotion-rh-forecasting/plot_combined_roc.py",
+      "source_sha256": "a30641c3f265b2fd6d16f84488097125a71be5903f18c018620c76dd41f03a0f",
+      "migration_status": "included",
+      "destination_sha256": "86f340400d598dcf0994a8b4e813d2902d95007aaaf69e8e5a1e61361db9f6a6"
+    },
+    {
+      "source": "experiments/canonical/emotion-rh-forecasting/plot_gemma4b_coding_line_forecast.py",
+      "destination": "src/experiments/emotion-rh-forecasting/plot_gemma4b_coding_line_forecast.py",
+      "source_sha256": "8416071813a8014fab9dbdcf09b7d8308e918758cbf3ce5a96dad4e4a20a4ca3",
+      "migration_status": "included",
+      "destination_sha256": "bc4c5e93698800f8f129796c557262b13ef6f6fae9089789f3a614576d3f7a95"
+    },
+    {
+      "source": "experiments/canonical/emotion-rh-forecasting/plot_gemma4b_sales_forecast.py",
+      "destination": "src/experiments/emotion-rh-forecasting/plot_gemma4b_sales_forecast.py",
+      "source_sha256": "f1b1e24230eb2018e403c8e0da8c99483af62a67ac907eea25918aa0543b40bc",
+      "migration_status": "included",
+      "destination_sha256": "57945b4db92cd94a65d30ce829dce0cf7c6c00f13c213d64de5cc042610849e1"
+    },
+    {
+      "source": "experiments/canonical/emotion-rh-forecasting/plot_glm_coding_1000.py",
+      "destination": "src/experiments/emotion-rh-forecasting/plot_glm_coding_1000.py",
+      "source_sha256": "1bedcf5a7d9cb0dc6479a5152cc6335a387a74ea76119b2cad91a017f7ebd92a",
+      "migration_status": "included",
+      "destination_sha256": "8f41832838074fe47a9144eb68dfa9103d46b36279aa5b930e5d25a7e58a9474"
+    },
+    {
+      "source": "experiments/canonical/emotion-rh-forecasting/plot_glm_hack_forecast.py",
+      "destination": "src/experiments/emotion-rh-forecasting/plot_glm_hack_forecast.py",
+      "source_sha256": "e5a17ac42d04938552cf99c1ff6b3b27c54fb1210dc1ca71ee3981786bf73885",
+      "migration_status": "included",
+      "destination_sha256": "4cb90519f480ff90c827e63cc2bb8122e76e896eadfcd38b78028db3b79167b6"
+    },
+    {
+      "source": "experiments/canonical/emotion-rh-forecasting/plot_goodfire_glm52_expanded.py",
+      "destination": "src/experiments/emotion-rh-forecasting/plot_goodfire_glm52_expanded.py",
+      "source_sha256": "e88511a89962c77992815eb125e0582fdca95b87e6c87bbc0f13bfe3df7197f5",
+      "migration_status": "included",
+      "destination_sha256": "8c53265ea129c51a7f667f05e203a9525813a88d7d4e2d8a6d888f8cd02bae6c"
+    },
+    {
+      "source": "experiments/canonical/emotion-rh-forecasting/plot_goodfire_glm52_forecast.py",
+      "destination": "src/experiments/emotion-rh-forecasting/plot_goodfire_glm52_forecast.py",
+      "source_sha256": "8e940f6bda926c03956040ca91c1f08bd796088d3a5b4f23c46a91fc6cca50f6",
+      "migration_status": "included",
+      "destination_sha256": "5a5fcba617197c705a7aa04d0b08f02df245049b3cd12318cfc1bf8fb96b1f6a"
+    },
+    {
+      "source": "experiments/canonical/emotion-rh-forecasting/plot_goodfire_glm52_roc.py",
+      "destination": "src/experiments/emotion-rh-forecasting/plot_goodfire_glm52_roc.py",
+      "source_sha256": "1020b35827f53f067a3e8f688be13f837b55242aa92d310a93742430ae65f0e1",
+      "migration_status": "included",
+      "destination_sha256": "40c9749b587a7c283634333f23fd7a6599746f04c318565ddec170e25fc27e49"
+    },
+    {
+      "source": "experiments/canonical/emotion-rh-forecasting/plot_missing_probe_roc.py",
+      "destination": "src/experiments/emotion-rh-forecasting/plot_missing_probe_roc.py",
+      "source_sha256": "bae6d097e0fa80dcd0c3c84d586785368a229b2718d61df397473317cb140706",
+      "migration_status": "included",
+      "destination_sha256": "3434f2f9e2afca360d52654c6c41d8c8e9feec7f0416cb68d042a2dcd6df9c3d"
+    },
+    {
+      "source": "experiments/canonical/emotion-rh-forecasting/plot_negative_horizons.py",
+      "destination": "src/experiments/emotion-rh-forecasting/plot_negative_horizons.py",
+      "source_sha256": "2a1fb31379007b04ce51eee700f2b181097fbd1d43970b1f4e50afd16f5ecaaf",
+      "migration_status": "included",
+      "destination_sha256": "6adec0d3e51f16613c769b3ed2e16da4b89f3ae59c0c8d1e7c7f8c7a1bb84cc3"
+    },
+    {
+      "source": "experiments/canonical/emotion-rh-forecasting/preflight_terminalwrench_neutral_v7_20261026.py",
+      "destination": "src/experiments/emotion-rh-forecasting/preflight_terminalwrench_neutral_v7_20261026.py",
+      "source_sha256": "2826610d6dcebc58d58541db1280cba5e95cba0c0a08b709a395c8b0930f6533",
+      "migration_status": "included",
+      "destination_sha256": "c4cd00177019df5b94b7080493c7950668afb3a3af388c20c1186fb96f3a925a"
+    },
+    {
+      "source": "experiments/canonical/emotion-rh-forecasting/prepare_gemma27b_haiku_replay.py",
+      "destination": "src/experiments/emotion-rh-forecasting/prepare_gemma27b_haiku_replay.py",
+      "source_sha256": "a67593ec7fc5e28027008fb223e6c1c338023e2d5db210b31e726dbeb527a5bd",
+      "migration_status": "included",
+      "destination_sha256": "d6d543fc53d4db13dd8376262ddab705038318c552c6a1a87243b59e82bb2198"
+    },
+    {
+      "source": "experiments/canonical/emotion-rh-forecasting/prepare_gemma4b_coding_line_replay.py",
+      "destination": "src/experiments/emotion-rh-forecasting/prepare_gemma4b_coding_line_replay.py",
+      "source_sha256": "5b19f26d0b8295ca2f9cc570f4cb32ea27bfd96fde1e7ea51a4ec9629a442083",
+      "migration_status": "included",
+      "destination_sha256": "aed24735b7c730391019bb1224fa01bbfe18f1c282f442baf078050d10055e55"
+    },
+    {
+      "source": "experiments/canonical/emotion-rh-forecasting/prepare_gemma4b_sales_replay.py",
+      "destination": "src/experiments/emotion-rh-forecasting/prepare_gemma4b_sales_replay.py",
+      "source_sha256": "6b94cbc0a76a31272c7ef47d1fba025de69020b35fc9d510ee8b71fffc210215",
+      "migration_status": "included",
+      "destination_sha256": "7b0788f5185d31aa2e94486bd8687fef93561db180d980c059a4fc67a05937a7"
+    },
+    {
+      "source": "experiments/canonical/emotion-rh-forecasting/prepare_glm_hack_replay.py",
+      "destination": "src/experiments/emotion-rh-forecasting/prepare_glm_hack_replay.py",
+      "source_sha256": "314474b49f741a8333eea43d7e167781e69dcd104ef58a6c927dbceef2de9780",
+      "migration_status": "included",
+      "destination_sha256": "0406fdf904fb1518005eea9694f8baef917300e9c757d837e0d61e8bd9ff58e4"
+    },
+    {
+      "source": "experiments/canonical/emotion-rh-forecasting/prepare_goodfire_glm52_5k_replay.py",
+      "destination": "src/experiments/emotion-rh-forecasting/prepare_goodfire_glm52_5k_replay.py",
+      "source_sha256": "7134743ae8f556c387a55f8f1e2191042a82b8f1b026a28050c441904445d657",
+      "migration_status": "included",
+      "destination_sha256": "0099266600e45f9e4309e3e9081ba847ad9cea4f20dcb589248e5ca30b8bebb7"
+    },
+    {
+      "source": "experiments/canonical/emotion-rh-forecasting/prepare_goodfire_glm52_replay.py",
+      "destination": "src/experiments/emotion-rh-forecasting/prepare_goodfire_glm52_replay.py",
+      "source_sha256": "cf3e0e88da460a95cfba6dbaca9cc11b95884eacd869bbc818824d269f5fe0d2",
+      "migration_status": "included",
+      "destination_sha256": "e5dbc49bcb304e252fbb0e06016734704e5a56761a181ced642240b5241a4b7a"
+    },
+    {
+      "source": "experiments/canonical/emotion-rh-forecasting/prepare_terminalwrench_neutral_replay.py",
+      "destination": "src/experiments/emotion-rh-forecasting/prepare_terminalwrench_neutral_replay.py",
+      "source_sha256": "6247b8f7884e00c10be3a333c7f9da8876c07435d7c2c5b539247d6000aff175",
+      "migration_status": "included",
+      "destination_sha256": "ebddc22177ba27684a93eb25721daf399400f64d36c6f1337be03944002b2906"
+    },
+    {
+      "source": "experiments/canonical/emotion-rh-forecasting/prepare_terminalwrench_neutral_v7_20261026.py",
+      "destination": "src/experiments/emotion-rh-forecasting/prepare_terminalwrench_neutral_v7_20261026.py",
+      "source_sha256": "670ce65d6c6ffcaaf811c962df983e523fb2c6983aee4825d7bc83d98d5a3d03",
+      "migration_status": "included",
+      "destination_sha256": "e0fd972ff933911f9cf1b0fc14682e6b3f4361cb84e96b04c81cb0a607cfda82"
+    },
+    {
+      "source": "experiments/canonical/emotion-rh-forecasting/prepare_terminalwrench_replay.py",
+      "destination": "src/experiments/emotion-rh-forecasting/prepare_terminalwrench_replay.py",
+      "source_sha256": "2cdb5ef66151970afc7a19eb559c39b5b24b59a985d140910bcfc2816a641d0e",
+      "migration_status": "included",
+      "destination_sha256": "9670a98e3c888bc084f6a80fb3a457906e2a24ccb29e0e8560e7b7b6e95aa3d8"
+    },
+    {
+      "source": "experiments/canonical/emotion-rh-forecasting/render_combined.py",
+      "destination": "src/experiments/emotion-rh-forecasting/render_combined.py",
+      "source_sha256": "328f051c00cdcc5176502848788db93d93e7213d9fc1f5f22ef75245946435fb",
+      "migration_status": "included",
+      "destination_sha256": "7ab5ec447a35833cdad70ec1f90c760212f931d371237222a3e865d9813c28c1"
+    },
+    {
+      "source": "experiments/canonical/emotion-rh-forecasting/reuse_glm_coding_replay.py",
+      "destination": "src/experiments/emotion-rh-forecasting/reuse_glm_coding_replay.py",
+      "source_sha256": "99ce6e6ee9a7e1dfe469a8c892b062b7d49817986e8ef2160cc28f79a890d371",
+      "migration_status": "included",
+      "destination_sha256": "a968862bfe8fe3dbe7e7ec43e796f292aa5374e82fb216bcb57f93d283df83e7"
+    },
+    {
+      "source": "experiments/canonical/emotion-rh-forecasting/run.py",
+      "destination": "src/experiments/emotion-rh-forecasting/run.py",
+      "source_sha256": "11e702e5c3c076d8201f5a8e77a91f82a95fb38ee75676ef70f54a398dff08d3",
+      "migration_status": "included",
+      "destination_sha256": "ccc59052741dcdb1abaf66852a217d9485d39b20ff2e0d35713c82e90354ee38"
+    },
+    {
+      "source": "experiments/canonical/emotion-rh-forecasting/score_sales_hack_rate.py",
+      "destination": "src/experiments/emotion-rh-forecasting/score_sales_hack_rate.py",
+      "source_sha256": "e7645d4bf93e3068b761cc3027998eee602384d5b7a6bf98a7a6e1b6c32fe35d",
+      "migration_status": "included",
+      "destination_sha256": "81ee6fc79ce2219312a335987e16d928300a1e5aded2abfd34fe1e917675c917"
+    },
+    {
+      "source": "experiments/canonical/emotion-rh-forecasting/select_glm_nonhack_traces.py",
+      "destination": "src/experiments/emotion-rh-forecasting/select_glm_nonhack_traces.py",
+      "source_sha256": "b70be8dec2bc26059531869c52efce7d83875626de9687013bcba99c33398893",
+      "migration_status": "included",
+      "destination_sha256": "012c662f996f9fa066a3f7676c73672c435859c558499b392165144d53077a91"
+    },
+    {
+      "source": "experiments/canonical/emotion-rh-forecasting/select_goodfire_glm52_gpt61sol_5k.py",
+      "destination": "src/experiments/emotion-rh-forecasting/select_goodfire_glm52_gpt61sol_5k.py",
+      "source_sha256": "25b41b223b742e6c132c5e94d3cc27d4c4b630704b77e19ca2e4ba3ae05981ae",
+      "migration_status": "included",
+      "destination_sha256": "1108d9b6bfb03b32a46494ea9707fb9f53f3e276da54a1d6128519069b53551c"
+    },
+    {
+      "source": "experiments/canonical/emotion-rh-forecasting/select_goodfire_glm52_gpt61sol_5k_b.py",
+      "destination": "src/experiments/emotion-rh-forecasting/select_goodfire_glm52_gpt61sol_5k_b.py",
+      "source_sha256": "7968988705681a8a5ddd1c39ee893beb78afd66ce9781ab32e1c2cac9daf399b",
+      "migration_status": "included",
+      "destination_sha256": "455d63c148a77316dc6d5beed76d3ba777f78d16ecfe8c9d85adfa2b578d7f65"
+    },
+    {
+      "source": "experiments/canonical/emotion-rh-forecasting/validate_terminalwrench_label_comparison.py",
+      "destination": "src/experiments/emotion-rh-forecasting/validate_terminalwrench_label_comparison.py",
+      "source_sha256": "bee17ac86f6efccca20065030731ae5f63d1225ad63eff35f08bfb8480859cca",
+      "migration_status": "included",
+      "destination_sha256": "71dcb9aede182c0ce600c536500dddbcc650d8f9e2acb8b68e066c3e0c0662c3"
+    },
+    {
+      "source": "experiments/canonical/emotion-rh-forecasting/validate_terminalwrench_labels.py",
+      "destination": "src/experiments/emotion-rh-forecasting/validate_terminalwrench_labels.py",
+      "source_sha256": "bd0532a6c0509cc08d3138d23a256c3bec451875905e685eb74e50b8e5c13d51",
+      "migration_status": "included",
+      "destination_sha256": "630c9fbaf841d42b8cc5fe07fb91e4af74e79f172e606edefeee585049352f29"
+    },
+    {
+      "source": "experiments/canonical/emotion-self-report/README.md",
+      "destination": "src/experiments/emotion-self-report/README.md",
+      "source_sha256": "569426ef700bea28a9f89ac3bf46fb5fea9f34d1aac9772d6ac34ae62042eb36",
+      "migration_status": "included",
+      "destination_sha256": "b2ebba7e45dc946547136d383e75f94921c3a66e1f55c3d3c2db86c696a9f5f5"
+    },
+    {
+      "source": "experiments/canonical/emotion-self-report/TERMINALWRENCH_SCORING.md",
+      "destination": "src/experiments/emotion-self-report/TERMINALWRENCH_SCORING.md",
+      "source_sha256": "14424f169e0aa67815f9814e98026d43819a77b93cf3702dd15d2c8418e8643a",
+      "migration_status": "included",
+      "destination_sha256": "14424f169e0aa67815f9814e98026d43819a77b93cf3702dd15d2c8418e8643a"
+    },
+    {
+      "source": "experiments/canonical/emotion-self-report/emotion_self_report/__init__.py",
+      "destination": "src/experiments/emotion-self-report/emotion_self_report/__init__.py",
+      "source_sha256": "aea4f1ab0505288054f9dcd755e6b0288317017bf7f568a87f5f7285225bdb43",
+      "migration_status": "included",
+      "destination_sha256": "aea4f1ab0505288054f9dcd755e6b0288317017bf7f568a87f5f7285225bdb43"
+    },
+    {
+      "source": "experiments/canonical/emotion-self-report/emotion_self_report/analysis.py",
+      "destination": "src/experiments/emotion-self-report/emotion_self_report/analysis.py",
+      "source_sha256": "1b0c6cd63065fb559560a48b30637bb9f266293dd9e2f68e2e331637b3245a8f",
+      "migration_status": "included",
+      "destination_sha256": "1b0c6cd63065fb559560a48b30637bb9f266293dd9e2f68e2e331637b3245a8f"
+    },
+    {
+      "source": "experiments/canonical/emotion-self-report/emotion_self_report/collection.py",
+      "destination": "src/experiments/emotion-self-report/emotion_self_report/collection.py",
+      "source_sha256": "bc21839d7d0553005687214dd9f54d5112f0f787130e23d4d797cf84ce761975",
+      "migration_status": "included",
+      "destination_sha256": "bc21839d7d0553005687214dd9f54d5112f0f787130e23d4d797cf84ce761975"
+    },
+    {
+      "source": "experiments/canonical/emotion-self-report/emotion_self_report/config.py",
+      "destination": "src/experiments/emotion-self-report/emotion_self_report/config.py",
+      "source_sha256": "ba5d5f2443bd79193bbd8fe4d1712a6dde49d5fe87fedd29a95a8974c865bf6f",
+      "migration_status": "included",
+      "destination_sha256": "2a2456bd0263f67a17a8d8639846a24be1038359f588a62d7f9137612d995257"
+    },
+    {
+      "source": "experiments/canonical/emotion-self-report/emotion_self_report/inputs.py",
+      "destination": "src/experiments/emotion-self-report/emotion_self_report/inputs.py",
+      "source_sha256": "057b63bc547ad33a60e88ce0e10675a154f74d083ececf8ace3236dc3f0399dc",
+      "migration_status": "included",
+      "destination_sha256": "057b63bc547ad33a60e88ce0e10675a154f74d083ececf8ace3236dc3f0399dc"
+    },
+    {
+      "source": "experiments/canonical/emotion-self-report/emotion_self_report/pipeline.py",
+      "destination": "src/experiments/emotion-self-report/emotion_self_report/pipeline.py",
+      "source_sha256": "c66ef9ff2920768f5b5a3c3db58de6ebc938104b1500004dd9ca407260c6eca8",
+      "migration_status": "included",
+      "destination_sha256": "5091bf3f52238dae5a4321cd3e1957c43005b288f189ac4b23f53e16af38edcf"
+    },
+    {
+      "source": "experiments/canonical/emotion-self-report/emotion_self_report/reporting.py",
+      "destination": "src/experiments/emotion-self-report/emotion_self_report/reporting.py",
+      "source_sha256": "af8f677087521bd8bf754dc40d4579a4fa972733f848f1894ee146debf133e65",
+      "migration_status": "included",
+      "destination_sha256": "af8f677087521bd8bf754dc40d4579a4fa972733f848f1894ee146debf133e65"
+    },
+    {
+      "source": "experiments/canonical/emotion-self-report/emotion_self_report/segmentation.py",
+      "destination": "src/experiments/emotion-self-report/emotion_self_report/segmentation.py",
+      "source_sha256": "5476d827f93eec1478a1e8e52a1d45668371ff3dc098c369b5b123d2137ec770",
+      "migration_status": "included",
+      "destination_sha256": "5476d827f93eec1478a1e8e52a1d45668371ff3dc098c369b5b123d2137ec770"
+    },
+    {
+      "source": "experiments/canonical/emotion-self-report/finalize_activations.py",
+      "destination": "src/experiments/emotion-self-report/finalize_activations.py",
+      "source_sha256": "4275443d5037c4cd321cb1127bdffa339f94597c63288ff9ebe768620d19060b",
+      "migration_status": "included",
+      "destination_sha256": "5b56086b5fbacb950da370356ffbc2ff5fa0e097e4a3291537c6a847d4b28542"
+    },
+    {
+      "source": "experiments/canonical/emotion-self-report/finalize_gemma27b_activations.py",
+      "destination": "src/experiments/emotion-self-report/finalize_gemma27b_activations.py",
+      "source_sha256": "cee78809aedd75552b83366f8e1fb1a6788bd9073e1425aaa5f43001b6ec9325",
+      "migration_status": "included",
+      "destination_sha256": "4c531f1e649f679cbcad08db53c1a550e6a2a3596cfd29e1b33029cc5ffcd48e"
+    },
+    {
+      "source": "experiments/canonical/emotion-self-report/finalize_gemma4b_activations.py",
+      "destination": "src/experiments/emotion-self-report/finalize_gemma4b_activations.py",
+      "source_sha256": "e5bcf54941b91c8b301899e601566f1f832408e303fb5a6feed3d130e3a4420d",
+      "migration_status": "included",
+      "destination_sha256": "9a720bb69ea634186fdee3d12416a5e7876ec0154a45ec81d798cad552b8ffb7"
+    },
+    {
+      "source": "experiments/canonical/emotion-self-report/gptoss_sales_replay.py",
+      "destination": "src/experiments/emotion-self-report/gptoss_sales_replay.py",
+      "source_sha256": "9fa17364c4dd7c17dc6b971dd9bfff847d990219d6347892a58904a7f2ee1e40",
+      "migration_status": "included",
+      "destination_sha256": "02b315b4d272908de54ea97cf05028ec71b68dbf9d21e84234167dd9f8724a8d"
+    },
+    {
+      "source": "experiments/canonical/emotion-self-report/materialize_glm53_scores.py",
+      "destination": "src/experiments/emotion-self-report/materialize_glm53_scores.py",
+      "source_sha256": "434a97d01428ea04086abce825ae5b95a8f91514ca9cc59bc2503bd0f8d4741f",
+      "migration_status": "included",
+      "destination_sha256": "47adf1ebd60c20cc9feef108447adc35c53c5103cc4d89fcce23cee1baeb3e33"
+    },
+    {
+      "source": "experiments/canonical/emotion-self-report/materialize_gptoss_scores.py",
+      "destination": "src/experiments/emotion-self-report/materialize_gptoss_scores.py",
+      "source_sha256": "50e79cf815a9ca12c945202df9843d5408145d3a8598f6f5befe824f0403a1b9",
+      "migration_status": "included",
+      "destination_sha256": "7d6427e507dab02f864f6d37546dbe8e7568697fe9dbca0612ccc99a26aaa29a"
+    },
+    {
+      "source": "experiments/canonical/emotion-self-report/modal_gemma27b_activations.py",
+      "destination": "src/experiments/emotion-self-report/modal_gemma27b_activations.py",
+      "source_sha256": "ee3765f144728b673618e5715dcf2cb27a378ec2d1247d3be0661e1a0b56c7b3",
+      "migration_status": "included",
+      "destination_sha256": "bde4f08373ba176b8c5638315606a2c3ff4930bb1377406ee711dc37a5488a43"
+    },
+    {
+      "source": "experiments/canonical/emotion-self-report/modal_gemma4b_activations.py",
+      "destination": "src/experiments/emotion-self-report/modal_gemma4b_activations.py",
+      "source_sha256": "db2bf5b907666836d07f8ed2a9c7f1e671d6d78966c04cf7bf9c3ce61d26d557",
+      "migration_status": "included",
+      "destination_sha256": "aafa97058137081824cc05e22d9ef4bd1704fa33272de60fe18b95cddec12a7b"
+    },
+    {
+      "source": "experiments/canonical/emotion-self-report/modal_glm53_replay.py",
+      "destination": "src/experiments/emotion-self-report/modal_glm53_replay.py",
+      "source_sha256": "72886f3745d369699b3894c073bf59a3bf9a6e5b57f50542ff8667bf57f66ab5",
+      "migration_status": "included",
+      "destination_sha256": "dcf66b60b7fa49fafa1b4aa565a0a2cd984791813a27ae7c3fbc46cb9bb6a072"
+    },
+    {
+      "source": "experiments/canonical/emotion-self-report/plans/terminalwrench-neutral-three-models-v1.md",
+      "destination": "src/experiments/emotion-self-report/plans/terminalwrench-neutral-three-models-v1.md",
+      "source_sha256": "69c60c009fb17df4c15cc68f2e3b91ccb8e1fe50b22424d1929c77fef899b4ce",
+      "migration_status": "included",
+      "destination_sha256": "69c60c009fb17df4c15cc68f2e3b91ccb8e1fe50b22424d1929c77fef899b4ce"
+    },
+    {
+      "source": "experiments/canonical/emotion-self-report/prepare_gemma27b_activations.py",
+      "destination": "src/experiments/emotion-self-report/prepare_gemma27b_activations.py",
+      "source_sha256": "7c348406357c13e5bfc65495894bd0d02b7cbb1e24200a1a3848a4a4a34c0caf",
+      "migration_status": "included",
+      "destination_sha256": "35fde6bb6a6854e67aca88b38b80056d360dea84f0e53d43b8d9f77b56a488f5"
+    },
+    {
+      "source": "experiments/canonical/emotion-self-report/prepare_gemma4b_activations.py",
+      "destination": "src/experiments/emotion-self-report/prepare_gemma4b_activations.py",
+      "source_sha256": "9969102d57e0474bc6b5807671e7b0e60494ebe0e16dff54eb34527f411dbb83",
+      "migration_status": "included",
+      "destination_sha256": "692eb03e644cca0d467fe2094509c20cc88674b600d47251bcbb5b2ab067cc56"
+    },
+    {
+      "source": "experiments/canonical/emotion-self-report/prepare_glm53_replay.py",
+      "destination": "src/experiments/emotion-self-report/prepare_glm53_replay.py",
+      "source_sha256": "b69457e8d82098580d3766ed162fc3d4ccd878453be103eb039648286694ef9a",
+      "migration_status": "included",
+      "destination_sha256": "e4042fcd263c1f28f9f7d9045d9cef8ffb16874abd5c8e91fd0885a46a8c7299"
+    },
+    {
+      "source": "experiments/canonical/emotion-self-report/prepare_terminalwrench_v7.py",
+      "destination": "src/experiments/emotion-self-report/prepare_terminalwrench_v7.py",
+      "source_sha256": "2abdc97cfca22def1ae258ecb63f51bf586e4cb125232997dd84b582bd2f7612",
+      "migration_status": "included",
+      "destination_sha256": "3ef6ee564a4e0798a2e8efdd91a6261ffeee37d9ebadf7b8042c9cd85154b1ba"
+    },
+    {
+      "source": "experiments/canonical/emotion-self-report/run.py",
+      "destination": "src/experiments/emotion-self-report/run.py",
+      "source_sha256": "a18eba8177ef0b1ab7d38910e3cd2da5188c652441ca916f4eebf08713a22a73",
+      "migration_status": "included",
+      "destination_sha256": "eaed8b778891dd05d8cbc251ae1a14ce3e998ba19979582394e3fcdd648597fb"
+    },
+    {
+      "source": "experiments/canonical/emotion-self-report/run_terminalwrench_v7.sh",
+      "destination": "src/experiments/emotion-self-report/run_terminalwrench_v7.sh",
+      "source_sha256": "9429f463e98ebdd8dd353215feb8a3e2ecba241590f306b6c90885e2aa34880f",
+      "migration_status": "included",
+      "destination_sha256": "9429f463e98ebdd8dd353215feb8a3e2ecba241590f306b6c90885e2aa34880f"
+    },
+    {
+      "source": "experiments/canonical/emotion-self-report/select_activation_traces.py",
+      "destination": "src/experiments/emotion-self-report/select_activation_traces.py",
+      "source_sha256": "e2eaec142ce57b4b6f5c20e1a0a594aaf0106f87749e4438e559e0b1c2cd463a",
+      "migration_status": "included",
+      "destination_sha256": "2c91ff9affb1c7879dcb71dc91ecdfee01633050787444726a3ee0c5b990ecbe"
+    },
+    {
+      "source": "experiments/canonical/emotion-self-report/select_terminalwrench_glm53.py",
+      "destination": "src/experiments/emotion-self-report/select_terminalwrench_glm53.py",
+      "source_sha256": "92dafd484c30faba38933a502d4146067f59254f7062a389b49a85009f6c29b3",
+      "migration_status": "included",
+      "destination_sha256": "74c903e97e3c572e78c6b499019adbd60ab53760424e416b8e0bf5af3e1483f7"
+    },
+    {
+      "source": "experiments/canonical/emotion-self-report/summarize_activation_runs.py",
+      "destination": "src/experiments/emotion-self-report/summarize_activation_runs.py",
+      "source_sha256": "f0d070fe3a23a117bc9dc0822a5fa1d79c714a19c518a3865b632a088db946c5",
+      "migration_status": "included",
+      "destination_sha256": "80dc3e760499d7107671c8f3d6fec95ce7994cb80a2c7c1f68c073e3866b1658"
+    },
+    {
+      "source": "experiments/canonical/emotion-self-report/terminalwrench_dashboard.py",
+      "destination": "src/experiments/emotion-self-report/terminalwrench_dashboard.py",
+      "source_sha256": "ba59bb59ec282359daca5b485e2c52c53a6e2ed004e7690cfe9aa24b1f2ece50",
+      "migration_status": "included",
+      "destination_sha256": "70d21582aa92ca94247168c002042585ba62ce2d36dc3a9532240de07d20782b"
+    },
+    {
+      "source": "experiments/canonical/shared/__init__.py",
+      "destination": "src/experiments/shared/__init__.py",
+      "source_sha256": "fa5b22260a0c23c70aae8609ee473927fcdf9dfeb3cce6f6a34b666a1e1f6653",
+      "migration_status": "included",
+      "destination_sha256": "7687bbea486cb5bfb7127028a7fa4abcb1019c6c71c78ee0a109024c5b133ed8"
+    },
+    {
+      "source": "experiments/canonical/shared/io.py",
+      "destination": "src/experiments/shared/io.py",
+      "source_sha256": "d065ca12e3f08a48de3c11c76ba9021962ff36c7d0acb64534436fd606dea533",
+      "migration_status": "included",
+      "destination_sha256": "103c906337e47dc8535eea611568a2d753e90c5822f84ab986af53b822ec776d"
+    },
+    {
+      "source": "experiments/canonical/shared/progress.py",
+      "destination": "src/experiments/shared/progress.py",
+      "source_sha256": "347c4b989577b7c073d52f164bb440865d56e936cf1fbef8b4c22c5dc5743bc6",
+      "migration_status": "included",
+      "destination_sha256": "ef6346e9b2ff7027ffccd93da154298d3c6e24dc6c9fd3ebfc16dd4c3dc93993"
+    },
+    {
+      "source": "experiments/canonical/shared/server.py",
+      "destination": "src/experiments/shared/server.py",
+      "source_sha256": "c7dde1edb037e819816f99719b9a03b8309d3b09587c5c7ea104de5806ac18d3",
+      "migration_status": "included",
+      "destination_sha256": "f3f343840ad24e604d3d5ec2f5c8eb6c405df7c17c4d80d899005e593d1edaa3"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/data/qwen35-9b-probes.json",
+      "destination": "src/experiments/emotion-steering/data/qwen35-9b-probes.json",
+      "source_sha256": "2ab7d01269c4b6625efd4d4fdfa5c8c61d205dd31fdc8d4e8a344764ed47660b",
+      "migration_status": "replaced_by_portable_interface"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/data/gpt-oss-120b-probes.json",
+      "destination": "src/experiments/emotion-steering/data/gpt-oss-120b-probes.json",
+      "source_sha256": "841a7f76081aa499af11cb607487f9b345508774f7b2ed8033e6453f7df59571",
+      "migration_status": "replaced_by_portable_interface"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/data/coding-smoke.json",
+      "destination": "src/experiments/emotion-steering/data/coding-smoke.json",
+      "source_sha256": "6e77d36a4c8b21126039e60bd9e9d83d74d51f6f00eb2e8d781c869ede7b658e",
+      "migration_status": "included",
+      "destination_sha256": "6e77d36a4c8b21126039e60bd9e9d83d74d51f6f00eb2e8d781c869ede7b658e"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/data/coding.json",
+      "destination": "src/experiments/emotion-steering/data/coding.json",
+      "source_sha256": "8346dbad51764a481191728769496442707d8ec32e6ffb61732438ff8ee5387b",
+      "migration_status": "included",
+      "destination_sha256": "8346dbad51764a481191728769496442707d8ec32e6ffb61732438ff8ee5387b"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/data/sales-smoke.json",
+      "destination": "src/experiments/emotion-steering/data/sales-smoke.json",
+      "source_sha256": "6f07fea1f0c76d2d41b527b1efb9937fb86dcfeb0e4a7349ff4f57050bf710f8",
+      "migration_status": "included",
+      "destination_sha256": "6f07fea1f0c76d2d41b527b1efb9937fb86dcfeb0e4a7349ff4f57050bf710f8"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/data/terminalwrench.json",
+      "destination": "src/experiments/emotion-steering/data/terminalwrench.json",
+      "source_sha256": "9bf1474355b719588179df1bdbe5f06af049cc4351109f057eeafe8d70df5522",
+      "migration_status": "included",
+      "destination_sha256": "9bf1474355b719588179df1bdbe5f06af049cc4351109f057eeafe8d70df5522"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/data/sales.json",
+      "destination": "src/experiments/emotion-steering/data/sales.json",
+      "source_sha256": "9796165acf35bc0464cd3f91255b576a10aac126624b8d245b84cd362a5bcaa2",
+      "migration_status": "included",
+      "destination_sha256": "9796165acf35bc0464cd3f91255b576a10aac126624b8d245b84cd362a5bcaa2"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/data/gemma-3-27b-probes.json",
+      "destination": "src/experiments/emotion-steering/data/gemma-3-27b-probes.json",
+      "source_sha256": "6957376a52fd2f6d03baf4ab61c2f66e403ad2ac676c14fdf2002c32cf110ab5",
+      "migration_status": "replaced_by_portable_interface"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/data/terminalwrench-tasks/1351/environment/weights.json",
+      "destination": "src/experiments/emotion-steering/data/terminalwrench-tasks/1351/environment/weights.json",
+      "source_sha256": "f0431864a871e2664401cd1c4ed62872fec364c2b90345838c67d66f1bd49c20",
+      "migration_status": "included",
+      "destination_sha256": "f0431864a871e2664401cd1c4ed62872fec364c2b90345838c67d66f1bd49c20"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/data/terminalwrench-tasks/606/variants.json",
+      "destination": "src/experiments/emotion-steering/data/terminalwrench-tasks/606/variants.json",
+      "source_sha256": "9397bcd1d7792f5c524d7093ffb7ec671bf6be46ea63577143d6d047567cc2f0",
+      "migration_status": "included",
+      "destination_sha256": "9397bcd1d7792f5c524d7093ffb7ec671bf6be46ea63577143d6d047567cc2f0"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/data/terminalwrench-tasks/606/environment/weights.json",
+      "destination": "src/experiments/emotion-steering/data/terminalwrench-tasks/606/environment/weights.json",
+      "source_sha256": "73d81fa8b075a18d21471d4cc30efa8d86065841f37e5f59505e4f032fc98c0e",
+      "migration_status": "included",
+      "destination_sha256": "73d81fa8b075a18d21471d4cc30efa8d86065841f37e5f59505e4f032fc98c0e"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/data/terminalwrench-tasks/flood-escape-path-planner/environment/configs/large_open_grid_config.json",
+      "destination": "src/experiments/emotion-steering/data/terminalwrench-tasks/flood-escape-path-planner/environment/configs/large_open_grid_config.json",
+      "source_sha256": "346f2597ee27009a1f9581e8ff803d2b704f26a7c1ffad1922b25572fd8220f2",
+      "migration_status": "included",
+      "destination_sha256": "346f2597ee27009a1f9581e8ff803d2b704f26a7c1ffad1922b25572fd8220f2"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/data/terminalwrench-tasks/flood-escape-path-planner/environment/configs/already_safe_config.json",
+      "destination": "src/experiments/emotion-steering/data/terminalwrench-tasks/flood-escape-path-planner/environment/configs/already_safe_config.json",
+      "source_sha256": "c2886d41f0e9c9ae981a9f8923c336fdc3547b3a859f36472f9074688222136e",
+      "migration_status": "included",
+      "destination_sha256": "c2886d41f0e9c9ae981a9f8923c336fdc3547b3a859f36472f9074688222136e"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/data/terminalwrench-tasks/flood-escape-path-planner/environment/configs/narrow_bridge_config.json",
+      "destination": "src/experiments/emotion-steering/data/terminalwrench-tasks/flood-escape-path-planner/environment/configs/narrow_bridge_config.json",
+      "source_sha256": "966464697773a39b2e3b7cfa59c93577999641d78e24600ffa3556d72d505a54",
+      "migration_status": "included",
+      "destination_sha256": "966464697773a39b2e3b7cfa59c93577999641d78e24600ffa3556d72d505a54"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/data/terminalwrench-tasks/flood-escape-path-planner/environment/configs/single_island_config.json",
+      "destination": "src/experiments/emotion-steering/data/terminalwrench-tasks/flood-escape-path-planner/environment/configs/single_island_config.json",
+      "source_sha256": "dda4e9355d9301d8ab8884ba6310de0c543eae3e67b4df6718a12c13babb090e",
+      "migration_status": "included",
+      "destination_sha256": "dda4e9355d9301d8ab8884ba6310de0c543eae3e67b4df6718a12c13babb090e"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/data/terminalwrench-tasks/flood-escape-path-planner/environment/configs/race_condition_config.json",
+      "destination": "src/experiments/emotion-steering/data/terminalwrench-tasks/flood-escape-path-planner/environment/configs/race_condition_config.json",
+      "source_sha256": "191871e3d2d04489fa83bb1d551595e2e1ca38e506854cc4cc1a32a0235012e5",
+      "migration_status": "included",
+      "destination_sha256": "191871e3d2d04489fa83bb1d551595e2e1ca38e506854cc4cc1a32a0235012e5"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/data/terminalwrench-tasks/flood-escape-path-planner/environment/configs/exceed_steps_config.json",
+      "destination": "src/experiments/emotion-steering/data/terminalwrench-tasks/flood-escape-path-planner/environment/configs/exceed_steps_config.json",
+      "source_sha256": "3b11c35f400b4ac34897c37bc76830d85f235e776370f44a11bc04b29279189b",
+      "migration_status": "included",
+      "destination_sha256": "3b11c35f400b4ac34897c37bc76830d85f235e776370f44a11bc04b29279189b"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/data/terminalwrench-tasks/flood-escape-path-planner/environment/configs/no_water_config.json",
+      "destination": "src/experiments/emotion-steering/data/terminalwrench-tasks/flood-escape-path-planner/environment/configs/no_water_config.json",
+      "source_sha256": "af4135fff6a56456aaeb918c55671acf4d460251aaa802b57cbaaed8b122187c",
+      "migration_status": "included",
+      "destination_sha256": "af4135fff6a56456aaeb918c55671acf4d460251aaa802b57cbaaed8b122187c"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/data/terminalwrench-tasks/flood-escape-path-planner/environment/configs/trapped_delay_config.json",
+      "destination": "src/experiments/emotion-steering/data/terminalwrench-tasks/flood-escape-path-planner/environment/configs/trapped_delay_config.json",
+      "source_sha256": "54f767c5f778f4a488e85c8d9c84cbb12026ea96aeb98b1c6ec8972114eabab3",
+      "migration_status": "included",
+      "destination_sha256": "54f767c5f778f4a488e85c8d9c84cbb12026ea96aeb98b1c6ec8972114eabab3"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/data/terminalwrench-tasks/flood-escape-path-planner/environment/configs/dead_end_config.json",
+      "destination": "src/experiments/emotion-steering/data/terminalwrench-tasks/flood-escape-path-planner/environment/configs/dead_end_config.json",
+      "source_sha256": "695c36263a97b9b0c4495813e170ccf684d4ab8e7c2912b9f8b6427079e61198",
+      "migration_status": "included",
+      "destination_sha256": "695c36263a97b9b0c4495813e170ccf684d4ab8e7c2912b9f8b6427079e61198"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/data/terminalwrench-tasks/flood-escape-path-planner/environment/configs/corner_start_config.json",
+      "destination": "src/experiments/emotion-steering/data/terminalwrench-tasks/flood-escape-path-planner/environment/configs/corner_start_config.json",
+      "source_sha256": "c9926b0bd6550c3e82709a2c03075af82150aa77a7d82b00bb614da9d48ed20f",
+      "migration_status": "included",
+      "destination_sha256": "c9926b0bd6550c3e82709a2c03075af82150aa77a7d82b00bb614da9d48ed20f"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/data/terminalwrench-tasks/flood-escape-path-planner/environment/configs/grid_config.json",
+      "destination": "src/experiments/emotion-steering/data/terminalwrench-tasks/flood-escape-path-planner/environment/configs/grid_config.json",
+      "source_sha256": "d48a6053554895a210af5a808ec3c4e0d44137ebb447ed5abcd6e92c0fa8fd4a",
+      "migration_status": "included",
+      "destination_sha256": "d48a6053554895a210af5a808ec3c4e0d44137ebb447ed5abcd6e92c0fa8fd4a"
+    },
+    {
+      "source": "experiments/canonical/emotion-steering/models.json",
+      "destination": "src/experiments/emotion-steering/models.json",
+      "source_sha256": "57e1e059895c05875d558f4df1e45903fb42a4ddcd2e272fda8ec49ecc8f9739",
+      "migration_status": "included",
+      "destination_sha256": "57e1e059895c05875d558f4df1e45903fb42a4ddcd2e272fda8ec49ecc8f9739"
+    },
+    {
+      "source": "experiments/canonical/tests/test_combined_emotions.py",
+      "destination": "tests/test_combined_emotions.py",
+      "source_sha256": "33e0e68f0a6a0d3f562b22e40d53a6de4c4bac0871b8dd6c671c7be850819263",
+      "migration_status": "included",
+      "destination_sha256": "1b08e7546842ece63b6622146e7658ab3bbb671980d5c8ea3bdc552ae32d1e45"
+    },
+    {
+      "source": "experiments/canonical/tests/conftest.py",
+      "destination": "tests/conftest.py",
+      "source_sha256": "1c9d5420827fba5a07f8b99986ed2ba964c6e90b9d73eac07f93d0326f684229",
+      "migration_status": "included",
+      "destination_sha256": "c319ea43c3063eb1ab271ebc9e13ed318b13baf786fa80f566845e80416f7868"
+    },
+    {
+      "source": "experiments/canonical/tests/test_steering_judge_sales.py",
+      "destination": "tests/test_steering_judge_sales.py",
+      "source_sha256": "f52453402816d6b1a5750e500cc6d3310dedd36763352902c41abd7a7bd84d5b",
+      "migration_status": "included",
+      "destination_sha256": "5df837c8b4e09e8dee807740fc2fb8f78fb12f531b5737a45efe32c6345c4666"
+    },
+    {
+      "source": "experiments/canonical/tests/test_kernel_preflight.py",
+      "destination": "tests/test_kernel_preflight.py",
+      "source_sha256": "5cc2345831b4f802dabd3b2801c42e4b41c3f3626e143a878e55a38b16a6fad6",
+      "migration_status": "included",
+      "destination_sha256": "5cc2345831b4f802dabd3b2801c42e4b41c3f3626e143a878e55a38b16a6fad6"
+    },
+    {
+      "source": "experiments/canonical/tests/test_steering_batches.py",
+      "destination": "tests/test_steering_batches.py",
+      "source_sha256": "175211ce36662d0a114d257b49cab604f212a250fa621fcf88fdc01f92d31076",
+      "migration_status": "included",
+      "destination_sha256": "64ea6452d7e5960a034d1ab81df070ef1afdf2668f20a8c7a53d2460272662f0"
+    },
+    {
+      "source": "experiments/canonical/tests/test_steering.py",
+      "destination": "tests/test_steering.py",
+      "source_sha256": "4af1c4dd89fb08b3758eb20ec1ac69b284021f745c687b0677685e127d574061",
+      "migration_status": "included",
+      "destination_sha256": "f518deb952b1ecaba0b792da70db0f4ab041fb41445778cb915beddf557ba1fb"
+    },
+    {
+      "source": "experiments/canonical/tests/test_terminalwrench_labeling.py",
+      "destination": "tests/test_terminalwrench_labeling.py",
+      "source_sha256": "df2ed43e604739774fe6b04a41d0ce62c7b560985e8a7bd8ebd50020f839c5eb",
+      "migration_status": "included",
+      "destination_sha256": "2d7673b28c02013f458854d4e36a4aa8888d2f4e038f716616eece792c3bc068"
+    },
+    {
+      "source": "experiments/canonical/tests/test_pipeline.py",
+      "destination": "tests/test_pipeline.py",
+      "source_sha256": "d7f2279ef9f371029fedde5a82a9e396eac80a836d8e1fd6e31c22698b009ee6",
+      "migration_status": "included",
+      "destination_sha256": "d7f2279ef9f371029fedde5a82a9e396eac80a836d8e1fd6e31c22698b009ee6"
+    },
+    {
+      "source": "experiments/canonical/tests/test_steering_remote.py",
+      "destination": "tests/test_steering_remote.py",
+      "source_sha256": "07a973a92734592f69a43d7479ec9bbf9d0f1db2187b27895c0f3084de8f4d6e",
+      "migration_status": "included",
+      "destination_sha256": "42fef947f8ce3ac9a9551d839c5f558e0f8ca8c8d93d59d540a7682c5fbeef83"
+    },
+    {
+      "source": "experiments/canonical/tests/test_gemma_probes.py",
+      "destination": "tests/test_gemma_probes.py",
+      "source_sha256": "506d7b54d35a3f63a03b9a76a3cdcbe87d7ac8fb63264faa60deb44c7051f1a8",
+      "migration_status": "included",
+      "destination_sha256": "c0ecc499917193cbdaf94c2290e93627b1ada34d4f205a942f27a20e77e2b3e1"
+    },
+    {
+      "source": "experiments/canonical/tests/test_capture.py",
+      "destination": "tests/test_capture.py",
+      "source_sha256": "174d3815c49cb7d70c7206f7ab79e6b1d612d00df9617585e83e9b05c03d6991",
+      "migration_status": "included",
+      "destination_sha256": "174d3815c49cb7d70c7206f7ab79e6b1d612d00df9617585e83e9b05c03d6991"
+    },
+    {
+      "source": "experiments/canonical/tests/test_cached_resume.py",
+      "destination": "tests/test_cached_resume.py",
+      "source_sha256": "361473dfc9ab86bb10788eddbda60357314426a512ece49515666eecdc4cd67a",
+      "migration_status": "included",
+      "destination_sha256": "361473dfc9ab86bb10788eddbda60357314426a512ece49515666eecdc4cd67a"
+    },
+    {
+      "source": "experiments/canonical/tests/test_story_probes.py",
+      "destination": "tests/test_story_probes.py",
+      "source_sha256": "9e88cb0c3c6a61ca318860c4ab180e9780711d79633e92a3108e25820164dcbe",
+      "migration_status": "included",
+      "destination_sha256": "9e88cb0c3c6a61ca318860c4ab180e9780711d79633e92a3108e25820164dcbe"
+    },
+    {
+      "source": "experiments/canonical/tests/test_steering_sales_ledger.py",
+      "destination": "tests/test_steering_sales_ledger.py",
+      "source_sha256": "2326e96038c7ea721e17d31df7df6d6d57b53325ac2bf22792b8c23ec81e4033",
+      "migration_status": "included",
+      "destination_sha256": "a2703f214aa04b6d88264fe9bd1045d2f9521d9e37a6d9740849b5f8b7fe8eda"
+    },
+    {
+      "source": "experiments/canonical/tests/test_self_report.py",
+      "destination": "tests/test_self_report.py",
+      "source_sha256": "b596eaad1a163a37d9a7ba3b045b084d300a8a39da2c2449f814c5e8844bb0f0",
+      "migration_status": "included",
+      "destination_sha256": "b596eaad1a163a37d9a7ba3b045b084d300a8a39da2c2449f814c5e8844bb0f0"
+    },
+    {
+      "source": "experiments/canonical/tests/test_terminalwrench_inference_queue.py",
+      "destination": "tests/test_terminalwrench_inference_queue.py",
+      "source_sha256": "9fdbf807da9c8c9f2f8ab03a4f3208e83612be2b931f2053541c939ab3d2f49d",
+      "migration_status": "included",
+      "destination_sha256": "bc23026d178f16b2a0410c8e128dbe4fea8ebd90aa5ed69b35eefdc8eced9d51"
+    },
+    {
+      "source": "experiments/canonical/tests/test_steering_runtime.py",
+      "destination": "tests/test_steering_runtime.py",
+      "source_sha256": "0cc97156057bd63e336de52a22ed002307be18e2fe0b9d77b762ca0e7aa398b6",
+      "migration_status": "included",
+      "destination_sha256": "f76ca653857c6e8b02cac1137f770c83cb3d8955333459df2e23e7cb9088c690"
+    },
+    {
+      "source": "experiments/canonical/tests/test_activation_replay.py",
+      "destination": "tests/test_activation_replay.py",
+      "source_sha256": "a2b2cacb00612f8132b1072ff6ee17851273c3b59f93b31bd2152cc39821c151",
+      "migration_status": "included",
+      "destination_sha256": "83a952683e5ae1d3773daf3aa77b42cc8d342d0317ce737fbf76404d0952c430"
+    },
+    {
+      "source": "experiments/canonical/tests/test_terminalwrench_timed_lens.py",
+      "destination": "tests/test_terminalwrench_timed_lens.py",
+      "source_sha256": "93e2183ef034172a2c6b6d8648492c2294708be4dbf63b1e328b110d3098f6a1",
+      "migration_status": "included",
+      "destination_sha256": "0ddb0bb38990b09a9613bf765713756348ad86da84c8e16b0907d77adeac3289"
+    },
+    {
+      "source": "experiments/canonical/tests/test_rh_forecasting.py",
+      "destination": "tests/test_rh_forecasting.py",
+      "source_sha256": "684a7b3839d21303d0b866409f467c93c5e06cbc6f7b14a4d3602b0f0468ac6c",
+      "migration_status": "included",
+      "destination_sha256": "684a7b3839d21303d0b866409f467c93c5e06cbc6f7b14a4d3602b0f0468ac6c"
+    },
+    {
+      "source": "experiments/canonical/tests/test_terminalwrench_replay.py",
+      "destination": "tests/test_terminalwrench_replay.py",
+      "source_sha256": "d485772bd7df61759b5a439ea1a2b12c78313448f07f06b1f09f5213bedf897f",
+      "migration_status": "included",
+      "destination_sha256": "376bae1f48b69cbf37b2219d07f9d8a37e8ed9c99593f6745e293c9cd2af49cc"
+    },
+    {
+      "source": "dashboards/dashboard.js",
+      "destination": "dashboards/dashboard.js",
+      "source_sha256": "145ebdf26d017f6a78ac1f3b33b7062bb98d59918d440fcd46d7c261e1524958",
+      "migration_status": "included",
+      "destination_sha256": "145ebdf26d017f6a78ac1f3b33b7062bb98d59918d440fcd46d7c261e1524958"
+    },
+    {
+      "source": "dashboards/dashboard.css",
+      "destination": "dashboards/dashboard.css",
+      "source_sha256": "2d16b43b3b9538e6f870d87a222ffcc0530ebd2136503b3191d9af3239570401",
+      "migration_status": "included",
+      "destination_sha256": "2d16b43b3b9538e6f870d87a222ffcc0530ebd2136503b3191d9af3239570401"
+    },
+    {
+      "source": "dashboards/dashboard.html",
+      "destination": "dashboards/dashboard.html",
+      "source_sha256": "5eefbf23c46c5f0f99284540356a5082e4c44e4ea14b27e5ce596422cf4dfcfa",
+      "migration_status": "included",
+      "destination_sha256": "5eefbf23c46c5f0f99284540356a5082e4c44e4ea14b27e5ce596422cf4dfcfa"
+    },
+    {
+      "source": "sales_env/sales_environment.py",
+      "destination": "src/environments/sales_env/sales_environment.py",
+      "source_sha256": "66d06492afec9ae3bb0875990cebb26d60f17545b9fb0a5e8693562cddeb9dd7",
+      "migration_status": "included",
+      "destination_sha256": "1b25eb0f3144d670e3c41e9756e6278b0356413c5e4b08a0493541c7c4f52ae5"
+    },
+    {
+      "source": "steering/terminal_wrench.py",
+      "destination": "src/environments/steering/terminal_wrench.py",
+      "source_sha256": "aecb0665c0bc81e00d0b75fd328c4aadebf743386ed1a74aaf048403ab1385ff",
+      "migration_status": "included",
+      "destination_sha256": "aecb0665c0bc81e00d0b75fd328c4aadebf743386ed1a74aaf048403ab1385ff"
+    },
+    {
+      "source": "steering/sync_modal.py",
+      "destination": "src/environments/steering/sync_modal.py",
+      "source_sha256": "47826dc017446f17c9f1995a2d09fa12eb6b8fed768cb2fde815346d30979fda",
+      "migration_status": "included",
+      "destination_sha256": "47826dc017446f17c9f1995a2d09fa12eb6b8fed768cb2fde815346d30979fda"
+    },
+    {
+      "source": "steering/modal_runner_gpt_oss_once.py",
+      "destination": "src/environments/steering/modal_runner_gpt_oss_once.py",
+      "source_sha256": "bd59d8eef77131e13ef040ae380b61636dd900d26a315bf7855795c823811fc5",
+      "migration_status": "included",
+      "destination_sha256": "bd59d8eef77131e13ef040ae380b61636dd900d26a315bf7855795c823811fc5"
+    },
+    {
+      "source": "steering/__init__.py",
+      "destination": "src/environments/steering/__init__.py",
+      "source_sha256": "b1ec8864a59c8b509f9c44a1f8b52c16aa1a179ea3aba4b429ebf9176001b663",
+      "migration_status": "included",
+      "destination_sha256": "b1ec8864a59c8b509f9c44a1f8b52c16aa1a179ea3aba4b429ebf9176001b663"
+    },
+    {
+      "source": "steering/modal_runner.py",
+      "destination": "src/environments/steering/modal_runner.py",
+      "source_sha256": "fe0e6684c361d8c576716ff89a20f33d7d5503836a2faf7f63404aa040a80be5",
+      "migration_status": "included",
+      "destination_sha256": "fe0e6684c361d8c576716ff89a20f33d7d5503836a2faf7f63404aa040a80be5"
+    },
+    {
+      "source": "steering/run_gpt_oss_once.py",
+      "destination": "src/environments/steering/run_gpt_oss_once.py",
+      "source_sha256": "53026c9578959dff7bc86cdbe3f5b8bcda53210e699e884c2d274462a5cda2ed",
+      "migration_status": "included",
+      "destination_sha256": "53026c9578959dff7bc86cdbe3f5b8bcda53210e699e884c2d274462a5cda2ed"
+    },
+    {
+      "source": "steering/modal_terminal_wrench.py",
+      "destination": "src/environments/steering/modal_terminal_wrench.py",
+      "source_sha256": "e90f9390dcf3b07301c1c045b59144658d94673143fa5347b6cc3e346a00875e",
+      "migration_status": "included",
+      "destination_sha256": "e90f9390dcf3b07301c1c045b59144658d94673143fa5347b6cc3e346a00875e"
+    },
+    {
+      "source": "steering/sales.py",
+      "destination": "src/environments/steering/sales.py",
+      "source_sha256": "5fc04f5e19fcbfe09e0fd8258c173dbb25abb5128bab5014d777b1a87c506a85",
+      "migration_status": "included",
+      "destination_sha256": "5fc04f5e19fcbfe09e0fd8258c173dbb25abb5128bab5014d777b1a87c506a85"
+    },
+    {
+      "source": "steering/probe_replay.py",
+      "destination": "src/environments/steering/probe_replay.py",
+      "source_sha256": "78b445ec4210fd331506c58db01443644066cdd07b2d15b94b2707acf4ff69b2",
+      "migration_status": "included",
+      "destination_sha256": "78b445ec4210fd331506c58db01443644066cdd07b2d15b94b2707acf4ff69b2"
+    },
+    {
+      "source": "steering/run.py",
+      "destination": "src/environments/steering/run.py",
+      "source_sha256": "3a64bdcb30a04e80b07f92939e933e340a7d0e9114e8f3e37bb2aef794f924f7",
+      "migration_status": "included",
+      "destination_sha256": "3a64bdcb30a04e80b07f92939e933e340a7d0e9114e8f3e37bb2aef794f924f7"
+    },
+    {
+      "source": "steering/modal_runner_sales_once.py",
+      "destination": "src/environments/steering/modal_runner_sales_once.py",
+      "source_sha256": "c40daf0afdc3b82ea16ffea4079fbe23f1d1ba19af49f245aaf10cecb757e762",
+      "migration_status": "included",
+      "destination_sha256": "c40daf0afdc3b82ea16ffea4079fbe23f1d1ba19af49f245aaf10cecb757e762"
+    },
+    {
+      "source": "steering/backend.py",
+      "destination": "src/environments/steering/backend.py",
+      "source_sha256": "0cbe36aa8a7b25e9adee35a704ef72e6c06477f1e78784c11e1a1ba6f49bd360",
+      "migration_status": "included",
+      "destination_sha256": "0cbe36aa8a7b25e9adee35a704ef72e6c06477f1e78784c11e1a1ba6f49bd360"
+    },
+    {
+      "source": "steering/sales_plot.py",
+      "destination": "src/environments/steering/sales_plot.py",
+      "source_sha256": "1ef92465b930c6e4b09c14c0a8b9defbe2b9a9f9cc89add21ea8c76506648f6d",
+      "migration_status": "included",
+      "destination_sha256": "1ef92465b930c6e4b09c14c0a8b9defbe2b9a9f9cc89add21ea8c76506648f6d"
+    },
+    {
+      "source": "steering/tracking.py",
+      "destination": "src/environments/steering/tracking.py",
+      "source_sha256": "0f3a69a4b7306c1df6974ec171850403d20855c27c074f0c02e9826c62fcaef5",
+      "migration_status": "included",
+      "destination_sha256": "0f3a69a4b7306c1df6974ec171850403d20855c27c074f0c02e9826c62fcaef5"
+    },
+    {
+      "source": "steering/terminal_wrench_server.py",
+      "destination": "src/environments/steering/terminal_wrench_server.py",
+      "source_sha256": "013a4963db16901123e66d0bb69cccdd57923e3be5fc48656dff035d96bb4a50",
+      "migration_status": "included",
+      "destination_sha256": "013a4963db16901123e66d0bb69cccdd57923e3be5fc48656dff035d96bb4a50"
+    },
+    {
+      "source": "steering/run_once.py",
+      "destination": "src/environments/steering/run_once.py",
+      "source_sha256": "2ae19ed56a07f83620b5ab8b4eda8e4d7fd1632dde4bbc763f10bb9df83eac95",
+      "migration_status": "included",
+      "destination_sha256": "2ae19ed56a07f83620b5ab8b4eda8e4d7fd1632dde4bbc763f10bb9df83eac95"
+    },
+    {
+      "source": "steering/modal_runner_conv1d_resume32.py",
+      "destination": "src/environments/steering/modal_runner_conv1d_resume32.py",
+      "source_sha256": "c2691f834eaa0b6242fd30c9ba0fee3b5dfad89040669a0f7a6be023a9e7abce",
+      "migration_status": "included",
+      "destination_sha256": "c2691f834eaa0b6242fd30c9ba0fee3b5dfad89040669a0f7a6be023a9e7abce"
+    },
+    {
+      "source": "steering/plot_run_emotion_rates.py",
+      "destination": "src/environments/steering/plot_run_emotion_rates.py",
+      "source_sha256": "393e64eb7b618ad57f8cf9d3ae7820bc6de50880709008813b80f512b41acdfa",
+      "migration_status": "included",
+      "destination_sha256": "393e64eb7b618ad57f8cf9d3ae7820bc6de50880709008813b80f512b41acdfa"
+    },
+    {
+      "source": "steering/modal_runner_conv1d.py",
+      "destination": "src/environments/steering/modal_runner_conv1d.py",
+      "source_sha256": "5d47516b5a6b98d3e08e66bce83535e8047ad84c96304ee6c532bc43f3d184ff",
+      "migration_status": "included",
+      "destination_sha256": "5d47516b5a6b98d3e08e66bce83535e8047ad84c96304ee6c532bc43f3d184ff"
+    },
+    {
+      "source": "steering/plot_qwen_combined_rates.py",
+      "destination": "src/environments/steering/plot_qwen_combined_rates.py",
+      "source_sha256": "4195b97152f82531f261543b5aae0eef730d67a11b81c352ac6b05d6a523b473",
+      "migration_status": "included",
+      "destination_sha256": "4195b97152f82531f261543b5aae0eef730d67a11b81c352ac6b05d6a523b473"
+    },
+    {
+      "source": "steering/gpt_oss_generate.py",
+      "destination": "src/environments/steering/gpt_oss_generate.py",
+      "source_sha256": "664dba34a05b3f1452f41002f2906d5a0b56657cb3a50505e950d30a8fc5b0cd",
+      "migration_status": "included",
+      "destination_sha256": "664dba34a05b3f1452f41002f2906d5a0b56657cb3a50505e950d30a8fc5b0cd"
+    },
+    {
+      "source": "steering/modal_runner_once.py",
+      "destination": "src/environments/steering/modal_runner_once.py",
+      "source_sha256": "114bc073a456aa3f4dba26c077392e8ce3962692418157344fc10a02f2ded961",
+      "migration_status": "included",
+      "destination_sha256": "114bc073a456aa3f4dba26c077392e8ce3962692418157344fc10a02f2ded961"
+    },
+    {
+      "source": "steering/gpt_oss_backend.py",
+      "destination": "src/environments/steering/gpt_oss_backend.py",
+      "source_sha256": "afa2ac21de806540b344dfc7ea0e72e378fc8fc4f3f984721df10ea800ddf08b",
+      "migration_status": "included",
+      "destination_sha256": "afa2ac21de806540b344dfc7ea0e72e378fc8fc4f3f984721df10ea800ddf08b"
+    },
+    {
+      "source": "steering/modal_runner_conv1d_resume16.py",
+      "destination": "src/environments/steering/modal_runner_conv1d_resume16.py",
+      "source_sha256": "576df587016d174079e565ef6fd2ace571fe575b056ba9d514f0e3d879c18ab4",
+      "migration_status": "included",
+      "destination_sha256": "576df587016d174079e565ef6fd2ace571fe575b056ba9d514f0e3d879c18ab4"
+    },
+    {
+      "source": "probe-harness/gemma-probes-v1/probe_harness/__init__.py",
+      "destination": "src/experiments/emotion-probes/adapters/gemma27b/probe_harness/__init__.py",
+      "source_sha256": "fd8a329e7e28d7193678180068bc24bf086d14c91e4329b59f9355fa2660b2fd",
+      "migration_status": "included",
+      "destination_sha256": "fd8a329e7e28d7193678180068bc24bf086d14c91e4329b59f9355fa2660b2fd"
+    },
+    {
+      "source": "probe-harness/gemma-probes-v1/probe_harness/cli.py",
+      "destination": "src/experiments/emotion-probes/adapters/gemma27b/probe_harness/cli.py",
+      "source_sha256": "e1694848997c1f4e906ab9d8656790a353d7425c6ea3645bec42891c41feebc8",
+      "migration_status": "included",
+      "destination_sha256": "e1694848997c1f4e906ab9d8656790a353d7425c6ea3645bec42891c41feebc8"
+    },
+    {
+      "source": "probe-harness/gemma-probes-v1/probe_harness/common.py",
+      "destination": "src/experiments/emotion-probes/adapters/gemma27b/probe_harness/common.py",
+      "source_sha256": "8d642919178c3b8df31731058baae55f84d909b750d21690fa6066a6d899eeb2",
+      "migration_status": "included",
+      "destination_sha256": "8d642919178c3b8df31731058baae55f84d909b750d21690fa6066a6d899eeb2"
+    },
+    {
+      "source": "probe-harness/gemma-probes-v1/probe_harness/evaluation.py",
+      "destination": "src/experiments/emotion-probes/adapters/gemma27b/probe_harness/evaluation.py",
+      "source_sha256": "55ae52b281b5e6a10d56d7cb132db70703b7c3d66393644e2f26ee51e94a3594",
+      "migration_status": "included",
+      "destination_sha256": "55ae52b281b5e6a10d56d7cb132db70703b7c3d66393644e2f26ee51e94a3594"
+    },
+    {
+      "source": "probe-harness/gemma-probes-v1/probe_harness/extraction.py",
+      "destination": "src/experiments/emotion-probes/adapters/gemma27b/probe_harness/extraction.py",
+      "source_sha256": "5e7c5b719e01f68f9293f0cd47899eac1f7c6a9fcec65d2b112616e5be7219ad",
+      "migration_status": "included",
+      "destination_sha256": "5e7c5b719e01f68f9293f0cd47899eac1f7c6a9fcec65d2b112616e5be7219ad"
+    },
+    {
+      "source": "probe-harness/gemma-probes-v1/probe_harness/fitting.py",
+      "destination": "src/experiments/emotion-probes/adapters/gemma27b/probe_harness/fitting.py",
+      "source_sha256": "8ca62170f337d7e285592cfe62e00251304b7048ef6414dbaa8bd4104d45e313",
+      "migration_status": "included",
+      "destination_sha256": "8ca62170f337d7e285592cfe62e00251304b7048ef6414dbaa8bd4104d45e313"
+    },
+    {
+      "source": "probe-harness/gemma-probes-v1/probe_harness/rendering.py",
+      "destination": "src/experiments/emotion-probes/adapters/gemma27b/probe_harness/rendering.py",
+      "source_sha256": "e954b78f6399858581d8b4538a758cbb7f39b97b621cdba81ffa90bbf9c50bd5",
+      "migration_status": "included",
+      "destination_sha256": "e954b78f6399858581d8b4538a758cbb7f39b97b621cdba81ffa90bbf9c50bd5"
+    },
+    {
+      "source": "probe-harness/gemma-probes-v1/probe_harness/reporting.py",
+      "destination": "src/experiments/emotion-probes/adapters/gemma27b/probe_harness/reporting.py",
+      "source_sha256": "64b803e1149be3b297b143e490f735ccb7be2ed2393d7e1a58fabeee4c50eabe",
+      "migration_status": "included",
+      "destination_sha256": "64b803e1149be3b297b143e490f735ccb7be2ed2393d7e1a58fabeee4c50eabe"
+    },
+    {
+      "source": "probe-harness/gemma-probes-v1/probe_harness/server.py",
+      "destination": "src/experiments/emotion-probes/adapters/gemma27b/probe_harness/server.py",
+      "source_sha256": "4bb80a36f591ee9124d575b5cf9e35344828970e4086857bf827a565c24704b5",
+      "migration_status": "included",
+      "destination_sha256": "4bb80a36f591ee9124d575b5cf9e35344828970e4086857bf827a565c24704b5"
+    },
+    {
+      "source": "probe-harness/gemma-probes-v1/probe_harness/static/app.js",
+      "destination": "src/experiments/emotion-probes/adapters/gemma27b/probe_harness/static/app.js",
+      "source_sha256": "878d30cdea24e0ca429bddae816473ba8a6226ae34476280bcb957c4e9cc1640",
+      "migration_status": "included",
+      "destination_sha256": "878d30cdea24e0ca429bddae816473ba8a6226ae34476280bcb957c4e9cc1640"
+    },
+    {
+      "source": "probe-harness/gemma-probes-v1/probe_harness/static/index.html",
+      "destination": "src/experiments/emotion-probes/adapters/gemma27b/probe_harness/static/index.html",
+      "source_sha256": "c135a03b0ece3386eb7509f6b7bdb40e41016229b6aa29b141abf6705f69f599",
+      "migration_status": "included",
+      "destination_sha256": "c135a03b0ece3386eb7509f6b7bdb40e41016229b6aa29b141abf6705f69f599"
+    },
+    {
+      "source": "probe-harness/gemma-probes-v1/probe_harness/static/style.css",
+      "destination": "src/experiments/emotion-probes/adapters/gemma27b/probe_harness/static/style.css",
+      "source_sha256": "e5e8664d4f6db1ff5dab9f0076e1541aafcb96e95bab1723739a525d7ceb284c",
+      "migration_status": "included",
+      "destination_sha256": "e5e8664d4f6db1ff5dab9f0076e1541aafcb96e95bab1723739a525d7ceb284c"
+    },
+    {
+      "source": "probe-harness/gemma-probes-v1/probe_harness/statistics.py",
+      "destination": "src/experiments/emotion-probes/adapters/gemma27b/probe_harness/statistics.py",
+      "source_sha256": "a7f3aa54b5919c2fba783381b7f568f652ea300b5d51dff30d6d56ad165bff24",
+      "migration_status": "included",
+      "destination_sha256": "a7f3aa54b5919c2fba783381b7f568f652ea300b5d51dff30d6d56ad165bff24"
+    },
+    {
+      "source": "probe-harness/gemma-probes-v1/requirements-extract.txt",
+      "destination": "src/experiments/emotion-probes/adapters/gemma27b/requirements-extract.txt",
+      "source_sha256": "f5425322fb0def880d51c9f5a4eb8ca7a1747b16303287eca465d5f5097bb792",
+      "migration_status": "included",
+      "destination_sha256": "f5425322fb0def880d51c9f5a4eb8ca7a1747b16303287eca465d5f5097bb792"
+    },
+    {
+      "source": "probe-harness/gemma-probes-v1/pyproject.toml",
+      "destination": "src/experiments/emotion-probes/adapters/gemma27b/pyproject.toml",
+      "source_sha256": "9aee5e8973c6753573ec213f9f14b4223fe9752f3b2d70a3d58484b186b946dc",
+      "migration_status": "included",
+      "destination_sha256": "9aee5e8973c6753573ec213f9f14b4223fe9752f3b2d70a3d58484b186b946dc"
+    },
+    {
+      "source": "probe-harness/gemma-probes-v1/uv.lock",
+      "destination": "src/experiments/emotion-probes/adapters/gemma27b/uv.lock",
+      "source_sha256": "5b6040ea4560b4dafc08c4111b451a005312762cbc096172e60edcdfd352685d",
+      "migration_status": "included",
+      "destination_sha256": "5b6040ea4560b4dafc08c4111b451a005312762cbc096172e60edcdfd352685d"
+    },
+    {
+      "source": "probe-harness/gemma-probes-v1/modal_worker.py",
+      "destination": "src/experiments/emotion-probes/adapters/gemma27b/modal_worker.py",
+      "source_sha256": "9382493b324b5f66a55b26536e39f1a411bacffaa4e54fc1369509a64425ae2f",
+      "migration_status": "included",
+      "destination_sha256": "a284110a5ea939b6ddb202d9039a35e90f8db9ec78e462ad62a09915004bb4a9"
+    },
+    {
+      "source": "probe-harness/gpt-oss-probes-v1/probe_harness/__init__.py",
+      "destination": "src/experiments/emotion-probes/adapters/gptoss120b/probe_harness/__init__.py",
+      "source_sha256": "fd8a329e7e28d7193678180068bc24bf086d14c91e4329b59f9355fa2660b2fd",
+      "migration_status": "included",
+      "destination_sha256": "fd8a329e7e28d7193678180068bc24bf086d14c91e4329b59f9355fa2660b2fd"
+    },
+    {
+      "source": "probe-harness/gpt-oss-probes-v1/probe_harness/cli.py",
+      "destination": "src/experiments/emotion-probes/adapters/gptoss120b/probe_harness/cli.py",
+      "source_sha256": "e85ad542e5f5607cc03bd90930752f38052ab419c5e35e30b63ab3f846dfce9c",
+      "migration_status": "included",
+      "destination_sha256": "e85ad542e5f5607cc03bd90930752f38052ab419c5e35e30b63ab3f846dfce9c"
+    },
+    {
+      "source": "probe-harness/gpt-oss-probes-v1/probe_harness/common.py",
+      "destination": "src/experiments/emotion-probes/adapters/gptoss120b/probe_harness/common.py",
+      "source_sha256": "5b756b311ffbceb30929e1d2803e1468e0f77ab542340d0d665a325e122232cd",
+      "migration_status": "included",
+      "destination_sha256": "5b756b311ffbceb30929e1d2803e1468e0f77ab542340d0d665a325e122232cd"
+    },
+    {
+      "source": "probe-harness/gpt-oss-probes-v1/probe_harness/evaluation.py",
+      "destination": "src/experiments/emotion-probes/adapters/gptoss120b/probe_harness/evaluation.py",
+      "source_sha256": "55ae52b281b5e6a10d56d7cb132db70703b7c3d66393644e2f26ee51e94a3594",
+      "migration_status": "included",
+      "destination_sha256": "55ae52b281b5e6a10d56d7cb132db70703b7c3d66393644e2f26ee51e94a3594"
+    },
+    {
+      "source": "probe-harness/gpt-oss-probes-v1/probe_harness/extraction.py",
+      "destination": "src/experiments/emotion-probes/adapters/gptoss120b/probe_harness/extraction.py",
+      "source_sha256": "a3f28bb14d049f6b85c0c88f7a92966c37025f677ddb1b05157c8bb336ea767b",
+      "migration_status": "included",
+      "destination_sha256": "a3f28bb14d049f6b85c0c88f7a92966c37025f677ddb1b05157c8bb336ea767b"
+    },
+    {
+      "source": "probe-harness/gpt-oss-probes-v1/probe_harness/fitting.py",
+      "destination": "src/experiments/emotion-probes/adapters/gptoss120b/probe_harness/fitting.py",
+      "source_sha256": "8ca62170f337d7e285592cfe62e00251304b7048ef6414dbaa8bd4104d45e313",
+      "migration_status": "included",
+      "destination_sha256": "8ca62170f337d7e285592cfe62e00251304b7048ef6414dbaa8bd4104d45e313"
+    },
+    {
+      "source": "probe-harness/gpt-oss-probes-v1/probe_harness/rendering.py",
+      "destination": "src/experiments/emotion-probes/adapters/gptoss120b/probe_harness/rendering.py",
+      "source_sha256": "f19534747a76a338cb86a8c21b7ac275e2d4b68db443e1b82eff1d92fdcf98fd",
+      "migration_status": "included",
+      "destination_sha256": "f19534747a76a338cb86a8c21b7ac275e2d4b68db443e1b82eff1d92fdcf98fd"
+    },
+    {
+      "source": "probe-harness/gpt-oss-probes-v1/probe_harness/replay_template.jinja",
+      "destination": "src/experiments/emotion-probes/adapters/gptoss120b/probe_harness/replay_template.jinja",
+      "source_sha256": "7e49b790ea14a837974175402cef17233b6bbfa51dc48e07d5aaa0b63df3099e",
+      "migration_status": "included",
+      "destination_sha256": "7e49b790ea14a837974175402cef17233b6bbfa51dc48e07d5aaa0b63df3099e"
+    },
+    {
+      "source": "probe-harness/gpt-oss-probes-v1/probe_harness/reporting.py",
+      "destination": "src/experiments/emotion-probes/adapters/gptoss120b/probe_harness/reporting.py",
+      "source_sha256": "f1bc45d3ddc8db6c4313a203bf7f08207f0e037efa022950ba489a890943503b",
+      "migration_status": "included",
+      "destination_sha256": "f1bc45d3ddc8db6c4313a203bf7f08207f0e037efa022950ba489a890943503b"
+    },
+    {
+      "source": "probe-harness/gpt-oss-probes-v1/probe_harness/server.py",
+      "destination": "src/experiments/emotion-probes/adapters/gptoss120b/probe_harness/server.py",
+      "source_sha256": "3d7ddb0035207aec58720c1f51e4602cdd295d4d915ce803db173eb086d7fad0",
+      "migration_status": "included",
+      "destination_sha256": "3d7ddb0035207aec58720c1f51e4602cdd295d4d915ce803db173eb086d7fad0"
+    },
+    {
+      "source": "probe-harness/gpt-oss-probes-v1/probe_harness/static/app.js",
+      "destination": "src/experiments/emotion-probes/adapters/gptoss120b/probe_harness/static/app.js",
+      "source_sha256": "fbbbfd6ae9c9ecc7007c7822b2130d44279472fb771a1f5d5d70c83655292692",
+      "migration_status": "included",
+      "destination_sha256": "fbbbfd6ae9c9ecc7007c7822b2130d44279472fb771a1f5d5d70c83655292692"
+    },
+    {
+      "source": "probe-harness/gpt-oss-probes-v1/probe_harness/static/index.html",
+      "destination": "src/experiments/emotion-probes/adapters/gptoss120b/probe_harness/static/index.html",
+      "source_sha256": "b56ab530a002d220f986a3844ce56df284823d5825ee9e9f5082855d9ca90fa1",
+      "migration_status": "included",
+      "destination_sha256": "b56ab530a002d220f986a3844ce56df284823d5825ee9e9f5082855d9ca90fa1"
+    },
+    {
+      "source": "probe-harness/gpt-oss-probes-v1/probe_harness/static/style.css",
+      "destination": "src/experiments/emotion-probes/adapters/gptoss120b/probe_harness/static/style.css",
+      "source_sha256": "e5e8664d4f6db1ff5dab9f0076e1541aafcb96e95bab1723739a525d7ceb284c",
+      "migration_status": "included",
+      "destination_sha256": "e5e8664d4f6db1ff5dab9f0076e1541aafcb96e95bab1723739a525d7ceb284c"
+    },
+    {
+      "source": "probe-harness/gpt-oss-probes-v1/probe_harness/statistics.py",
+      "destination": "src/experiments/emotion-probes/adapters/gptoss120b/probe_harness/statistics.py",
+      "source_sha256": "a7f3aa54b5919c2fba783381b7f568f652ea300b5d51dff30d6d56ad165bff24",
+      "migration_status": "included",
+      "destination_sha256": "a7f3aa54b5919c2fba783381b7f568f652ea300b5d51dff30d6d56ad165bff24"
+    },
+    {
+      "source": "probe-harness/gpt-oss-probes-v1/requirements-extract.txt",
+      "destination": "src/experiments/emotion-probes/adapters/gptoss120b/requirements-extract.txt",
+      "source_sha256": "0776b935d193b94a339986f3534ff3c8398716aadcb6d7a239deb2330876f126",
+      "migration_status": "included",
+      "destination_sha256": "0776b935d193b94a339986f3534ff3c8398716aadcb6d7a239deb2330876f126"
+    },
+    {
+      "source": "probe-harness/gpt-oss-probes-v1/pyproject.toml",
+      "destination": "src/experiments/emotion-probes/adapters/gptoss120b/pyproject.toml",
+      "source_sha256": "94d30c492f813bef3a53a26969a8b9c8302c57c9baa21c71ad935ec8d1b350f0",
+      "migration_status": "included",
+      "destination_sha256": "94d30c492f813bef3a53a26969a8b9c8302c57c9baa21c71ad935ec8d1b350f0"
+    },
+    {
+      "source": "probe-harness/gpt-oss-probes-v1/uv.lock",
+      "destination": "src/experiments/emotion-probes/adapters/gptoss120b/uv.lock",
+      "source_sha256": "2956ce633cd30f7a652732732650a2c818f6f5a9267c23493117c6e826e0b493",
+      "migration_status": "included",
+      "destination_sha256": "2956ce633cd30f7a652732732650a2c818f6f5a9267c23493117c6e826e0b493"
+    },
+    {
+      "source": "probe-harness/gpt-oss-probes-v1/modal_worker.py",
+      "destination": "src/experiments/emotion-probes/adapters/gptoss120b/modal_worker.py",
+      "source_sha256": "1585f7fb7b178a2973dc75368ce4b7d4d2e4fb07e4c5c90024d73a2aa605b4f8",
+      "migration_status": "included",
+      "destination_sha256": "4da6c56a7fa4a633be1e0c8c472bcee403fcdac39653fecd4c52cf4e86784199"
+    },
+    {
+      "source": "experiments/gemma27_emotion_denial_20261026/_kit/diagram.css",
+      "destination": "src/experiments/emotion-denial/gemma27b/_kit/diagram.css",
+      "source_sha256": "467cbd2a6bb175d2b78bea73426f7cb6d1cfed3a7f1e5df9c8257d74fd936938",
+      "migration_status": "included",
+      "destination_sha256": "467cbd2a6bb175d2b78bea73426f7cb6d1cfed3a7f1e5df9c8257d74fd936938"
+    },
+    {
+      "source": "experiments/gemma27_emotion_denial_20261026/_kit/figkit.py",
+      "destination": "src/experiments/emotion-denial/gemma27b/_kit/figkit.py",
+      "source_sha256": "f1af34130e9fc6375767988b11900fea6cf650df728e7a859ab7fb80d9e5dfbd",
+      "migration_status": "included",
+      "destination_sha256": "f1af34130e9fc6375767988b11900fea6cf650df728e7a859ab7fb80d9e5dfbd"
+    },
+    {
+      "source": "experiments/gemma27_emotion_denial_20261026/_kit/fonts/Inter-LICENSE.txt",
+      "destination": "src/experiments/emotion-denial/gemma27b/_kit/fonts/Inter-LICENSE.txt",
+      "source_sha256": "262481e844521b326f5ecd053e59b98c8b2da78c8ee1bdbb6e8174305e54935a",
+      "migration_status": "included",
+      "destination_sha256": "262481e844521b326f5ecd053e59b98c8b2da78c8ee1bdbb6e8174305e54935a"
+    },
+    {
+      "source": "experiments/gemma27_emotion_denial_20261026/_kit/fonts/Inter-Regular.ttf",
+      "destination": "src/experiments/emotion-denial/gemma27b/_kit/fonts/Inter-Regular.ttf",
+      "source_sha256": "40d692fce188e4471e2b3cba937be967878f631ad3ebbbdcd587687c7ebe0c82",
+      "migration_status": "included",
+      "destination_sha256": "40d692fce188e4471e2b3cba937be967878f631ad3ebbbdcd587687c7ebe0c82"
+    },
+    {
+      "source": "experiments/gemma27_emotion_denial_20261026/_kit/fonts/Inter-SemiBold.ttf",
+      "destination": "src/experiments/emotion-denial/gemma27b/_kit/fonts/Inter-SemiBold.ttf",
+      "source_sha256": "78a843fade9d4612a5567302fb595b56976eb5fcebf4fea5a5912d638bafcde3",
+      "migration_status": "included",
+      "destination_sha256": "78a843fade9d4612a5567302fb595b56976eb5fcebf4fea5a5912d638bafcde3"
+    },
+    {
+      "source": "experiments/gemma27_emotion_denial_20261026/_kit/summary.css",
+      "destination": "src/experiments/emotion-denial/gemma27b/_kit/summary.css",
+      "source_sha256": "39fb6947d7ddedfa5fef32948d957587a0e114b8de6c94968d71da6f76b0f0bf",
+      "migration_status": "included",
+      "destination_sha256": "39fb6947d7ddedfa5fef32948d957587a0e114b8de6c94968d71da6f76b0f0bf"
+    },
+    {
+      "source": "experiments/gemma27_emotion_denial_20261026/_kit/summary.js",
+      "destination": "src/experiments/emotion-denial/gemma27b/_kit/summary.js",
+      "source_sha256": "7d233df54120d14195ebb2caeaa9a8094434732aa4577cb18091bfa2a815a279",
+      "migration_status": "included",
+      "destination_sha256": "7d233df54120d14195ebb2caeaa9a8094434732aa4577cb18091bfa2a815a279"
+    },
+    {
+      "source": "experiments/gemma27_emotion_denial_20261026/control.py",
+      "destination": "src/experiments/emotion-denial/gemma27b/control.py",
+      "source_sha256": "bc624e4beec04299c171d1e1a2bb2b55fd52efc47d448d5bf9635270d4a196e3",
+      "migration_status": "included",
+      "destination_sha256": "2d2cb2b938e79705e3ad66ba381a183a8e128923fe9e89b44105922052fc2e49"
+    },
+    {
+      "source": "experiments/gemma27_emotion_denial_20261026/figure_prompt_rates.figure.md",
+      "destination": "src/experiments/emotion-denial/gemma27b/figure_prompt_rates.figure.md",
+      "source_sha256": "d5cc7f3ad8ca0c2b336630ecad4fc8eb0a6debec558c71e68b9564301bf1497f",
+      "migration_status": "included",
+      "destination_sha256": "d5cc7f3ad8ca0c2b336630ecad4fc8eb0a6debec558c71e68b9564301bf1497f"
+    },
+    {
+      "source": "experiments/gemma27_emotion_denial_20261026/figure_prompt_rates.py",
+      "destination": "src/experiments/emotion-denial/gemma27b/figure_prompt_rates.py",
+      "source_sha256": "aa40a67683cd544d6c5e997df7b7d8721ff51cc2a3db191611bc5bb4b77068de",
+      "migration_status": "included",
+      "destination_sha256": "0001863aed9bbb0dcf1ec7ac34db537f1b3e71cd39fb172a04b72c790008fc82"
+    },
+    {
+      "source": "experiments/gemma27_emotion_denial_20261026/judge.py",
+      "destination": "src/experiments/emotion-denial/gemma27b/judge.py",
+      "source_sha256": "36e58902ba559fdbb1507201b66248e02c9f4ba741c844009f263eb6619d81ef",
+      "migration_status": "included",
+      "destination_sha256": "bbc440914471876b7bac34586758a9b2c2c28597a9b3e3ec149403b57b6cd48b"
+    },
+    {
+      "source": "experiments/gemma27_emotion_denial_20261026/judge_control.py",
+      "destination": "src/experiments/emotion-denial/gemma27b/judge_control.py",
+      "source_sha256": "c10efe99b63d3d670f90319a44080cd58cb48e9a86d2357065508a09bef7c7db",
+      "migration_status": "included",
+      "destination_sha256": "09b7571ea8904a44a85b134f52ae6bc38e669728515c6577fd88a4b61c3f6a1f"
+    },
+    {
+      "source": "experiments/gemma27_emotion_denial_20261026/run.py",
+      "destination": "src/experiments/emotion-denial/gemma27b/run.py",
+      "source_sha256": "86ac6445dca307f97fef9045ec502889788a4603c648ada9fb3219f08875adfe",
+      "migration_status": "included",
+      "destination_sha256": "cb72d318176a74f830d41aae81e1392193ce36d58d868751c43bb2f8fbc8f56e"
+    },
+    {
+      "source": "experiments/gptoss120b_emotion_denial_20261027/_kit/diagram.css",
+      "destination": "src/experiments/emotion-denial/gptoss120b/_kit/diagram.css",
+      "source_sha256": "467cbd2a6bb175d2b78bea73426f7cb6d1cfed3a7f1e5df9c8257d74fd936938",
+      "migration_status": "included",
+      "destination_sha256": "467cbd2a6bb175d2b78bea73426f7cb6d1cfed3a7f1e5df9c8257d74fd936938"
+    },
+    {
+      "source": "experiments/gptoss120b_emotion_denial_20261027/_kit/figkit.py",
+      "destination": "src/experiments/emotion-denial/gptoss120b/_kit/figkit.py",
+      "source_sha256": "f1af34130e9fc6375767988b11900fea6cf650df728e7a859ab7fb80d9e5dfbd",
+      "migration_status": "included",
+      "destination_sha256": "f1af34130e9fc6375767988b11900fea6cf650df728e7a859ab7fb80d9e5dfbd"
+    },
+    {
+      "source": "experiments/gptoss120b_emotion_denial_20261027/_kit/fonts/Inter-LICENSE.txt",
+      "destination": "src/experiments/emotion-denial/gptoss120b/_kit/fonts/Inter-LICENSE.txt",
+      "source_sha256": "262481e844521b326f5ecd053e59b98c8b2da78c8ee1bdbb6e8174305e54935a",
+      "migration_status": "included",
+      "destination_sha256": "262481e844521b326f5ecd053e59b98c8b2da78c8ee1bdbb6e8174305e54935a"
+    },
+    {
+      "source": "experiments/gptoss120b_emotion_denial_20261027/_kit/fonts/Inter-Regular.ttf",
+      "destination": "src/experiments/emotion-denial/gptoss120b/_kit/fonts/Inter-Regular.ttf",
+      "source_sha256": "40d692fce188e4471e2b3cba937be967878f631ad3ebbbdcd587687c7ebe0c82",
+      "migration_status": "included",
+      "destination_sha256": "40d692fce188e4471e2b3cba937be967878f631ad3ebbbdcd587687c7ebe0c82"
+    },
+    {
+      "source": "experiments/gptoss120b_emotion_denial_20261027/_kit/fonts/Inter-SemiBold.ttf",
+      "destination": "src/experiments/emotion-denial/gptoss120b/_kit/fonts/Inter-SemiBold.ttf",
+      "source_sha256": "78a843fade9d4612a5567302fb595b56976eb5fcebf4fea5a5912d638bafcde3",
+      "migration_status": "included",
+      "destination_sha256": "78a843fade9d4612a5567302fb595b56976eb5fcebf4fea5a5912d638bafcde3"
+    },
+    {
+      "source": "experiments/gptoss120b_emotion_denial_20261027/_kit/summary.css",
+      "destination": "src/experiments/emotion-denial/gptoss120b/_kit/summary.css",
+      "source_sha256": "39fb6947d7ddedfa5fef32948d957587a0e114b8de6c94968d71da6f76b0f0bf",
+      "migration_status": "included",
+      "destination_sha256": "39fb6947d7ddedfa5fef32948d957587a0e114b8de6c94968d71da6f76b0f0bf"
+    },
+    {
+      "source": "experiments/gptoss120b_emotion_denial_20261027/_kit/summary.js",
+      "destination": "src/experiments/emotion-denial/gptoss120b/_kit/summary.js",
+      "source_sha256": "7d233df54120d14195ebb2caeaa9a8094434732aa4577cb18091bfa2a815a279",
+      "migration_status": "included",
+      "destination_sha256": "7d233df54120d14195ebb2caeaa9a8094434732aa4577cb18091bfa2a815a279"
+    },
+    {
+      "source": "experiments/gptoss120b_emotion_denial_20261027/figure_prompt_rates.figure.md",
+      "destination": "src/experiments/emotion-denial/gptoss120b/figure_prompt_rates.figure.md",
+      "source_sha256": "5623363b5d9d4a01972638d1f7a2fb2590bf9f7982c28bdc197dd1e2a5b6f956",
+      "migration_status": "included",
+      "destination_sha256": "5623363b5d9d4a01972638d1f7a2fb2590bf9f7982c28bdc197dd1e2a5b6f956"
+    },
+    {
+      "source": "experiments/gptoss120b_emotion_denial_20261027/figure_prompt_rates.py",
+      "destination": "src/experiments/emotion-denial/gptoss120b/figure_prompt_rates.py",
+      "source_sha256": "dfa1853ae05980edb0556d7d11bc141c68f7054d66a9a092dfa61703c5cd2d40",
+      "migration_status": "included",
+      "destination_sha256": "ad4c3b6f36221aa0bd15493839390063a56c870d333214099709f820f1e1dd5b"
+    },
+    {
+      "source": "experiments/gptoss120b_emotion_denial_20261027/judge.py",
+      "destination": "src/experiments/emotion-denial/gptoss120b/judge.py",
+      "source_sha256": "5ba458bb030c5bbafd1d4cde4b694a6a5acd9ded301f3b6bedb98d0676481d53",
+      "migration_status": "included",
+      "destination_sha256": "d09526e3d2b65e5de8b277570a63af47c077bacd02cf85bc54fcec8a9c97a287"
+    },
+    {
+      "source": "experiments/gptoss120b_emotion_denial_20261027/judge_baseline.py",
+      "destination": "src/experiments/emotion-denial/gptoss120b/judge_baseline.py",
+      "source_sha256": "ca4b30735a8ebb78c7f661b5b45abc05b1c4cf3ab89b0f46c882b2de0e24687e",
+      "migration_status": "included",
+      "destination_sha256": "ec4aa53569f3a26be9867a57d7e58671e299a50bba2e58b0cf0625c3c664032a"
+    },
+    {
+      "source": "experiments/gptoss120b_emotion_denial_20261027/run.py",
+      "destination": "src/experiments/emotion-denial/gptoss120b/run.py",
+      "source_sha256": "3c2d7f39a0eb28b648b78bc1b1678ad9b4cf9ad09ecf6f75dadf526e224c7748",
+      "migration_status": "included",
+      "destination_sha256": "e944d57b729ccd7581d40e18ec9b33b93ed4b7c406f6b8c8381c0337b3c09c45"
+    },
+    {
+      "source": "experiments/emotion_pressure_resistance_20261102/pressure_core.py",
+      "destination": "src/experiments/emotion-pressure/pressure_core.py",
+      "source_sha256": "7ab0c96090964ae486dbd0fd5bcf8e5f41f324ef235e8b589de56a29b9e04cb7",
+      "migration_status": "included",
+      "destination_sha256": "1252cddf01f8c26aef22aa55345f2579be0cbe91b070ddac322024f99c491f8a"
+    },
+    {
+      "source": "experiments/emotion_pressure_resistance_20261102/verify.py",
+      "destination": "src/experiments/emotion-pressure/verify.py",
+      "source_sha256": "968573738008b73cb5bc388b23471fc5f95ff8b04e4d87f8495ca6e5e06a8959",
+      "migration_status": "included",
+      "destination_sha256": "03be64949fe56e718778d922b85082cdceffd7e5654051fd629aecfc5dc2c647"
+    },
+    {
+      "source": "experiments/emotion_pressure_resistance_20261102/build_report.py",
+      "destination": "src/experiments/emotion-pressure/build_report.py",
+      "source_sha256": "7d317a6615fd86cdbd1906d174d500d7c6ae12dbdfb74813e1e753c483d6cbaf",
+      "migration_status": "included",
+      "destination_sha256": "15b3ba02fd28a25d4b60c8f823c6226bfdc53224a62ceaf7794588a6766be638"
+    },
+    {
+      "source": "experiments/emotion_pressure_resistance_20261102/check_viewer.py",
+      "destination": "src/experiments/emotion-pressure/check_viewer.py",
+      "source_sha256": "90a5a010d5675cf4f20092b7e68b793429d1403dd670f7847381af6d19f916d2",
+      "migration_status": "included",
+      "destination_sha256": "ad9a603ba58da1cf49103116df1b5c559a1f32cbff3b8e56222a725f22714c39"
+    },
+    {
+      "source": "experiments/emotion_pressure_resistance_20261102/_kit/figkit.py",
+      "destination": "src/experiments/emotion-pressure/_kit/figkit.py",
+      "source_sha256": "f1af34130e9fc6375767988b11900fea6cf650df728e7a859ab7fb80d9e5dfbd",
+      "migration_status": "included",
+      "destination_sha256": "f1af34130e9fc6375767988b11900fea6cf650df728e7a859ab7fb80d9e5dfbd"
+    },
+    {
+      "source": "experiments/emotion_pressure_resistance_20261102/_kit/fonts/Inter-LICENSE.txt",
+      "destination": "src/experiments/emotion-pressure/_kit/fonts/Inter-LICENSE.txt",
+      "source_sha256": "262481e844521b326f5ecd053e59b98c8b2da78c8ee1bdbb6e8174305e54935a",
+      "migration_status": "included",
+      "destination_sha256": "262481e844521b326f5ecd053e59b98c8b2da78c8ee1bdbb6e8174305e54935a"
+    },
+    {
+      "source": "experiments/emotion_pressure_resistance_20261102/_kit/fonts/Inter-Regular.ttf",
+      "destination": "src/experiments/emotion-pressure/_kit/fonts/Inter-Regular.ttf",
+      "source_sha256": "40d692fce188e4471e2b3cba937be967878f631ad3ebbbdcd587687c7ebe0c82",
+      "migration_status": "included",
+      "destination_sha256": "40d692fce188e4471e2b3cba937be967878f631ad3ebbbdcd587687c7ebe0c82"
+    },
+    {
+      "source": "experiments/emotion_pressure_resistance_20261102/_kit/fonts/Inter-SemiBold.ttf",
+      "destination": "src/experiments/emotion-pressure/_kit/fonts/Inter-SemiBold.ttf",
+      "source_sha256": "78a843fade9d4612a5567302fb595b56976eb5fcebf4fea5a5912d638bafcde3",
+      "migration_status": "included",
+      "destination_sha256": "78a843fade9d4612a5567302fb595b56976eb5fcebf4fea5a5912d638bafcde3"
+    },
+    {
+      "source": "output/task-average-emotion-traces-20261027/make_gallery.py",
+      "destination": "src/experiments/emotion-traces/task-averages/make_gallery.py",
+      "source_sha256": "dbbcb01ce297c0a8f4dc6809b1c3ee68617994f7bf6e956360d6003a19f7fbaa",
+      "migration_status": "included",
+      "destination_sha256": "d910353e6200051f3c225d1ede574d83b63500604e9f7103b6754e00e3ed0571"
+    },
+    {
+      "source": "output/task-average-emotion-traces-20261027/build_data.py",
+      "destination": "src/experiments/emotion-traces/task-averages/build_data.py",
+      "source_sha256": "5e7b5dd30593cc3bb8c81e8070f9f44c22cde9363ce714fa6ebb5c70b12d449f",
+      "migration_status": "included",
+      "destination_sha256": "18c77ff6183ccf2c3612203cb3a28f8b59e847874f5ad27ec33660a663d5a9de"
+    },
+    {
+      "source": "output/task-average-emotion-traces-20261027/render_guilty.py",
+      "destination": "src/experiments/emotion-traces/task-averages/render_guilty.py",
+      "source_sha256": "aecc31bb611babc5249f9836c83edf89a865ea430201cf87fb3fefcefddf2652",
+      "migration_status": "included",
+      "destination_sha256": "77d5dbb3106d194c3e261fa8483c53eceabcfa5c44a5d26090cbcb2c03a143c0"
+    },
+    {
+      "source": "output/model-dataset-emotion-spikes-20261101/select.py",
+      "destination": "src/experiments/emotion-traces/spikes/select.py",
+      "source_sha256": "d36dd38b8171b113672ed2dc61417f750a7fb0142dea37523f717e39526fc941",
+      "migration_status": "replaced_by_portable_interface"
+    },
+    {
+      "source": "output/model-dataset-emotion-spikes-20261101/verify_complete.py",
+      "destination": "src/experiments/emotion-traces/spikes/verify_complete.py",
+      "source_sha256": "1c79d0b49ebb06e3d1ff524ebc013cb7d5a9b4178482831bcfd1ff8a25e36e99",
+      "migration_status": "included",
+      "destination_sha256": "6c41ec2b95a74419cb2b7833e6832d4c69e210cdde1363c5e5719abbf915c9da"
+    },
+    {
+      "source": "output/model-dataset-emotion-spikes-20261101/search_stronger_coding.py",
+      "destination": "src/experiments/emotion-traces/spikes/search_stronger_coding.py",
+      "source_sha256": "8e16caa63fabea6042d59ce79047181a2b725db819bc19f92273ac803009be0e",
+      "migration_status": "included",
+      "destination_sha256": "004f1d4f36d4a82b0e657dc3d86fad8a80a10147707a60852bc6e985dbd35d2f"
+    },
+    {
+      "source": "output/model-dataset-emotion-spikes-20261101/render.py",
+      "destination": "src/experiments/emotion-traces/spikes/render.py",
+      "source_sha256": "59bb012cdbaabb4cc209735ace3a5c189a00efe84b23caae6f6c1eecbc6d807b",
+      "migration_status": "included",
+      "destination_sha256": "2f48f44b427d5133d93c90f6eadd568159edf7e1bf68828902cde2547c9fd99a"
+    },
+    {
+      "source": "output/model-dataset-emotion-spikes-20261101/prepare_missing.py",
+      "destination": "src/experiments/emotion-traces/spikes/prepare_missing.py",
+      "source_sha256": "0aa4e6d0d22769b1c195c6f8668763d113786f9d0936b2cb25c5943f64346690",
+      "migration_status": "included",
+      "destination_sha256": "c73affc9ae144eb151c972749bc50189c6132bd20223b17452bb7120de5585f1"
+    },
+    {
+      "source": "output/model-dataset-emotion-spikes-20261101/load_missing.py",
+      "destination": "src/experiments/emotion-traces/spikes/load_missing.py",
+      "source_sha256": "262349769275ebfb07c37de55e59eaba340d54d9e4975d6dd6382a32330f1504",
+      "migration_status": "included",
+      "destination_sha256": "db07db58179c49a10bbb28e82f14e686cbd4f437b15a3b96d24baf59eecfa5cb"
+    },
+    {
+      "source": "output/model-dataset-emotion-spikes-20261101/_kit/figkit.py",
+      "destination": "src/experiments/emotion-traces/spikes/_kit/figkit.py",
+      "source_sha256": "f1af34130e9fc6375767988b11900fea6cf650df728e7a859ab7fb80d9e5dfbd",
+      "migration_status": "included",
+      "destination_sha256": "f1af34130e9fc6375767988b11900fea6cf650df728e7a859ab7fb80d9e5dfbd"
+    },
+    {
+      "source": "output/model-dataset-emotion-spikes-20261101/_kit/fonts/Inter-LICENSE.txt",
+      "destination": "src/experiments/emotion-traces/spikes/_kit/fonts/Inter-LICENSE.txt",
+      "source_sha256": "262481e844521b326f5ecd053e59b98c8b2da78c8ee1bdbb6e8174305e54935a",
+      "migration_status": "included",
+      "destination_sha256": "262481e844521b326f5ecd053e59b98c8b2da78c8ee1bdbb6e8174305e54935a"
+    },
+    {
+      "source": "output/model-dataset-emotion-spikes-20261101/_kit/fonts/Inter-Regular.ttf",
+      "destination": "src/experiments/emotion-traces/spikes/_kit/fonts/Inter-Regular.ttf",
+      "source_sha256": "40d692fce188e4471e2b3cba937be967878f631ad3ebbbdcd587687c7ebe0c82",
+      "migration_status": "included",
+      "destination_sha256": "40d692fce188e4471e2b3cba937be967878f631ad3ebbbdcd587687c7ebe0c82"
+    },
+    {
+      "source": "output/model-dataset-emotion-spikes-20261101/_kit/fonts/Inter-SemiBold.ttf",
+      "destination": "src/experiments/emotion-traces/spikes/_kit/fonts/Inter-SemiBold.ttf",
+      "source_sha256": "78a843fade9d4612a5567302fb595b56976eb5fcebf4fea5a5912d638bafcde3",
+      "migration_status": "included",
+      "destination_sha256": "78a843fade9d4612a5567302fb595b56976eb5fcebf4fea5a5912d638bafcde3"
+    },
+    {
+      "source": "output/self-report-correlations-pooled-20261102/render.py",
+      "destination": "src/experiments/emotion-self-report/pooled/render.py",
+      "source_sha256": "49f52fcc0d6e48d14e70e5f48164faf0bd1443252e7504a93f7b5928138a6594",
+      "migration_status": "included",
+      "destination_sha256": "ababab0677dbabe94f7c5c0fb8c9fd344ed8e221ca0ce35a9ec47abaf392c6df"
+    },
+    {
+      "source": "output/self-report-correlations-pooled-20261102/calculate.py",
+      "destination": "src/experiments/emotion-self-report/pooled/calculate.py",
+      "source_sha256": "5fe1762e9a8065cada9cd7f50c4d9dcbde3d7d793e306452af63ee80d2cc468f",
+      "migration_status": "included",
+      "destination_sha256": "5c3bced19f33870d2062248e6e02aa425d1fb3e29519461e6cb40b784d89ee64"
+    },
+    {
+      "source": "LICENSE",
+      "destination": "LICENSE",
+      "source_sha256": "b6ba0f55456a2e14df606ba8a8768f55c07ef10ba1f2f3d323c6bab28396ba98",
+      "migration_status": "included",
+      "destination_sha256": "b6ba0f55456a2e14df606ba8a8768f55c07ef10ba1f2f3d323c6bab28396ba98"
+    }
+  ],
+  "layout": "src/experiments/<experiment>"
+}

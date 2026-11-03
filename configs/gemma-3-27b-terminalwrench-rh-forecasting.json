@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "experiment": "emotion-rh-forecasting",
+  "run_id": "gemma-3-27b-terminalwrench-pilot50-v1",
+  "title": "Gemma 27B \u00b7 TerminalWrench",
+  "probe_bundle": "../runs/emotion-rh-replay/gemma-3-27b-terminalwrench-best12-pilot50-v2/probes.json",
+  "dataset": {
+    "format": "token-replay-v1",
+    "path": "../runs/emotion-rh-replay/gemma-3-27b-terminalwrench-best12-pilot50-v2"
+  },
+  "scoring": {
+    "backend": "cached"
+  },
+  "evaluation": {
+    "method": "provided"
+  },
+  "seed": 20261021,
+  "repeats": 2000
+}

@@ -1,0 +1,1 @@
+"""Sales specification-gaming environment."""

@@ -1,0 +1,20 @@
+{
+  "experiment": "emotion-steering",
+  "run_id": "gemma-3-4b-coding-steering-pilot-v2",
+  "model": "gemma-3-4b",
+  "dataset": "../src/experiments/emotion-steering/data/coding-smoke.json",
+  "probe_bundle": "../data/probes/gemma4b",
+  "emotions": [
+    "guilty"
+  ],
+  "strengths": [
+    -0.1,
+    0.1
+  ],
+  "samples": 4,
+  "executor": "modal",
+  "max_new_tokens": 4096,
+  "max_turns": 8,
+  "judge_workers": 8,
+  "batch_size": 12
+}

@@ -1,0 +1,19 @@
+{
+  "experiment": "emotion-steering",
+  "run_id": "gpt-oss-120b-steering-all-emotions-audit-v1",
+  "model": "gpt-oss-120b",
+  "dataset": "../src/experiments/emotion-steering/data/coding.json",
+  "strengths": [
+    -0.1,
+    -0.05,
+    0.05,
+    0.1
+  ],
+  "samples": 4,
+  "max_new_tokens": 400,
+  "mode": "audit-existing",
+  "judge_workers": 8,
+  "historical_run": "../../../steering/runs/gpt-oss-120b-rh-emotion-sweep-pm005-pm010-mixbest-pooled-b96-20261016",
+  "reuse_judgments_from": "../../../experiment-results/emotion-steering/gpt-oss-120b-steering-historical-audit-v3",
+  "probe_bundle": "../data/probes/gptoss120b"
+}

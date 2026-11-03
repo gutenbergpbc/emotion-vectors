@@ -1,0 +1,18 @@
+{
+  "experiment": "emotion-rh-forecasting",
+  "run_id": "gpt-oss-120b-terminalwrench-deepseek-balanced50-v1",
+  "title": "GPT-OSS 120B \u00b7 TerminalWrench",
+  "probe_bundle": "../runs/emotion-rh-replay/gpt-oss-120b-terminalwrench-deepseek-balanced50-best12-v1/probes.json",
+  "dataset": {
+    "format": "token-replay-v1",
+    "path": "../runs/emotion-rh-replay/gpt-oss-120b-terminalwrench-deepseek-balanced50-best12-v1"
+  },
+  "scoring": {
+    "backend": "cached"
+  },
+  "evaluation": {
+    "method": "provided"
+  },
+  "seed": 20261022,
+  "repeats": 2000
+}
